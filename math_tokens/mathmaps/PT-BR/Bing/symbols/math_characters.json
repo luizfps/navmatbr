@@ -1,0 +1,386 @@
+[
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu capital c",
+                "alternative": "dupla atingiu capital c",
+                "short": "cap golpeado duplo c"
+            }
+        },
+        "key": "2102"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "roteiro g pequeno",
+                "short": "roteiro g"
+            }
+        },
+        "key": "210A"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "script de capital h",
+                "alternative": "roteiro h",
+                "short": "roteiro cap h"
+            }
+        },
+        "key": "210B"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "black letra maiuscula h",
+                "alternative": "black letra h",
+                "short": "letra preta tampa h"
+            }
+        },
+        "key": "210C"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla atingiu capital h",
+                "alternative": "double h atingida",
+                "short": "cap golpeado duplo h"
+            }
+        },
+        "key": "210D"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico h pequeno",
+                "alternative": "em itálico h pequeno",
+                "short": "h em itálico"
+            },
+            "physics": {
+                "default": "planck constant"
+            }
+        },
+        "key": "210E"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital de script eu",
+                "alternative": "eu script",
+                "short": "script de cap eu"
+            }
+        },
+        "key": "2110"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "black letra maiuscula eu",
+                "alternative": "preto-letra i",
+                "short": "carta de black cap eu"
+            }
+        },
+        "key": "2111"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "script de capital l",
+                "alternative": "roteiro l",
+                "short": "l de tampão de roteiro"
+            }
+        },
+        "key": "2112"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "roteiro l pequeno",
+                "short": "roteiro l"
+            }
+        },
+        "key": "2113"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla atingiu capital n",
+                "alternative": "duplo n golpeado",
+                "short": "cap golpeado duplo n"
+            }
+        },
+        "key": "2115"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "script p capital",
+                "alternative": "roteiro p",
+                "short": "roteiro cap p"
+            }
+        },
+        "key": "2118"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "casal atingido p capital",
+                "alternative": "casal atingido p",
+                "short": "casal atingido cap p"
+            }
+        },
+        "key": "2119"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "casal atingido q capital",
+                "alternative": "q batida dupla",
+                "short": "q dupla golpeado cap"
+            }
+        },
+        "key": "211A"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "r capital de roteiro",
+                "alternative": "roteiro r",
+                "short": "r cap de roteiro"
+            }
+        },
+        "key": "211B"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "r capital letra preta",
+                "alternative": "black letra r",
+                "short": "carta de black cap r"
+            }
+        },
+        "key": "211C"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla atingiu capital r",
+                "alternative": "duplo r atingida",
+                "short": "r cap golpeado duplo"
+            }
+        },
+        "key": "211D"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla atingiu capital z",
+                "alternative": "double z golpeado",
+                "short": "cap golpeado duplo z"
+            }
+        },
+        "key": "2124"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital z letra preta",
+                "alternative": "black letra z",
+                "short": "carta de black cap z"
+            }
+        },
+        "key": "2128"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "b capital de roteiro",
+                "alternative": "roteiro b",
+                "short": "b tampa de roteiro"
+            }
+        },
+        "key": "212C"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "c capital letra preta",
+                "alternative": "c letra preta",
+                "short": "letra preta tampa c"
+            }
+        },
+        "key": "212D"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "script e pequena",
+                "short": "roteiro e"
+            }
+        },
+        "key": "212F"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital e roteiro",
+                "alternative": "roteiro e",
+                "short": "script e cap"
+            }
+        },
+        "key": "2130"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "f capital de roteiro",
+                "alternative": "roteiro f",
+                "short": "roteiro cap f"
+            }
+        },
+        "key": "2131"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "roteiro capital m",
+                "alternative": "roteiro m",
+                "short": "roteiro cap m"
+            }
+        },
+        "key": "2133"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "o pequeno script",
+                "short": "o roteiro"
+            }
+        },
+        "key": "2134"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "casal atingido pequeno pi",
+                "short": "pi golpeado duplo"
+            }
+        },
+        "key": "213C"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "casal atingido pequena gama",
+                "short": "gama de batida dupla"
+            }
+        },
+        "key": "213D"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla atingiu capital gama",
+                "short": "gama de cap golpeado duplo"
+            }
+        },
+        "key": "213E"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla atingiu capital pi",
+                "short": "pi cap golpeado duplo"
+            }
+        },
+        "key": "213F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "casal atingido somatório ário n"
+            }
+        },
+        "key": "2140"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "casal atingido em itálico capital d",
+                "short": "casal atingido em itálico cap d"
+            }
+        },
+        "key": "2145"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "casal atingido itálico pequeno d",
+                "short": "casal atingido d itálico"
+            }
+        },
+        "key": "2146"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "casal atingido em itálico e pequena",
+                "short": "casal atingido em itálico e"
+            }
+        },
+        "key": "2147"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dobro atingido em itálico pequeno eu",
+                "short": "casal atingido em itálico eu"
+            }
+        },
+        "key": "2148"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "casal atingido itálico pequeno j",
+                "short": "casal atingido em itálico j"
+            }
+        },
+        "key": "2149"
+    }
+]

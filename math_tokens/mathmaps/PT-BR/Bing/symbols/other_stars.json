@@ -1,0 +1,529 @@
+[
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "símbolo de expoente decimal"
+            }
+        },
+        "key": "23E8"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "estrela negra"
+            }
+        },
+        "key": "2605"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "estrela branca"
+            }
+        },
+        "key": "2606"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "círculo branco médio",
+                "short": "círculo branco"
+            }
+        },
+        "key": "26AA"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "círculo preto médio",
+                "short": "círculo preto"
+            }
+        },
+        "key": "26AB"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "marca de verificação branca pesada",
+                "short": "seleção branca"
+            }
+        },
+        "key": "2705"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "marca de seleção",
+                "short": "verifique"
+            }
+        },
+        "key": "2713"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "marca de seleção pesada",
+                "short": "verificação de pesados"
+            }
+        },
+        "key": "2714"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "multiplicação x"
+            }
+        },
+        "key": "2715"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "multiplicação pesada x"
+            }
+        },
+        "key": "2716"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "cédula x"
+            }
+        },
+        "key": "2717"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "cédula pesada x"
+            }
+        },
+        "key": "2718"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "abrir o centro cruz"
+            }
+        },
+        "key": "271B"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "centro aberto pesado cruz"
+            }
+        },
+        "key": "271C"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "cruz de malta"
+            }
+        },
+        "key": "2720"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "estrela de davi"
+            }
+        },
+        "key": "2721"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "raiadas asterisco quatro lágrima"
+            }
+        },
+        "key": "2722"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "raiadas asterisco quatro balão"
+            }
+        },
+        "key": "2723"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "raiadas asterisco pesado quatro balão"
+            }
+        },
+        "key": "2724"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "raiadas asterisco quatro clube"
+            }
+        },
+        "key": "2725"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "estrela de pontas de quatro preto"
+            }
+        },
+        "key": "2726"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "estrela de pontas branco quatro"
+            }
+        },
+        "key": "2727"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "brilhos"
+            }
+        },
+        "key": "2728"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "estresse delineou estrela branca"
+            }
+        },
+        "key": "2729"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "um círculo branca estrela"
+            }
+        },
+        "key": "272A"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "estrela de centro aberto preto"
+            }
+        },
+        "key": "272B"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "estrela negra centro branco"
+            }
+        },
+        "key": "272C"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "delineou a estrela negra"
+            }
+        },
+        "key": "272D"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "pesado delineou a estrela negra"
+            }
+        },
+        "key": "272E"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "estrela de cata-vento"
+            }
+        },
+        "key": "272F"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "estrela branca sombreada"
+            }
+        },
+        "key": "2730"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "asterisco pesado"
+            }
+        },
+        "key": "2731"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "asterisco de centro aberto"
+            }
+        },
+        "key": "2732"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "oito asterisco raiadas"
+            }
+        },
+        "key": "2733"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "oito pontas estrela negra"
+            }
+        },
+        "key": "2734"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "estrela de cata-vento oito pontas"
+            }
+        },
+        "key": "2735"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seis pontas estrela negra"
+            }
+        },
+        "key": "2736"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "doze pontas estrela negra"
+            }
+        },
+        "key": "2739"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "dezesseis anos apontam asterisco"
+            }
+        },
+        "key": "273A"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "asterisco raiadas de lágrima"
+            }
+        },
+        "key": "273B"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "asterisco raiadas de centro aberto lágrima"
+            }
+        },
+        "key": "273C"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "raiadas asterisco pesado de teardrop"
+            }
+        },
+        "key": "273D"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seis pétalas florette preto e branco"
+            }
+        },
+        "key": "273E"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "florette preto"
+            }
+        },
+        "key": "273F"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "florette branco"
+            }
+        },
+        "key": "2740"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "oito pétalas delineado preto florette"
+            }
+        },
+        "key": "2741"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "um círculo de oito estrelas pontudas de centro aberto"
+            }
+        },
+        "key": "2742"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "asterisco de catavento raiadas de lágrima pesada"
+            }
+        },
+        "key": "2743"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "floco de neve"
+            }
+        },
+        "key": "2744"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "floco de neve trifólio apertado"
+            }
+        },
+        "key": "2745"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "floco de neve pesada chevron"
+            }
+        },
+        "key": "2746"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "sparkle"
+            }
+        },
+        "key": "2747"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "sparkle pesado"
+            }
+        },
+        "key": "2748"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "asterisco raiadas de balão"
+            }
+        },
+        "key": "2749"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "asterisco de raiadas hélice de oito teardrop"
+            }
+        },
+        "key": "274A"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "lágrima de oito pesado raiadas asterisco de hélice"
+            }
+        },
+        "key": "274B"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "cruz"
+            }
+        },
+        "key": "274C"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "círculo branco sombreado"
+            }
+        },
+        "key": "274D"
+    }
+]

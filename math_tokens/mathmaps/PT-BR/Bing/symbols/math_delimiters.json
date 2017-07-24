@@ -1,0 +1,1696 @@
+[
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "parêntese esquerdo",
+                "alternative": "parêntese de abertura"
+            }
+        },
+        "key": "0028"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "parêntese direito",
+                "alternative": "parêntese de fechamento"
+            }
+        },
+        "key": "0029"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "colchete esquerdo",
+                "alternative": "colchete de abertura"
+            }
+        },
+        "key": "005B"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "colchete direito",
+                "alternative": "colchete de fechamento"
+            }
+        },
+        "key": "005D"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "colchete esquerdo encaracolado",
+                "alternative": "abertura de chaveta"
+            }
+        },
+        "key": "007B"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "bem chaveta",
+                "alternative": "chaveta de fecho"
+            }
+        },
+        "key": "007D"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "colchete esquerdo com o quill"
+            }
+        },
+        "key": "2045"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "colchete direito com pena"
+            }
+        },
+        "key": "2046"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "esquerdo do teto"
+            }
+        },
+        "key": "2308"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "mesmo teto"
+            }
+        },
+        "key": "2309"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "andar à esquerda"
+            }
+        },
+        "key": "230A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "andar certo"
+            }
+        },
+        "key": "230B"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "colheita de direita inferior"
+            }
+        },
+        "key": "230C"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "cultura de esquerda inferior"
+            }
+        },
+        "key": "230D"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "superior direita colheita"
+            }
+        },
+        "key": "230E"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "superior esquerda colheita"
+            }
+        },
+        "key": "230F"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "canto superior esquerdo"
+            }
+        },
+        "key": "231C"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "canto superior direito"
+            }
+        },
+        "key": "231D"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "canto inferior esquerdo"
+            }
+        },
+        "key": "231E"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "no canto inferior direito"
+            }
+        },
+        "key": "231F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "top meio integral"
+            }
+        },
+        "key": "2320"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "integral de meio fundo"
+            }
+        },
+        "key": "2321"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "colchete esquerdo de apontador",
+                "alternative": "sutiã"
+            }
+        },
+        "key": "2329"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "colchete de ângulo direito apontador",
+                "alternative": "ket"
+            }
+        },
+        "key": "232A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "gancho superior parêntese esquerdo"
+            }
+        },
+        "key": "239B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "extensão de parêntese esquerdo"
+            }
+        },
+        "key": "239C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "gancho inferior de parêntese esquerdo"
+            }
+        },
+        "key": "239D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "gancho superior parêntese direito"
+            }
+        },
+        "key": "239E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "extensão de parêntese direito"
+            }
+        },
+        "key": "239F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "gancho inferior de parêntese direito"
+            }
+        },
+        "key": "23A0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "colchete esquerdo de canto superior"
+            }
+        },
+        "key": "23A1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "extensão de colchete esquerdo"
+            }
+        },
+        "key": "23A2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "colchete esquerdo no canto inferior"
+            }
+        },
+        "key": "23A3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "canto superior direito colchete"
+            }
+        },
+        "key": "23A4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "extensão de colchete direito"
+            }
+        },
+        "key": "23A5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "no canto inferior direito colchete"
+            }
+        },
+        "key": "23A6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "gancho superior esquerdo chaveta"
+            }
+        },
+        "key": "23A7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "peça do meio esquerdo chaveta"
+            }
+        },
+        "key": "23A8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "gancho inferior esquerdo chaveta"
+            }
+        },
+        "key": "23A9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "extensão de chaveta"
+            }
+        },
+        "key": "23AA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "gancho superior direita chaveta"
+            }
+        },
+        "key": "23AB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "peça do meio bem chaveta"
+            }
+        },
+        "key": "23AC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "gancho inferior direita chaveta"
+            }
+        },
+        "key": "23AD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "extensão integral"
+            }
+        },
+        "key": "23AE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "extensão de linha horizontal"
+            }
+        },
+        "key": "23AF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "superior esquerda ou diminuir a seção direita chaveta"
+            }
+        },
+        "key": "23B0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "superior direito ou inferior esquerdo seção chaveta"
+            }
+        },
+        "key": "23B1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "top de somatório"
+            }
+        },
+        "key": "23B2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "fundo do somatório"
+            }
+        },
+        "key": "23B3"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "top colchete"
+            }
+        },
+        "key": "23B4"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "praça movimento pedaleiro"
+            }
+        },
+        "key": "23B5"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "praça movimento pedaleiro sobre top colchete"
+            }
+        },
+        "key": "23B6"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "fundo de símbolo radical"
+            }
+        },
+        "key": "23B7"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "linha caixa vertical à esquerda"
+            }
+        },
+        "key": "23B8"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "linha caixa bem vertical"
+            }
+        },
+        "key": "23B9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "parêntese de topo"
+            }
+        },
+        "key": "23DC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "parêntese de fundo"
+            }
+        },
+        "key": "23DD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "top chaveta"
+            }
+        },
+        "key": "23DE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "pedaleiro encaracolado"
+            }
+        },
+        "key": "23DF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "suporte superior concha de tartaruga"
+            }
+        },
+        "key": "23E0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "pedaleiro de concha de tartaruga"
+            }
+        },
+        "key": "23E1"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "ornamento de parêntese esquerdo médio"
+            }
+        },
+        "key": "2768"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "ornamento de parêntese direito médio"
+            }
+        },
+        "key": "2769"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "meio achatado ornamento de parêntese esquerdo"
+            }
+        },
+        "key": "276A"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "meio achatado ornamento de parêntese direito"
+            }
+        },
+        "key": "276B"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "médio deixada apontando o colchete angular ornamento"
+            }
+        },
+        "key": "276C"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "médio direito apontador colchete angular ornamento"
+            }
+        },
+        "key": "276D"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "pesado deixada apontando ornamento de aspa de ângulo"
+            }
+        },
+        "key": "276E"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "pesado mesmo apontando o ornamento de aspa de ângulo"
+            }
+        },
+        "key": "276F"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "pesado deixada apontando o colchete angular ornamento"
+            }
+        },
+        "key": "2770"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "pesado mesmo apontando o colchete angular ornamento"
+            }
+        },
+        "key": "2771"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "ornamento de colchete esquerdo luz tortoise shell"
+            }
+        },
+        "key": "2772"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "ornamento de suporte de concha de tartaruga certa luz"
+            }
+        },
+        "key": "2773"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "ornamento do médio esquerdo chaveta"
+            }
+        },
+        "key": "2774"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "ornamento de médio bem chaveta"
+            }
+        },
+        "key": "2775"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "esquerdo s em forma de saco delimitador"
+            }
+        },
+        "key": "27C5"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "certo s em forma de saco delimitador"
+            }
+        },
+        "key": "27C6"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "matemático branco colchete esquerdo"
+            }
+        },
+        "key": "27E6"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "matemática colchete direito branco"
+            }
+        },
+        "key": "27E7"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "matemático colchete angular esquerdo"
+            }
+        },
+        "key": "27E8"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "colchete direito matemática"
+            }
+        },
+        "key": "27E9"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "colchete angular esquerdo duplo de matemático"
+            }
+        },
+        "key": "27EA"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "matemática colchete direito duplo"
+            }
+        },
+        "key": "27EB"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "suporte de concha de tartaruga branco esquerdo matemática"
+            }
+        },
+        "key": "27EC"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "suporte de concha de tartaruga bem branco matemática"
+            }
+        },
+        "key": "27ED"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "matemático parêntese esquerdo de achatadas"
+            }
+        },
+        "key": "27EE"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "parêntese achatado direito matemático"
+            }
+        },
+        "key": "27EF"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "chaveta branca esquerda"
+            }
+        },
+        "key": "2983"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "chaveta direita branca"
+            }
+        },
+        "key": "2984"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "parêntese esquerdo branco"
+            }
+        },
+        "key": "2985"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "parêntese direito branco"
+            }
+        },
+        "key": "2986"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "suporte de imagem esquerda notação z"
+            }
+        },
+        "key": "2987"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "suporte de imagem direita notação z"
+            }
+        },
+        "key": "2988"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "suporte de vinculação à esquerda de notação z"
+            }
+        },
+        "key": "2989"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "suporte de vinculação direita notação z"
+            }
+        },
+        "key": "298A"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "colchete esquerdo com barra inferior"
+            }
+        },
+        "key": "298B"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "colchete direito com barra inferior"
+            }
+        },
+        "key": "298C"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "colchete esquerdo com carrapato no canto superior"
+            }
+        },
+        "key": "298D"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "colchete direito com escala no canto inferior"
+            }
+        },
+        "key": "298E"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "colchete esquerdo com escala no canto inferior"
+            }
+        },
+        "key": "298F"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "colchete direito com carrapato no canto superior"
+            }
+        },
+        "key": "2990"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "colchete angular esquerdo com ponto"
+            }
+        },
+        "key": "2991"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "colchete angular direito com ponto"
+            }
+        },
+        "key": "2992"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "arco esquerdo inferior suporte"
+            }
+        },
+        "key": "2993"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "arco bem maior do que o suporte"
+            }
+        },
+        "key": "2994"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "duplo arco esquerdo maior que suporte"
+            }
+        },
+        "key": "2995"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "duplo arco direito menos de suporte"
+            }
+        },
+        "key": "2996"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "colchete esquerdo preto tortoise shell"
+            }
+        },
+        "key": "2997"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "suporte de concha de tartaruga bem preto"
+            }
+        },
+        "key": "2998"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "cerca wiggly esquerda"
+            }
+        },
+        "key": "29D8"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "cerca bem wiggly"
+            }
+        },
+        "key": "29D9"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "cerca de wiggly dupla à esquerda"
+            }
+        },
+        "key": "29DA"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "bem dupla vedação wiggly"
+            }
+        },
+        "key": "29DB"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "colchete esquerdo apontando ângulo curvo"
+            }
+        },
+        "key": "29FC"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "bem apontando curvo colchete angular"
+            }
+        },
+        "key": "29FD"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "superior esquerdo suporte metade"
+            }
+        },
+        "key": "2E22"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "suporte para metade direita topo"
+            }
+        },
+        "key": "2E23"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "meia esquerdo pedaleiro"
+            }
+        },
+        "key": "2E24"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "inferior a metade direita do suporte"
+            }
+        },
+        "key": "2E25"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "suporte u lateral esquerdo"
+            }
+        },
+        "key": "2E26"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "suporte lateral direito u"
+            }
+        },
+        "key": "2E27"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "parêntese esquerdo duplo"
+            }
+        },
+        "key": "2E28"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "parêntese direito duplo"
+            }
+        },
+        "key": "2E29"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "colchete esquerdo",
+                "alternative": "colchete de abertura"
+            }
+        },
+        "key": "3008"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "colchete angular direito",
+                "alternative": "colchete de fechamento"
+            }
+        },
+        "key": "3009"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "colchete esquerdo de ângulo duplo",
+                "alternative": "dupla de colchete de abertura"
+            }
+        },
+        "key": "300A"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "colchete direito duplo",
+                "alternative": "dupla de colchete de fechamento"
+            }
+        },
+        "key": "300B"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "suporte de canto esquerdo",
+                "alternative": "suporte de canto de abertura"
+            }
+        },
+        "key": "300C"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "suporte de canto direito",
+                "alternative": "suporte de canto de fechamento"
+            }
+        },
+        "key": "300D"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "suporte de canto esquerdo branco",
+                "alternative": "colchete de abertura canto branco"
+            }
+        },
+        "key": "300E"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "suporte de canto bem branco",
+                "alternative": "suporte de canto branco de fechamento"
+            }
+        },
+        "key": "300F"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "colchete esquerdo de lenticular preto",
+                "alternative": "abertura preto suporte lenticular"
+            }
+        },
+        "key": "3010"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "bem preto suporte lenticular",
+                "alternative": "fechar suporte lenticular preto"
+            }
+        },
+        "key": "3011"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "colchete esquerdo concha de tartaruga",
+                "alternative": "concha de tartaruga colchete de abertura"
+            }
+        },
+        "key": "3014"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "suporte de concha de tartaruga certo",
+                "alternative": "concha de tartaruga colchete de fechamento"
+            }
+        },
+        "key": "3015"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "colchete esquerdo de lenticular branco",
+                "alternative": "abrindo o suporte lenticular branco"
+            }
+        },
+        "key": "3016"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "bem branco suporte lenticular",
+                "alternative": "fechar suporte lenticular branco"
+            }
+        },
+        "key": "3017"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "colchete esquerdo branco concha de tartaruga",
+                "alternative": "concha de tartaruga branco colchete de abertura"
+            }
+        },
+        "key": "3018"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "suporte de concha de tartaruga bem branco",
+                "alternative": "concha de tartaruga branco colchete de fechamento"
+            }
+        },
+        "key": "3019"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "colchete esquerdo branco",
+                "alternative": "branco de colchete de abertura"
+            }
+        },
+        "key": "301A"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "colchete direito branco",
+                "alternative": "branco de colchete de fechamento"
+            }
+        },
+        "key": "301B"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "invertida prime aspas duplas"
+            }
+        },
+        "key": "301D"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "aspas duplas principal"
+            }
+        },
+        "key": "301E"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "baixa prime aspas duplas"
+            }
+        },
+        "key": "301F"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "parêntese esquerdo ornamentado"
+            }
+        },
+        "key": "FD3E"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "parêntese direito ornamentado"
+            }
+        },
+        "key": "FD3F"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "forma de apresentação para vertical esquerdo branco suporte lenticular"
+            }
+        },
+        "key": "FE17"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "forma de apresentação para brakcet lenticular branco direito vertical"
+            }
+        },
+        "key": "FE18"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "forma de apresentação para vertical parêntese esquerdo",
+                "alternative": "glifo de parêntese de abertura vertical"
+            }
+        },
+        "key": "FE35"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "forma de apresentação para parêntese direito vertical",
+                "alternative": "glifo de parêntese de fechamento vertical"
+            }
+        },
+        "key": "FE36"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "forma de apresentação para chaveta esquerda vertical",
+                "alternative": "glifo de chaveta de abertura vertical"
+            }
+        },
+        "key": "FE37"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "forma de apresentação para chaveta direita vertical",
+                "alternative": "glifo de fechamento vertical chaveta"
+            }
+        },
+        "key": "FE38"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "forma de apresentação para suporte vertical esquerdo concha de tartaruga",
+                "alternative": "glifo de concha de tartaruga de abertura vertical do suporte"
+            }
+        },
+        "key": "FE39"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "forma de apresentação para suporte de concha de tartaruga bem vertical",
+                "alternative": "glifo de concha de tartaruga de fechamento vertical do suporte"
+            }
+        },
+        "key": "FE3A"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "forma de apresentação para vertical esquerdo preto suporte lenticular",
+                "alternative": "glifo de colchete de abertura vertical preto lenticular"
+            }
+        },
+        "key": "FE3B"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "forma de apresentação para suporte vertical de lenticular bem preto",
+                "alternative": "glifo de colchete de fechamento vertical preto lenticular"
+            }
+        },
+        "key": "FE3C"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "forma de apresentação para o colchete angular esquerdo duplo de vertical",
+                "alternative": "glifo de duplo de colchete de abertura vertical"
+            }
+        },
+        "key": "FE3D"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "forma de apresentação para suporte de ângulo direito duplo vertical",
+                "alternative": "glifo de duplo de colchete de fechamento vertical"
+            }
+        },
+        "key": "FE3E"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "forma de apresentação para vertical colchete angular esquerdo",
+                "alternative": "glifo de colchete de abertura vertical"
+            }
+        },
+        "key": "FE3F"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "forma de apresentação para suporte vertical ângulo direito",
+                "alternative": "glifo de colchete de fechamento vertical"
+            }
+        },
+        "key": "FE40"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "forma de apresentação para suporte vertical canto esquerdo",
+                "alternative": "suporte de canto de glifo de abertura vertical"
+            }
+        },
+        "key": "FE41"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "forma de apresentação para suporte de canto direito vertical",
+                "alternative": "suporte de canto de glifo para fechamento vertical"
+            }
+        },
+        "key": "FE42"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "forma de apresentação para suporte vertical esquerda canto branco",
+                "alternative": "glifo de colchete de abertura vertical branco canto"
+            }
+        },
+        "key": "FE43"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "forma de apresentação para suporte de canto bem branco vertical",
+                "alternative": "glifo de colchete de fechamento vertical branco canto"
+            }
+        },
+        "key": "FE44"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "forma de apresentação para vertical colchete esquerdo"
+            }
+        },
+        "key": "FE47"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "forma de apresentação para vertical colchete direito"
+            }
+        },
+        "key": "FE48"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "pequeno parêntese esquerdo",
+                "alternative": "parêntese de abertura pequena"
+            }
+        },
+        "key": "FE59"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "pequeno parêntese direito",
+                "alternative": "parêntese de fechamento pequeno"
+            }
+        },
+        "key": "FE5A"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "chaveta esquerda pequena",
+                "alternative": "chaveta de pequena abertura"
+            }
+        },
+        "key": "FE5B"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "bem pequena chaveta",
+                "alternative": "chaveta de fecho pequeno"
+            }
+        },
+        "key": "FE5C"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "colchete esquerdo pequena concha de tartaruga",
+                "alternative": "pequena abertura suporte de concha de tartaruga"
+            }
+        },
+        "key": "FE5D"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "suporte de concha de tartaruga bem pequena",
+                "alternative": "pequeno fechar colchete de concha de tartaruga"
+            }
+        },
+        "key": "FE5E"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "largura total parêntese esquerdo",
+                "alternative": "parêntese de abertura de largura total"
+            }
+        },
+        "key": "FF08"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "largura total parêntese direito",
+                "alternative": "parêntese de fechamento de largura total"
+            }
+        },
+        "key": "FF09"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "largura total colchete esquerdo",
+                "alternative": "largura total colchete de abertura"
+            }
+        },
+        "key": "FF3B"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "colchete direito de largura total",
+                "alternative": "largura total colchete de fechamento"
+            }
+        },
+        "key": "FF3D"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "largura total esquerda chaveta",
+                "alternative": "largura total abertura de chaveta"
+            }
+        },
+        "key": "FF5B"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "largura total bem chaveta",
+                "alternative": "largura total fechamento chaveta"
+            }
+        },
+        "key": "FF5D"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "largura total parêntese esquerdo de branco"
+            }
+        },
+        "key": "FF5F"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "parêntese de largura total bem branco"
+            }
+        },
+        "key": "FF60"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "suporte de canto esquerdo de meia largura",
+                "alternative": "halfwidth-suporte de canto de abertura"
+            }
+        },
+        "key": "FF62"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "suporte de canto direito de meia largura",
+                "alternative": "halfwidth fechar colchete de canto"
+            }
+        },
+        "key": "FF63"
+    }
+]

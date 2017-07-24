@@ -1,0 +1,510 @@
+[
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "arpão para a esquerda com ponta para cima",
+                "short": "arpão esquerdo com barb acima"
+            }
+        },
+        "key": "21BC"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "arpão para a esquerda com ponta para baixo",
+                "short": "arpão esquerda com ponta para baixo"
+            }
+        },
+        "key": "21BD"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "arpão para cima com ponta para a direita",
+                "short": "se o arpão com barb certo"
+            }
+        },
+        "key": "21BE"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "arpão para cima com ponta para a esquerda",
+                "short": "se o arpão com barb esquerda"
+            }
+        },
+        "key": "21BF"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "arpão para a direita com ponta para cima",
+                "short": "certo arpão com barb acima"
+            }
+        },
+        "key": "21C0"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "arpão para a direita com ponta para baixo",
+                "short": "certo arpão com ponta para baixo"
+            }
+        },
+        "key": "21C1"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "arpão para baixo com ponta para a direita",
+                "short": "para baixo o arpão com barb certo"
+            }
+        },
+        "key": "21C2"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "arpão para baixo com ponta para a esquerda",
+                "short": "para baixo o arpão com barb esquerda"
+            }
+        },
+        "key": "21C3"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "arpão para a esquerda sobre para a direita arpão",
+                "short": "arpão esquerda sobre a direita arpão"
+            }
+        },
+        "key": "21CB"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "arpão para a direita mais para a esquerda arpão",
+                "short": "arpão direito sobre esquerdo arpão"
+            }
+        },
+        "key": "21CC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "barb esquerdo cima certo barb baixo arpão"
+            }
+        },
+        "key": "294A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "barb esquerdo para baixo certo barb até arpão"
+            }
+        },
+        "key": "294B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "a barb baixo esquerda arpão barb"
+            }
+        },
+        "key": "294C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "se a ponta para a esquerda para baixo direita arpão barb"
+            }
+        },
+        "key": "294D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "barb esquerda cima direita barb até arpão"
+            }
+        },
+        "key": "294E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "a barb baixo direita arpão barb"
+            }
+        },
+        "key": "294F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "barb esquerdo para baixo certo barb baixo arpão"
+            }
+        },
+        "key": "2950"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "se a ponta para a esquerda para baixo esquerda arpão barb"
+            }
+        },
+        "key": "2951"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para a esquerda com a barb até bar",
+                "short": "deixou o arpão com barb até bar"
+            }
+        },
+        "key": "2952"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para a direita com a barb até bar",
+                "short": "direito até o arpão com barb bar"
+            }
+        },
+        "key": "2953"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para cima com a ponta para a direita para bar",
+                "short": "se o arpão com ponta para a direita para bar"
+            }
+        },
+        "key": "2954"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para baixo com a ponta para a direita para bar",
+                "short": "para baixo o arpão com ponta para a direita para bar"
+            }
+        },
+        "key": "2955"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para a esquerda com ponta para baixo para bar",
+                "short": "arpão esquerdo com barb para bar"
+            }
+        },
+        "key": "2956"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para a direita com ponta para baixo para bar",
+                "short": "certo arpão com barb para bar"
+            }
+        },
+        "key": "2957"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para cima com ponta esquerda para bar",
+                "short": "até arpão com barb deixada a barra"
+            }
+        },
+        "key": "2958"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para baixo com ponta esquerda para bar",
+                "short": "para baixo o arpão com barb deixada a barra"
+            }
+        },
+        "key": "2959"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para a esquerda com ponta acima do bar",
+                "short": "esquerda arpão com barb do bar"
+            }
+        },
+        "key": "295A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para a direita com ponta acima do bar",
+                "short": "certo arpão com barb acima da barra"
+            }
+        },
+        "key": "295B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para cima com ponta direita do bar",
+                "short": "se o arpão com barb certo de bar"
+            }
+        },
+        "key": "295C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para baixo com ponta direita do bar",
+                "short": "para baixo o arpão com barb certo de bar"
+            }
+        },
+        "key": "295D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para a esquerda com ponta para baixo da barra",
+                "short": "deixou o arpão com barb em baixo da barra"
+            }
+        },
+        "key": "295E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para a direita com ponta para baixo da barra",
+                "short": "certo arpão com barb para baixo da barra"
+            }
+        },
+        "key": "295F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para cima com ponta esquerda da barra",
+                "short": "se o arpão com barb à esquerda da barra"
+            }
+        },
+        "key": "2960"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para baixo com ponta esquerda da barra",
+                "short": "arpão com barb em baixo à esquerda da barra"
+            }
+        },
+        "key": "2961"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para a esquerda com a barb acima acima para a esquerda arpão com ponta para baixo",
+                "short": "arpão esquerdo com barb acima acima arpão esquerda com ponta para baixo"
+            }
+        },
+        "key": "2962"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para cima com ponta esquerda ao lado para cima arpão com barb direita",
+                "short": "se o arpão com barb deixou ao lado até arpão com barb certo"
+            }
+        },
+        "key": "2963"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para a direita com a barb acima acima para a direita arpão com ponta para baixo",
+                "short": "certo arpão com barb acima acima direita arpão com ponta para baixo"
+            }
+        },
+        "key": "2964"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para baixo com ponta esquerda ao lado para baixo arpão com barb direita",
+                "short": "para baixo o arpão com barb deixou ao lado baixo arpão com barb certo"
+            }
+        },
+        "key": "2965"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para a esquerda com a barb acima acima para a direita arpão com barb acima",
+                "short": "arpão esquerdo com barb acima acima direita arpão com barb acima"
+            }
+        },
+        "key": "2966"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para a esquerda com ponta para baixo acima para a direita arpão com barb para baixo",
+                "short": "arpão esquerdo com barb para baixo cima direita arpão com ponta para baixo"
+            }
+        },
+        "key": "2967"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para a direita com a barb acima acima para a esquerda arpão com barb acima",
+                "short": "certo arpão com barb acima acima esquerda arpão com barb acima"
+            }
+        },
+        "key": "2968"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para a direita com ponta para baixo acima para a esquerda arpão com barb para baixo",
+                "short": "certo arpão com barb para baixo acima de arpão esquerda com ponta para baixo"
+            }
+        },
+        "key": "2969"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para a esquerda com a barb acima acima do travessão",
+                "short": "arpão esquerdo com barb acima acima do travessão"
+            }
+        },
+        "key": "296A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para a esquerda com ponta para baixo abaixo do traço longo",
+                "short": "arpão esquerda com ponta para baixo abaixo do traço longo"
+            }
+        },
+        "key": "296B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para a direita com a barb acima acima do travessão",
+                "short": "certo arpão com barb acima acima do travessão"
+            }
+        },
+        "key": "296C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para a direita com ponta para baixo abaixo do traço longo",
+                "short": "certo arpão com barb para baixo abaixo do traço longo"
+            }
+        },
+        "key": "296D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para cima com ponta esquerda ao lado para baixo arpão com barb direita",
+                "short": "se o arpão com barb deixou ao lado de arpão com barb certo"
+            }
+        },
+        "key": "296E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "arpão para baixo com ponta esquerda ao lado para cima arpão com barb direita",
+                "short": "para baixo o arpão com barb deixou ao lado de cima arpão com barb certo"
+            }
+        },
+        "key": "296F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "cauda de peixe à esquerda"
+            }
+        },
+        "key": "297C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "cauda de peixe certo"
+            }
+        },
+        "key": "297D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "a cauda de peixe"
+            }
+        },
+        "key": "297E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "cauda de peixe"
+            }
+        },
+        "key": "297F"
+    }
+]

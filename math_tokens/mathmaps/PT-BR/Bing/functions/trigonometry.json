@@ -1,0 +1,167 @@
+[
+    {
+        "category": "Trigonometric",
+        "mappings": {
+            "default": {
+                "default": "função cosseno",
+                "short": "co-seno"
+            }
+        },
+        "key": "cos",
+        "names": [
+            "cos",
+            "cosine"
+        ]
+    },
+    {
+        "category": "Trigonometric",
+        "mappings": {
+            "default": {
+                "default": "função cotangente",
+                "short": "cotangente"
+            }
+        },
+        "key": "cot",
+        "names": [
+            "cot"
+        ]
+    },
+    {
+        "category": "Trigonometric",
+        "mappings": {
+            "default": {
+                "default": "função cossecante",
+                "short": "cossecante"
+            }
+        },
+        "key": "csc",
+        "names": [
+            "csc"
+        ]
+    },
+    {
+        "category": "Trigonometric",
+        "mappings": {
+            "default": {
+                "default": "função secante",
+                "short": "secante"
+            }
+        },
+        "key": "sec",
+        "names": [
+            "sec"
+        ]
+    },
+    {
+        "category": "Trigonometric",
+        "mappings": {
+            "default": {
+                "default": "função seno",
+                "alternative": "função seno",
+                "short": "seno"
+            }
+        },
+        "key": "sin",
+        "names": [
+            "sin",
+            "sine"
+        ]
+    },
+    {
+        "category": "Trigonometric",
+        "mappings": {
+            "default": {
+                "default": "função tangente",
+                "short": "tangente"
+            }
+        },
+        "key": "tan",
+        "names": [
+            "tan"
+        ]
+    },
+    {
+        "category": "Cyclometric",
+        "mappings": {
+            "default": {
+                "default": "função cosseno inverso",
+                "alternative": "função arco cosseno",
+                "short": "arco cosseno"
+            }
+        },
+        "key": "arccos",
+        "names": [
+            "arccos"
+        ]
+    },
+    {
+        "category": "Cyclometric",
+        "mappings": {
+            "default": {
+                "default": "função cotangente inversa",
+                "alternative": "função arco cotangente",
+                "short": "arco cotangente"
+            }
+        },
+        "key": "arccot",
+        "names": [
+            "arccot"
+        ]
+    },
+    {
+        "category": "Cyclometric",
+        "mappings": {
+            "default": {
+                "default": "função cossecante inversa",
+                "alternative": "função cossecante do arco",
+                "short": "cossecante de arco"
+            }
+        },
+        "key": "arccsc",
+        "names": [
+            "arccsc"
+        ]
+    },
+    {
+        "category": "Cyclometric",
+        "mappings": {
+            "default": {
+                "default": "função inversa da secante",
+                "alternative": "função arco secante",
+                "short": "arco secante"
+            }
+        },
+        "key": "arcsec",
+        "names": [
+            "arcsec"
+        ]
+    },
+    {
+        "category": "Cyclometric",
+        "mappings": {
+            "default": {
+                "default": "função seno inverso",
+                "alternative": "função arco seno",
+                "short": "arco seno"
+            }
+        },
+        "key": "arcsin",
+        "names": [
+            "arcsin"
+        ]
+    },
+    {
+        "category": "Cyclometric",
+        "mappings": {
+            "default": {
+                "default": "função tangente inversa",
+                "alternative": "função arco tangente",
+                "short": "arco tangente"
+            }
+        },
+        "key": "arctan",
+        "names": [
+            "arctan"
+        ]
+    }
+]

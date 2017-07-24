@@ -1,0 +1,3122 @@
+[
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "0363",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando a letra minúscula latina um",
+                "alternative": "",
+                "short": "combining a"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "0364",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando e de letra minúscula latina",
+                "alternative": "",
+                "short": "combining e"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "0365",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando latino pequena letra i",
+                "alternative": "",
+                "short": "combining i"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "0366",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando o de letra minúscula latina",
+                "alternative": "",
+                "short": "combinando o"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "0367",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando latina letra minúscula u",
+                "alternative": "",
+                "short": "combining u"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "0368",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando latino pequena letra c",
+                "alternative": "",
+                "short": "combinando c"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "0369",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando latino pequena letra d",
+                "alternative": "",
+                "short": "combinando d"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "036A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando latino pequena letra h",
+                "alternative": "",
+                "short": "combining h"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "036B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando latino pequena letra m",
+                "alternative": "",
+                "short": "combining m"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "036C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando latino pequena letra r",
+                "alternative": "",
+                "short": "combining r"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "036D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando latina letra minúscula t",
+                "alternative": "",
+                "short": "combining t"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "036E",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando latina letra minúscula v",
+                "alternative": "",
+                "short": "combining v"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "036F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando a letra minúscula latina x",
+                "alternative": "",
+                "short": "combining x"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "1D62",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "subscrito latino pequeno letra i",
+                "alternative": "",
+                "short": "subscrito"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "1D63",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "r de subscrito letra minúscula latina",
+                "alternative": "",
+                "short": "subscript r"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "1D64",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "u de subscrito letra minúscula latina",
+                "alternative": "",
+                "short": "subscript u"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "1D65",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "v de subscrito letra minúscula latina",
+                "alternative": "",
+                "short": "subscript v"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "1DCA",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando latina letra minúscula r abaixo",
+                "alternative": "",
+                "short": "combining r below"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "1DD3",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando a latina letra minúscula achatado aberto um acima",
+                "alternative": "",
+                "short": "combinando achatado abrir um acima"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "1DD4",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando ae de letra minúscula latina",
+                "alternative": "",
+                "short": "combining ae"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "1DD5",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando de letra minúscula latina",
+                "alternative": "",
+                "short": "combining ao"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "1DD6",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando a av de letra minúscula latina",
+                "alternative": "",
+                "short": "combining av"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "1DD7",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando o cedilha c do latim letra minúscula",
+                "alternative": "",
+                "short": "combining c cedilla"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "1DD8",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando latina letra minúscula d insular",
+                "alternative": "",
+                "short": "combining insular d"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "1DD9",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando a eth de letra minúscula latina",
+                "alternative": "",
+                "short": "combinando a eth"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "1DDA",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando o g de letra minúscula latina",
+                "alternative": "",
+                "short": "combining g"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "1DDB",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando o latim carta pequeno capital g",
+                "alternative": "",
+                "short": "combining small cap g"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "1DDC",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando latino pequena letra k",
+                "alternative": "",
+                "short": "combining k"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "1DDD",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando latina letra minúscula l",
+                "alternative": "",
+                "short": "combinando a l"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "1DDE",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando o latim carta pequeno capital l",
+                "alternative": "",
+                "short": "combining small cap l"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "1DDF",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando o latim carta capital pequeno m",
+                "alternative": "",
+                "short": "combining small cap m"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "1DE0",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando a letra minúscula latina n",
+                "alternative": "",
+                "short": "combining n"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "1DE1",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando o latim carta capital pequeno n",
+                "alternative": "",
+                "short": "combinando a pequena tampa n"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "1DE2",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combining latin letter small capital r",
+                "alternative": "",
+                "short": "combining small cap r"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "1DE3",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando a rotunda de r letra minúscula latina",
+                "alternative": "",
+                "short": "combining r rotunda"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "1DE4",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando s de letra minúscula latina",
+                "alternative": "",
+                "short": "combinando s"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "1DE5",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando latina letra minúscula s longo",
+                "alternative": "",
+                "short": "combinando o s longo"
+            }
+        }
+    },
+    {
+        "category": "Mn",
+        "names": [],
+        "key": "1DE6",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "combinando latina letra minúscula z",
+                "alternative": "",
+                "short": "combinando a z"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "2071",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "pequeno sobrescrito latino-letra i",
+                "alternative": "",
+                "short": "sobrescrito"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "207F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "sobrescrito letra minúscula latina n",
+                "alternative": "",
+                "short": "superscript n"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "2090",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "latim-letra minúscula subscrito um",
+                "alternative": "",
+                "short": "subscript a"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "2091",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "latina letra pequena subscrito e",
+                "alternative": "",
+                "short": "subscript e"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "2092",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "latina letra pequena subscrito o",
+                "alternative": "",
+                "short": "o subscrito"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "2093",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "latim-letra minúscula subscrito x",
+                "alternative": "",
+                "short": "subscript x"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "2094",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "schwa de subscrito letra minúscula latina",
+                "alternative": "",
+                "short": "subscript schwa"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "2095",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "h de subscrito letra minúscula latina",
+                "alternative": "",
+                "short": "subscrito h"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "2096",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "k de subscrito letra minúscula latina",
+                "alternative": "",
+                "short": "k subscrito"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "2097",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "l de subscrito letra minúscula latina",
+                "alternative": "",
+                "short": "subscrito l"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "2098",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "m de subscrito letra minúscula latina",
+                "alternative": "",
+                "short": "subscript m"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "2099",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "n de subscrito letra minúscula latina",
+                "alternative": "",
+                "short": "subscript n"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "209A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "latina subscrito letra minúscula p",
+                "alternative": "",
+                "short": "subscript p"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "209B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "s de subscrito letra minúscula latina",
+                "alternative": "",
+                "short": "subscrito s"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "209C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "t de subscrito letra minúscula latina",
+                "alternative": "",
+                "short": "subscript t"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "249C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "latim-letra minúscula entre parênteses um",
+                "alternative": "",
+                "short": "parenthesized a"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "249D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "b de letra minúscula latina entre parênteses",
+                "alternative": "",
+                "short": "b entre parênteses"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "249E",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "c de letra minúscula latina entre parênteses",
+                "alternative": "",
+                "short": "c entre parênteses"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "249F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "entre parênteses latino pequena letra d",
+                "alternative": "",
+                "short": "parenthesized d"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24A0",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "entre parênteses e de letra minúscula latina",
+                "alternative": "",
+                "short": "entre parênteses e"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24A1",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "entre parênteses latina letra minúscula f",
+                "alternative": "",
+                "short": "f entre parênteses"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24A2",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "g de letra minúscula latina entre parênteses",
+                "alternative": "",
+                "short": "parenthesized g"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24A3",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "h de letra minúscula latina entre parênteses",
+                "alternative": "",
+                "short": "parenthesized h"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24A4",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "entre parênteses latino pequena letra i",
+                "alternative": "",
+                "short": "entre parênteses eu"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24A5",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "entre parênteses latina letra j",
+                "alternative": "",
+                "short": "j dentro de parênteses"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24A6",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "k de letra minúscula latina entre parênteses",
+                "alternative": "",
+                "short": "parenthesized k"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24A7",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "entre parênteses latina letra minúscula l",
+                "alternative": "",
+                "short": "parenthesized l"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24A8",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "m de letra minúscula latina entre parênteses",
+                "alternative": "",
+                "short": "parenthesized m"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24A9",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "entre parênteses latina letra minúscula n",
+                "alternative": "",
+                "short": "n entre parênteses"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24AA",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "entre parênteses latino pequena letra o",
+                "alternative": "",
+                "short": "parenthesized o"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24AB",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "parenthesized latin small letter p",
+                "alternative": "",
+                "short": "parenthesized p"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24AC",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "entre parênteses latino pequena letra q",
+                "alternative": "",
+                "short": "parenthesized q"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24AD",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "r de letra minúscula latina entre parênteses",
+                "alternative": "",
+                "short": "r dentro de parênteses"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24AE",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "s de letra minúscula latina entre parênteses",
+                "alternative": "",
+                "short": "parenthesized s"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24AF",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "entre parênteses latina letra minúscula t",
+                "alternative": "",
+                "short": "parenthesized t"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24B0",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "u de letra minúscula latina entre parênteses",
+                "alternative": "",
+                "short": "entre parênteses u"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24B1",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "v de letra minúscula latina entre parênteses",
+                "alternative": "",
+                "short": "entre parênteses v"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24B2",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "w de letra minúscula latina entre parênteses",
+                "alternative": "",
+                "short": "parenthesized w"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24B3",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "latim-letra minúscula entre parênteses x",
+                "alternative": "",
+                "short": "entre parênteses x"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24B4",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "y de letra minúscula latina entre parênteses",
+                "alternative": "",
+                "short": "y dentro de parênteses"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24B5",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "entre parênteses latina letra minúscula z",
+                "alternative": "",
+                "short": "parenthesized z"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24B6",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina maiuscula uma",
+                "alternative": "",
+                "short": "circled cap a"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24B7",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina letra maiuscula b",
+                "alternative": "",
+                "short": "circled cap b"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24B8",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo c de letra maiuscula latina",
+                "alternative": "",
+                "short": "circled cap c"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24B9",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina letra maiuscula d",
+                "alternative": "",
+                "short": "um círculo d cap"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24BA",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo e de letra maiuscula latina",
+                "alternative": "",
+                "short": "um círculo e cap"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24BB",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina maiuscula f",
+                "alternative": "",
+                "short": "um círculo cap f"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24BC",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina maiuscula g",
+                "alternative": "",
+                "short": "um círculo g cap"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24BD",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina letra maiuscula h",
+                "alternative": "",
+                "short": "um círculo cap h"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24BE",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra um círculo latina maiuscula i",
+                "alternative": "",
+                "short": "circled cap i"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24BF",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina maiuscula j",
+                "alternative": "",
+                "short": "circled cap j"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24C0",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "circled latin capital letter k",
+                "alternative": "",
+                "short": "circled cap k"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24C1",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina maiuscula l",
+                "alternative": "",
+                "short": "circled cap l"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24C2",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina letra maiuscula m",
+                "alternative": "",
+                "short": "circled cap m"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24C3",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "circulado n de letra maiuscula latina",
+                "alternative": "",
+                "short": "circulado n cap"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24C4",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "circulou o de letra maiuscula latina",
+                "alternative": "",
+                "short": "circled cap o"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24C5",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina maiuscula p",
+                "alternative": "",
+                "short": "circled cap p"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24C6",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina letra maiuscula q",
+                "alternative": "",
+                "short": "um círculo q cap"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24C7",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina maiuscula r",
+                "alternative": "",
+                "short": "circled cap r"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24C8",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina maiuscula s",
+                "alternative": "",
+                "short": "circled cap s"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24C9",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina maiuscula t",
+                "alternative": "",
+                "short": "um círculo t cap"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24CA",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina maiuscula u",
+                "alternative": "",
+                "short": "um círculo cap u"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24CB",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina maiuscula v",
+                "alternative": "",
+                "short": "circled cap v"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24CC",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina maiuscula w",
+                "alternative": "",
+                "short": "um círculo cap w"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24CD",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina maiuscula x",
+                "alternative": "",
+                "short": "um círculo cap x"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24CE",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina maiuscula y",
+                "alternative": "",
+                "short": "circled cap y"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24CF",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina maiuscula z",
+                "alternative": "",
+                "short": "circled cap z"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24D0",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo letra minúscula latina um",
+                "alternative": "",
+                "short": "circled a"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24D1",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina letra minúscula b",
+                "alternative": "",
+                "short": "circled b"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24D2",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "circled latin small letter c",
+                "alternative": "",
+                "short": "circled c"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24D3",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latino pequena letra d",
+                "alternative": "",
+                "short": "circled d"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24D4",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo e de letra minúscula latina",
+                "alternative": "",
+                "short": "e um círculo"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24D5",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina letra minúscula f",
+                "alternative": "",
+                "short": "f um círculo"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24D6",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latino pequena letra g",
+                "alternative": "",
+                "short": "g um círculo"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24D7",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latino pequena letra h",
+                "alternative": "",
+                "short": "circled h"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24D8",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latino pequena letra i",
+                "alternative": "",
+                "short": "circled i"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24D9",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina letra j",
+                "alternative": "",
+                "short": "j um círculo"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24DA",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo k de letra minúscula latina",
+                "alternative": "",
+                "short": "um círculo k"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24DB",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina letra minúscula l",
+                "alternative": "",
+                "short": "circled l"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24DC",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina letra minúscula m",
+                "alternative": "",
+                "short": "circled m"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24DD",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo letra minúscula latina n",
+                "alternative": "",
+                "short": "circled n"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24DE",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latino pequena letra o",
+                "alternative": "",
+                "short": "circled o"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24DF",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina letra minúscula p",
+                "alternative": "",
+                "short": "um círculo p"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24E0",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latino pequena letra q",
+                "alternative": "",
+                "short": "circled q"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24E1",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina letra minúscula r",
+                "alternative": "",
+                "short": "circled r"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24E2",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latino pequena letra s",
+                "alternative": "",
+                "short": "um círculo s"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24E3",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina letra minúscula t",
+                "alternative": "",
+                "short": "circled t"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24E4",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina letra minúscula u",
+                "alternative": "",
+                "short": "circled u"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24E5",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina letra minúscula v",
+                "alternative": "",
+                "short": "v um círculo"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24E6",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latino pequena letra w",
+                "alternative": "",
+                "short": "circled w"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24E7",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo letra minúscula latina x",
+                "alternative": "",
+                "short": "circled x"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24E8",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina letra minúscula y",
+                "alternative": "",
+                "short": "circled y"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "24E9",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo latina letra minúscula z",
+                "alternative": "",
+                "short": "um círculo z"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "2C7C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "latina subscrito letra j",
+                "alternative": "",
+                "short": "subscript j"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F110",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "latim-letra maiuscula entre parênteses um",
+                "alternative": "",
+                "short": "parenthesized cap a"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F111",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "b de letra maiuscula latina entre parênteses",
+                "alternative": "",
+                "short": "parenthesized cap b"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F112",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "c de letra maiuscula latina entre parênteses",
+                "alternative": "",
+                "short": "parenthesized cap c"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F113",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "entre parênteses latina letra capital d",
+                "alternative": "",
+                "short": "entre parênteses cap d"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F114",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "entre parênteses e de letra maiuscula latina",
+                "alternative": "",
+                "short": "parenthesized cap e"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F115",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "f de letra maiuscula latina entre parênteses",
+                "alternative": "",
+                "short": "parenthesized cap f"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F116",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "g de letra maiuscula latina entre parênteses",
+                "alternative": "",
+                "short": "entre parênteses cap g"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F117",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "h de letra maiuscula latina entre parênteses",
+                "alternative": "",
+                "short": "entre parênteses cap h"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F118",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra entre parênteses latina maiuscula i",
+                "alternative": "",
+                "short": "entre parênteses eu cap"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F119",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "j de letra maiuscula latina entre parênteses",
+                "alternative": "",
+                "short": "parenthesized cap j"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F11A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "parenthesized latin capital letter k",
+                "alternative": "",
+                "short": "parenthesized cap k"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F11B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "l de letra maiuscula latina entre parênteses",
+                "alternative": "",
+                "short": "parenthesized cap l"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F11C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "m de letra maiuscula latina entre parênteses",
+                "alternative": "",
+                "short": "parenthesized cap m"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F11D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "n de letra maiuscula latina entre parênteses",
+                "alternative": "",
+                "short": "parenthesized cap n"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F11E",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "o de letra maiuscula latina entre parênteses",
+                "alternative": "",
+                "short": "o de boné dentro de parênteses"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F11F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "entre parênteses latina maiuscula p",
+                "alternative": "",
+                "short": "parenthesized cap p"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F120",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "q de letra maiuscula latina entre parênteses",
+                "alternative": "",
+                "short": "parenthesized cap q"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F121",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "r de letra maiuscula latina entre parênteses",
+                "alternative": "",
+                "short": "entre parênteses cap r"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F122",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "s de letra maiuscula latina entre parênteses",
+                "alternative": "",
+                "short": "parenthesized cap s"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F123",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "entre parênteses latina maiuscula t",
+                "alternative": "",
+                "short": "parenthesized cap t"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F124",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "entre parênteses latina maiuscula u",
+                "alternative": "",
+                "short": "parenthesized cap u"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F125",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "v de letra maiuscula latina entre parênteses",
+                "alternative": "",
+                "short": "parenthesized cap v"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F126",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "w de letra maiuscula latina entre parênteses",
+                "alternative": "",
+                "short": "parenthesized cap w"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F127",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "latim-letra maiuscula entre parênteses x",
+                "alternative": "",
+                "short": "parenthesized cap x"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F128",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "y de letra maiuscula latina entre parênteses",
+                "alternative": "",
+                "short": "parenthesized cap y"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F129",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "entre parênteses latina maiuscula z",
+                "alternative": "",
+                "short": "parenthesized cap z"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F12A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "concha de tartaruga bracketed latina maiuscula s",
+                "alternative": "",
+                "short": "concha de tartaruga bracketed tampa s"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F12B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "um círculo c de letra maiuscula latina em itálico",
+                "alternative": "",
+                "short": "circled italic cap c"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F12C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "circled italic latin capital letter r",
+                "alternative": "",
+                "short": "circled italic cap r"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F130",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "quadrado latino-letra a",
+                "alternative": "",
+                "short": "squared cap a"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F131",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "quadrado b letra latina maiuscula",
+                "alternative": "",
+                "short": "b tampa quadrada"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F132",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "quadrado c letra latina maiuscula",
+                "alternative": "",
+                "short": "squared cap c"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F133",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "quadrado latino capital letra d",
+                "alternative": "",
+                "short": "squared cap d"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F134",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "quadrado latino-letra maiuscula e",
+                "alternative": "",
+                "short": "squared cap e"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F135",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "ao quadrado letra latina maiuscula f",
+                "alternative": "",
+                "short": "f tampa quadrada"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F136",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "ao quadrado letra latina maiuscula g",
+                "alternative": "",
+                "short": "squared cap g"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F137",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "quadrado latino letra maiuscula h",
+                "alternative": "",
+                "short": "squared cap h"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F138",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra ao quadrado latina maiuscula i",
+                "alternative": "",
+                "short": "squared cap i"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F139",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "ao quadrado letra latina maiuscula j",
+                "alternative": "",
+                "short": "squared cap j"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F13A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "ao quadrado letra latina maiuscula k",
+                "alternative": "",
+                "short": "squared cap k"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F13B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "quadrado latino-letra maiuscula l",
+                "alternative": "",
+                "short": "squared cap l"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F13C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "quadrado latino-letra maiuscula m",
+                "alternative": "",
+                "short": "squared cap m"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F13D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "quadrado de letra maiuscula latina n",
+                "alternative": "",
+                "short": "squared cap n"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F13E",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "quadrado latino capital letra o",
+                "alternative": "",
+                "short": "o tampão quadrado"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F13F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "ao quadrado letra latina maiuscula p",
+                "alternative": "",
+                "short": "squared cap p"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F140",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "quadrado q letra latina maiuscula",
+                "alternative": "",
+                "short": "squared cap q"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F141",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "quadrado latino-letra maiuscula r",
+                "alternative": "",
+                "short": "squared cap r"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F142",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "quadrado latino-letra maiuscula s",
+                "alternative": "",
+                "short": "squared cap s"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F143",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "quadrado latino-letra maiuscula t",
+                "alternative": "",
+                "short": "tampa quadrada t"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F144",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "ao quadrado letra latina maiuscula u",
+                "alternative": "",
+                "short": "squared cap u"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F145",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "ao quadrado letra latina maiuscula v",
+                "alternative": "",
+                "short": "squared cap v"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F146",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "quadrado latino letra maiuscula w",
+                "alternative": "",
+                "short": "squared cap w"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F147",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "quadrado latino-letra x",
+                "alternative": "",
+                "short": "tampão quadrado x"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F148",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "quadrado latino letra maiuscula y",
+                "alternative": "",
+                "short": "y tampa quadrada"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F149",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "quadrado latino-letra maiuscula z",
+                "alternative": "",
+                "short": "tampa quadrada z"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F150",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo latina maiuscula uma",
+                "alternative": "",
+                "short": "negative circled cap a"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F151",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo latina letra maiuscula b",
+                "alternative": "",
+                "short": "negative circled cap b"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F152",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo c de letra maiuscula latina",
+                "alternative": "",
+                "short": "c tampa um círculo negativo"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F153",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo latina letra maiuscula d",
+                "alternative": "",
+                "short": "negative circled cap d"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F154",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo e de letra maiuscula latina",
+                "alternative": "",
+                "short": "negative circled cap e"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F155",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo latina maiuscula f",
+                "alternative": "",
+                "short": "negative circled cap f"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F156",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo latina maiuscula g",
+                "alternative": "",
+                "short": "g tampa um círculo negativo"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F157",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo latina letra maiuscula h",
+                "alternative": "",
+                "short": "tampa um círculo negativo h"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F158",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo latina maiuscula eu",
+                "alternative": "",
+                "short": "negative circled cap i"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F159",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo latina maiuscula j",
+                "alternative": "",
+                "short": "j tampa um círculo negativo"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F15A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo latina maiuscula k",
+                "alternative": "",
+                "short": "negative circled cap k"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F15B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo latina maiuscula l",
+                "alternative": "",
+                "short": "negative circled cap l"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F15C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo latina letra maiuscula m",
+                "alternative": "",
+                "short": "tampa um círculo negativo m"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F15D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo latina maiuscula n",
+                "alternative": "",
+                "short": "negative circled cap n"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F15E",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo latina capital letra o",
+                "alternative": "",
+                "short": "negative circled cap o"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F15F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo latina maiuscula p",
+                "alternative": "",
+                "short": "p tampa um círculo negativo"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F160",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo latina letra maiuscula q",
+                "alternative": "",
+                "short": "negative circled cap q"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F161",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negative circled latin capital letter r",
+                "alternative": "",
+                "short": "negative circled cap r"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F162",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo latina maiuscula s",
+                "alternative": "",
+                "short": "tampa um círculo negativo s"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F163",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo latina maiuscula t",
+                "alternative": "",
+                "short": "negative circled cap t"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F164",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo latina maiuscula u",
+                "alternative": "",
+                "short": "negative circled cap u"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F165",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo latina maiuscula v",
+                "alternative": "",
+                "short": "negative circled cap v"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F166",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negative circled latin capital letter w",
+                "alternative": "",
+                "short": "negative circled cap w"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F167",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo latina maiuscula x",
+                "alternative": "",
+                "short": "negative circled cap x"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F168",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo latina maiuscula y",
+                "alternative": "",
+                "short": "negative circled cap y"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F169",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo dentro de um círculo latina maiuscula z",
+                "alternative": "",
+                "short": "tampa um círculo negativo z"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F170",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado latina maiuscula uma",
+                "alternative": "",
+                "short": "tampão quadrado negativo uma"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F171",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado latino letra maiuscula b",
+                "alternative": "",
+                "short": "b negativo tampa quadrada"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F172",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado latino letra maiuscula c",
+                "alternative": "",
+                "short": "negative squared cap c"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F173",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado latino letra maiuscula d",
+                "alternative": "",
+                "short": "negative squared cap d"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F174",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado e de letra maiuscula latina",
+                "alternative": "",
+                "short": "negative squared cap e"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F175",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado latino letra maiuscula f",
+                "alternative": "",
+                "short": "f tampa quadrada negativa"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F176",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado latino letra maiuscula g",
+                "alternative": "",
+                "short": "negative squared cap g"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F177",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado latino letra maiuscula h",
+                "alternative": "",
+                "short": "negative squared cap h"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F178",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado latina maiuscula eu",
+                "alternative": "",
+                "short": "negative squared cap i"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F179",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado latino letra maiuscula j",
+                "alternative": "",
+                "short": "negative squared cap j"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F17A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado latino letra maiuscula k",
+                "alternative": "",
+                "short": "negative squared cap k"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F17B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado latino letra maiuscula l",
+                "alternative": "",
+                "short": "negative squared cap l"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F17C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado latino letra maiuscula m",
+                "alternative": "",
+                "short": "negative squared cap m"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F17D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado latino letra maiuscula n",
+                "alternative": "",
+                "short": "tampão quadrado negativo n"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F17E",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado latino capital letra o",
+                "alternative": "",
+                "short": "negative squared cap o"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F17F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado latino letra maiuscula p",
+                "alternative": "",
+                "short": "negative squared cap p"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F180",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negative squared latin capital letter q",
+                "alternative": "",
+                "short": "negative squared cap q"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F181",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado latino letra maiuscula r",
+                "alternative": "",
+                "short": "r negativo tampa quadrada"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F182",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado latino letra maiuscula s",
+                "alternative": "",
+                "short": "tampa quadrada negativa s"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F183",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado latino letra maiuscula t",
+                "alternative": "",
+                "short": "negative squared cap t"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F184",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado latino letra maiuscula u",
+                "alternative": "",
+                "short": "negative squared cap u"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F185",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado latino letra maiuscula v",
+                "alternative": "",
+                "short": "tampa quadrada negativa v"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F186",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negative squared latin capital letter w",
+                "alternative": "",
+                "short": "negative squared cap w"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F187",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negative squared latin capital letter x",
+                "alternative": "",
+                "short": "negative squared cap x"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F188",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado latino letra maiuscula y",
+                "alternative": "",
+                "short": "tampa quadrada negativa y"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F189",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "negativo ao quadrado latino letra maiuscula z",
+                "alternative": "",
+                "short": "negative squared cap z"
+            }
+        }
+    },
+    {
+        "category": "So",
+        "names": [],
+        "key": "1F18A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "passou pela negativa ao quadrado latino letra maiuscula p",
+                "alternative": "",
+                "short": "crossed negative squared cap p"
+            }
+        }
+    }
+]

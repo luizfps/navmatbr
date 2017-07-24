@@ -1,0 +1,393 @@
+[
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo grego beta",
+                "alternative": "letra grega minúscula enrolada beta",
+                "short": "beta"
+            }
+        },
+        "key": "03D0"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo grego theta",
+                "alternative": "theta de script letra grega minúscula",
+                "short": "theta"
+            }
+        },
+        "key": "03D1"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo grego phi",
+                "alternative": "phi de script letra grega minúscula",
+                "short": "phi"
+            }
+        },
+        "key": "03D5"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo grego pi",
+                "alternative": "pi de letra minúscula grega ômega",
+                "short": "pi"
+            }
+        },
+        "key": "03D6"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo grego kai",
+                "short": "kai"
+            }
+        },
+        "key": "03D7"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo grego kappa",
+                "alternative": "kappa de script letra grega minúscula",
+                "short": "kappa"
+            }
+        },
+        "key": "03F0"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo grego rho",
+                "alternative": "rho letra grega minúscula de cauda",
+                "short": "rho"
+            }
+        },
+        "key": "03F1"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo grego épsilon semilunar",
+                "short": "épsilon"
+            }
+        },
+        "key": "03F5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "símbolo grego épsilon semilunar invertida",
+                "short": "épsilon invertido"
+            }
+        },
+        "key": "03F6"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "símbolo grego theta capital",
+                "short": "theta cap"
+            }
+        },
+        "key": "03F4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "nabla bold (realce) matemática",
+                "alternative": "nabla bold (realce)"
+            }
+        },
+        "key": "1D6C1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "diferencial parcial bold (realce) matemática",
+                "alternative": "diferencial parcial bold (realce)",
+                "short": "diferencial parcial bold (realce)"
+            }
+        },
+        "key": "1D6DB"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo matemático épsilon bold (realce)",
+                "alternative": "épsilon bold (realce)",
+                "short": "épsilon bold (realce)"
+            }
+        },
+        "key": "1D6DC"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo matemático theta bold (realce)",
+                "alternative": "theta bold (realce)",
+                "short": "theta bold (realce)"
+            }
+        },
+        "key": "1D6DD"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo matemático kappa bold (realce)",
+                "alternative": "kappa bold (realce)",
+                "short": "kappa bold (realce)"
+            }
+        },
+        "key": "1D6DE"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo matemático phi bold (realce)",
+                "alternative": "phi bold (realce)",
+                "short": "phi bold (realce)"
+            }
+        },
+        "key": "1D6DF"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo matemático rho bold (realce)",
+                "alternative": "rho bold (realce)",
+                "short": "rho bold (realce)"
+            }
+        },
+        "key": "1D6E0"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo de matemática pi bold (realce)",
+                "alternative": "bold (realce) pi",
+                "short": "bold (realce) pi"
+            }
+        },
+        "key": "1D6E1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico nabla",
+                "alternative": "nabla em itálico",
+                "short": "nabla em itálico"
+            }
+        },
+        "key": "1D6FB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico diferencial parcial",
+                "alternative": "diferencial parcial em itálico",
+                "short": "diferencial parcial em itálico"
+            }
+        },
+        "key": "1D715"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo matemático épsilon itálico",
+                "alternative": "epsilon em itálico",
+                "short": "epsilon em itálico"
+            }
+        },
+        "key": "1D716"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo matemático theta em itálico",
+                "alternative": "theta em itálico",
+                "short": "theta em itálico"
+            }
+        },
+        "key": "1D717"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo matemático kappa em itálico",
+                "alternative": "kappa em itálico",
+                "short": "kappa em itálico"
+            }
+        },
+        "key": "1D718"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo matemático phi em itálico",
+                "alternative": "phi em itálico",
+                "short": "phi em itálico"
+            }
+        },
+        "key": "1D719"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo matemático rho itálico",
+                "alternative": "rho itálico",
+                "short": "rho itálico"
+            }
+        },
+        "key": "1D71A"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo de matemática pi em itálico",
+                "alternative": "pi em itálico",
+                "short": "pi em itálico"
+            }
+        },
+        "key": "1D71B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif negrito nabla",
+                "alternative": "sans serif negrito nabla",
+                "short": "sans serif negrito nabla"
+            }
+        },
+        "key": "1D76F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) diferencial parcial",
+                "alternative": "sans serif bold (realce) diferencial parcial",
+                "short": "sans serif bold (realce) diferencial parcial"
+            }
+        },
+        "key": "1D789"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo de matemática sans serif bold (realce) epsilon",
+                "alternative": "sans serif bold (realce) epsilon",
+                "short": "sans serif bold (realce) epsilon"
+            }
+        },
+        "key": "1D78A"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo de matemática sans serif bold (realce) theta",
+                "alternative": "sans serif bold (realce) theta",
+                "short": "sans serif bold (realce) theta"
+            }
+        },
+        "key": "1D78B"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo de matemática sans serif bold (realce) kappa",
+                "alternative": "sans serif bold (realce) kappa",
+                "short": "sans serif bold (realce) kappa"
+            }
+        },
+        "key": "1D78C"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo de matemática sans serif bold (realce) phi",
+                "alternative": "sans serif bold (realce) phi",
+                "short": "sans serif bold (realce) phi"
+            }
+        },
+        "key": "1D78D"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo de matemática sans serif bold (realce) rho",
+                "alternative": "sans serif bold (realce) rho",
+                "short": "sans serif bold (realce) rho"
+            }
+        },
+        "key": "1D78E"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "símbolo de matemática sans serif bold (realce) pi",
+                "alternative": "sans serif bold (realce) pi",
+                "short": "sans serif bold (realce) pi"
+            }
+        },
+        "key": "1D78F"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática digama capital bold (realce)",
+                "alternative": "digama capital bold (realce)",
+                "short": "bold (realce) cap digama"
+            }
+        },
+        "key": "1D7CA"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática digama pequena bold (realce)",
+                "alternative": "digama pequena bold (realce)",
+                "short": "digama bold (realce)"
+            }
+        },
+        "key": "1D7CB"
+    }
+]

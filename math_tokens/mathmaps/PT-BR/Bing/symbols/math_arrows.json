@@ -1,0 +1,2981 @@
+[
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta",
+                "short": "seta para a esquerda"
+            }
+        },
+        "key": "2190"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para cima seta",
+                "short": "seta para cima"
+            }
+        },
+        "key": "2191"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta",
+                "short": "seta para a direita"
+            }
+        },
+        "key": "2192"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para baixo seta",
+                "short": "seta para baixo"
+            }
+        },
+        "key": "2193"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita esquerda"
+            }
+        },
+        "key": "2194"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para cima seta para baixo"
+            }
+        },
+        "key": "2195"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta de oeste norte",
+                "short": "seta para a esquerda superior"
+            }
+        },
+        "key": "2196"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta de leste norte",
+                "short": "seta para a direita superior"
+            }
+        },
+        "key": "2197"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta do sudeste",
+                "short": "seta para a direita inferior"
+            }
+        },
+        "key": "2198"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta do sudoeste",
+                "short": "seta para a esquerda inferior"
+            }
+        },
+        "key": "2199"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta com acidente vascular cerebral",
+                "short": "seta para a esquerda com acidente vascular cerebral"
+            }
+        },
+        "key": "219A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta com acidente vascular cerebral",
+                "short": "seta para a direita com acidente vascular cerebral"
+            }
+        },
+        "key": "219B"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para a esquerda da onda",
+                "short": "seta esquerda-onda"
+            }
+        },
+        "key": "219C"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita da onda",
+                "short": "seta direita onda"
+            }
+        },
+        "key": "219D"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda duas cabeças de seta",
+                "alternative": "duas cabeças de seta esquerda",
+                "short": "duas cabeças de seta para a esquerda"
+            }
+        },
+        "key": "219E"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para cima dois cabeças de seta",
+                "alternative": "duas cabeças de seta acima",
+                "short": "duas cabeças de seta para cima"
+            }
+        },
+        "key": "219F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita duas cabeças de seta",
+                "alternative": "duas cabeças de seta direita",
+                "short": "duas cabeças de seta para a direita"
+            }
+        },
+        "key": "21A0"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para baixo duas cabeças de seta",
+                "alternative": "duas cabeças de seta para baixo",
+                "short": "dois indo seta para baixo"
+            }
+        },
+        "key": "21A1"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta com cauda",
+                "short": "seta para a esquerda com cauda"
+            }
+        },
+        "key": "21A2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta com cauda",
+                "short": "seta para a direita com cauda"
+            }
+        },
+        "key": "21A3"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta da barra",
+                "short": "seta para a esquerda da barra"
+            }
+        },
+        "key": "21A4"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para cima seta da barra",
+                "short": "cima seta da barra"
+            }
+        },
+        "key": "21A5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta da barra",
+                "short": "seta para a direita da barra de"
+            }
+        },
+        "key": "21A6"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para baixo seta de bar",
+                "short": "seta de bar"
+            }
+        },
+        "key": "21A7"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "cima para baixo com base"
+            }
+        },
+        "key": "21A8"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta com gancho",
+                "short": "seta para a esquerda com gancho"
+            }
+        },
+        "key": "21A9"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta com gancho",
+                "short": "seta para a direita com gancho"
+            }
+        },
+        "key": "21AA"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta com laço",
+                "short": "seta para a esquerda com laço"
+            }
+        },
+        "key": "21AB"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta com laço",
+                "short": "seta para a direita com laço"
+            }
+        },
+        "key": "21AC"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta esquerda onda certa"
+            }
+        },
+        "key": "21AD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita esquerda com acidente vascular cerebral"
+            }
+        },
+        "key": "21AE"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para baixo em zigue-zague",
+                "short": "em zigue-zague seta para baixo"
+            }
+        },
+        "key": "21AF"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para cima seta com ponta para a esquerda",
+                "short": "cima seta com ponta esquerda"
+            }
+        },
+        "key": "21B0"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para cima seta com ponta para a direita",
+                "short": "cima seta com ponta direita"
+            }
+        },
+        "key": "21B1"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para baixo seta com ponta para a esquerda",
+                "short": "seta com ponta esquerda para baixo"
+            }
+        },
+        "key": "21B2"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para baixo seta com ponta para a direita",
+                "short": "seta com ponta direita para baixo"
+            }
+        },
+        "key": "21B3"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta com canto para baixo",
+                "short": "seta para a direita com o canto para baixo"
+            }
+        },
+        "key": "21B4"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para baixo seta com canto para a esquerda",
+                "short": "para baixo com o canto esquerdo"
+            }
+        },
+        "key": "21B5"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta do semicírculo superior no sentido anti-horário"
+            }
+        },
+        "key": "21B6"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita semicírculo superior"
+            }
+        },
+        "key": "21B7"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta de oeste norte de barra longa",
+                "short": "seta para a esquerda superior ao tempo bar"
+            }
+        },
+        "key": "21B8"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta para barra mais para a direita seta para bar",
+                "short": "seta para a esquerda a barra sobre a seta para a direita para bar"
+            }
+        },
+        "key": "21B9"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta círculo aberto no sentido anti-horário"
+            }
+        },
+        "key": "21BA"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita círculo aberto"
+            }
+        },
+        "key": "21BB"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta mais para a esquerda seta",
+                "short": "seta para a direita sobre a seta para a esquerda"
+            }
+        },
+        "key": "21C4"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para cima seta para a esquerda de para baixo seta",
+                "short": "a seta para a esquerda da seta para baixo"
+            }
+        },
+        "key": "21C5"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta sobre para a direita seta",
+                "short": "seta para a esquerda sobre a seta para a direita"
+            }
+        },
+        "key": "21C6"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "setas para a esquerda emparelhadas",
+                "short": "esquerda setas emparelhadas"
+            }
+        },
+        "key": "21C7"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "setas para cima emparelhadas",
+                "short": "até as setas emparelhadas"
+            }
+        },
+        "key": "21C8"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "setas para a direita emparelhadas",
+                "short": "certa flechas emparelhadas"
+            }
+        },
+        "key": "21C9"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "setas para baixo emparelhadas",
+                "short": "para baixo setas emparelhadas"
+            }
+        },
+        "key": "21CA"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para a esquerda dupla com acidente vascular cerebral",
+                "short": "seta dupla à esquerda com acidente vascular cerebral"
+            }
+        },
+        "key": "21CD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a esquerda direita dupla com acidente vascular cerebral"
+            }
+        },
+        "key": "21CE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita duas vezes com acidente vascular cerebral",
+                "short": "seta direita dupla com acidente vascular cerebral"
+            }
+        },
+        "key": "21CF"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta dupla para a esquerda",
+                "short": "seta dupla para a esquerda"
+            }
+        },
+        "key": "21D0"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para cima duas vezes",
+                "short": "seta dupla para cima"
+            }
+        },
+        "key": "21D1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita duas vezes",
+                "short": "seta direita duas vezes"
+            }
+        },
+        "key": "21D2"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta dupla para baixo",
+                "short": "seta dupla para baixo"
+            }
+        },
+        "key": "21D3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a esquerda direita dupla"
+            }
+        },
+        "key": "21D4"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "cima seta dupla para baixo"
+            }
+        },
+        "key": "21D5"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta dupla do oeste norte",
+                "short": "superior esquerda seta dupla"
+            }
+        },
+        "key": "21D6"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta dupla do leste norte",
+                "short": "seta direita duas vezes superior"
+            }
+        },
+        "key": "21D7"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta dupla sul-leste",
+                "short": "seta direita dupla inferior"
+            }
+        },
+        "key": "21D8"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta dupla sudoeste",
+                "short": "inferior esquerda seta dupla"
+            }
+        },
+        "key": "21D9"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para a esquerda tripla",
+                "short": "seta para a esquerda tripla"
+            }
+        },
+        "key": "21DA"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita tripla",
+                "short": "seta direita tripla"
+            }
+        },
+        "key": "21DB"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "rabisco para a esquerda seta",
+                "short": "seta esquerda rabisco"
+            }
+        },
+        "key": "21DC"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "rabisco para a direita seta",
+                "short": "seta direita rabisco"
+            }
+        },
+        "key": "21DD"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para cima seta com traço duplo",
+                "short": "cima seta com traço duplo"
+            }
+        },
+        "key": "21DE"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para baixo seta com traço duplo",
+                "short": "para baixo com traço duplo"
+            }
+        },
+        "key": "21DF"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para a esquerda tracejada",
+                "short": "esquerdo seta tracejada"
+            }
+        },
+        "key": "21E0"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para cima tracejada",
+                "short": "cima seta tracejada"
+            }
+        },
+        "key": "21E1"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita tracejada",
+                "short": "direita seta tracejada"
+            }
+        },
+        "key": "21E2"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para baixo tracejada",
+                "short": "em baixo seta tracejada"
+            }
+        },
+        "key": "21E3"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta para bar",
+                "short": "seta para a esquerda para bar"
+            }
+        },
+        "key": "21E4"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta para bar",
+                "short": "seta para a direita para bar"
+            }
+        },
+        "key": "21E5"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para a esquerda branca",
+                "short": "seta para a esquerda branca"
+            }
+        },
+        "key": "21E6"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para cima-branca",
+                "short": "branco, seta para cima"
+            }
+        },
+        "key": "21E7"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita branca",
+                "short": "seta para a direita branca"
+            }
+        },
+        "key": "21E8"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para baixo branca",
+                "short": "branco, seta para baixo"
+            }
+        },
+        "key": "21E9"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para cima branca de bar",
+                "short": "branco até a seta de bar"
+            }
+        },
+        "key": "21EA"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para cima branca em pedestal",
+                "alternative": "cima seta branca em pedestal",
+                "short": "branco seta pedestal acima"
+            }
+        },
+        "key": "21EB"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para cima branca em pedestal com barra horizontal",
+                "alternative": "cima seta branca em pedestal com barra horizontal",
+                "short": "branco seta em pedestal com barra horizontal acima"
+            }
+        },
+        "key": "21EC"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para cima branca em pedestal com barra vertical",
+                "alternative": "cima seta branca em pedestal com barra vertical",
+                "short": "branco seta em pedestal com barra vertical acima"
+            }
+        },
+        "key": "21ED"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta dupla para cima branca",
+                "alternative": "cima seta dupla branca",
+                "short": "branca dupla seta para cima"
+            }
+        },
+        "key": "21EE"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta dupla para cima branca pedestal",
+                "alternative": "cima seta dupla branca em pedestal",
+                "short": "duplo seta pedestal branco"
+            }
+        },
+        "key": "21EF"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita branca da parede",
+                "alternative": "seta direita branca da parede",
+                "short": "seta para a direita branca da parede"
+            }
+        },
+        "key": "21F0"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta de oeste norte de canto"
+            }
+        },
+        "key": "21F1"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta de sudeste para canto"
+            }
+        },
+        "key": "21F2"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "acima abaixo seta branca"
+            }
+        },
+        "key": "21F3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita com pequeno círculo"
+            }
+        },
+        "key": "21F4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "abaixo a seta para a esquerda de cima seta",
+                "short": "para baixo seta para a esquerda da seta para cima"
+            }
+        },
+        "key": "21F5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "três para a direita setas",
+                "short": "três setas direita"
+            }
+        },
+        "key": "21F6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta com traço vertical",
+                "short": "seta para a esquerda com traço vertical"
+            }
+        },
+        "key": "21F7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta com traço vertical",
+                "short": "seta para a direita com traço vertical"
+            }
+        },
+        "key": "21F8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita esquerda com traço vertical"
+            }
+        },
+        "key": "21F9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta com traço vertical duplo",
+                "short": "seta para a esquerda com traço vertical duplo"
+            }
+        },
+        "key": "21FA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta com traço vertical duplo",
+                "short": "seta para a direita com traço vertical duplo"
+            }
+        },
+        "key": "21FB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita esquerda com traço vertical duplo"
+            }
+        },
+        "key": "21FC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "abrir para a esquerda seta cabeça",
+                "short": "aberto à esquerda indo seta"
+            }
+        },
+        "key": "21FD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "abrir para a direita seta cabeça",
+                "short": "seta de cabeça bem aberta"
+            }
+        },
+        "key": "21FE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta esquerda de cabeça bem aberta"
+            }
+        },
+        "key": "21FF"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta elétrica"
+            }
+        },
+        "key": "2301"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "cima seta"
+            }
+        },
+        "key": "2303"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "em baixo seta"
+            }
+        },
+        "key": "2304"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "cima seta entre duas barras horizontais",
+                "alternative": "inserir chave"
+            }
+        },
+        "key": "2324"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "círculo quebrado com seta noroeste"
+            }
+        },
+        "key": "238B"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "toda a pesada cabeça para a direita seta",
+                "short": "todo o pesado indo seta para a direita"
+            }
+        },
+        "key": "2794"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta de pesados sudeste",
+                "short": "seta para a direita inferior pesada"
+            }
+        },
+        "key": "2798"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "pesados para a direita seta",
+                "short": "seta para a direita pesada"
+            }
+        },
+        "key": "2799"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta de leste norte pesado",
+                "short": "seta para a direita superior pesada"
+            }
+        },
+        "key": "279A"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "elaboração de ponto para a direita seta",
+                "short": "seta direita do ponto de elaboração"
+            }
+        },
+        "key": "279B"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "rodada pesada com ponta para a direita seta",
+                "short": "rodada pesada com ponta de seta para a direita"
+            }
+        },
+        "key": "279C"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "triângulo indo para a direita seta",
+                "short": "triângulo indo seta para a direita"
+            }
+        },
+        "key": "279D"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "triângulo pesado indo para a direita seta",
+                "short": "triângulo pesado indo seta para a direita"
+            }
+        },
+        "key": "279E"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "tracejado triângulo indo para a direita seta",
+                "short": "tracejado triângulo indo seta para a direita"
+            }
+        },
+        "key": "279F"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "triângulo tracejado pesado indo para a direita seta",
+                "short": "triângulo tracejado pesado indo seta para a direita"
+            }
+        },
+        "key": "27A0"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta preta para a direita",
+                "short": "seta preta à direita"
+            }
+        },
+        "key": "27A1"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "top 3 d iluminado para a direita seta",
+                "short": "d três top iluminado seta direita"
+            }
+        },
+        "key": "27A2"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "fundo de três d iluminado para a direita seta",
+                "short": "d três fundo iluminado seta direita"
+            }
+        },
+        "key": "27A3"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "preto para a direita seta",
+                "short": "seta direita preta"
+            }
+        },
+        "key": "27A4"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "preto pesado curvado para baixo e para a direita seta",
+                "short": "preto pesado curvado para baixo e seta direita"
+            }
+        },
+        "key": "27A5"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "preto pesado curvado para cima e para a direita seta",
+                "short": "preto pesado curva ascendente e seta direita"
+            }
+        },
+        "key": "27A6"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "agachamento preto para a direita seta",
+                "short": "seta para a direita preta agachamento"
+            }
+        },
+        "key": "27A7"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "côncavo pesado apontou preto para a direita seta",
+                "short": "côncavo pesado apontou seta preta à direita"
+            }
+        },
+        "key": "27A8"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "direito à sombra branca para a direita seta",
+                "short": "sombreado branca direita seta para a direita"
+            }
+        },
+        "key": "27A9"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "esquerda à sombra branca para a direita seta",
+                "short": "com sombra branca direita seta para a esquerda"
+            }
+        },
+        "key": "27AA"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "volta branco sombreado inclinado para a direita seta",
+                "short": "volta inclinada sombreada branca seta para a direita"
+            }
+        },
+        "key": "27AB"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "frontal inclinado sombreado branco para a direita seta",
+                "short": "frontal inclinada sombreada branca seta para a direita"
+            }
+        },
+        "key": "27AC"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "pesado inferior direito uma sombra branca para a direita seta",
+                "short": "pesado inferior sombreada branca direita seta direita"
+            }
+        },
+        "key": "27AD"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "pesado superior direito uma sombra branca para a direita seta",
+                "short": "pesado superior sombreada branca direita seta direita"
+            }
+        },
+        "key": "27AE"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "entalhado inferior direito uma sombra branca para a direita seta",
+                "short": "entalhado inferior sombreada branca direita seta direita"
+            }
+        },
+        "key": "27AF"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "entalhado superior direito uma sombra branca para a direita seta",
+                "short": "entalhado superior sombreada branca direita seta direita"
+            }
+        },
+        "key": "27B1"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "um círculo branco pesado para a direita seta",
+                "short": "um círculo branca pesada seta para a direita"
+            }
+        },
+        "key": "27B2"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "branco de penas para a direita seta",
+                "short": "seta para a direita de penas brancas"
+            }
+        },
+        "key": "27B3"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta preta emplumados sudeste",
+                "short": "seta para a direita inferior de penas preto"
+            }
+        },
+        "key": "27B4"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "preto de penas para a direita seta",
+                "short": "seta para a direita de penas preto"
+            }
+        },
+        "key": "27B5"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta de leste norte penas pretas",
+                "short": "seta para a direita superior de penas preto"
+            }
+        },
+        "key": "27B6"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta do sudeste de penas preto pesado",
+                "short": "seta para a direita inferior de penas preto pesado"
+            }
+        },
+        "key": "27B7"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "preto pesado penas para a direita seta",
+                "short": "seta para a direita de penas preto pesado"
+            }
+        },
+        "key": "27B8"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta de leste norte de penas preto pesado",
+                "short": "seta para a direita superior de penas preto pesado"
+            }
+        },
+        "key": "27B9"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "lágrima farpado para a direita seta",
+                "short": "seta para a direita farpado lágrima"
+            }
+        },
+        "key": "27BA"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "lágrima pesada chinado para a direita seta",
+                "short": "seta para a direita shanked lágrima pesada"
+            }
+        },
+        "key": "27BB"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "cunha de cauda para a direita-seta",
+                "short": "seta para a direita cauda cunha"
+            }
+        },
+        "key": "27BC"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "cunha pesada de cauda para a direita-seta",
+                "short": "seta para a direita cauda pesada cunha"
+            }
+        },
+        "key": "27BD"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "aberto descrito para a direita seta",
+                "short": "aberto delineou a seta para a direita"
+            }
+        },
+        "key": "27BE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para cima quádrupla",
+                "short": "cima seta quádrupla"
+            }
+        },
+        "key": "27F0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para baixo quádrupla",
+                "short": "em baixo seta quádrupla"
+            }
+        },
+        "key": "27F1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta círculo de folga no sentido anti-horário"
+            }
+        },
+        "key": "27F2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta círculo no sentido horário de folga"
+            }
+        },
+        "key": "27F3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita com um círculo plus"
+            }
+        },
+        "key": "27F4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "tempo para a esquerda seta",
+                "short": "seta para a esquerda longa"
+            }
+        },
+        "key": "27F5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "tempo para a direita seta",
+                "short": "seta para a direita tempo"
+            }
+        },
+        "key": "27F6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "tempo à esquerda seta para direita"
+            }
+        },
+        "key": "27F7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta dupla longa para a esquerda",
+                "short": "seta dupla longa esquerda"
+            }
+        },
+        "key": "27F8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta longa para a direita duas vezes",
+                "short": "seta dupla muito bem"
+            }
+        },
+        "key": "27F9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta direita dupla longa esquerda"
+            }
+        },
+        "key": "27FA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "tempo para a esquerda seta da barra",
+                "short": "seta para a esquerda longa de bar"
+            }
+        },
+        "key": "27FB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "tempo para a direita seta da barra",
+                "short": "seta para a direita tempo de bar"
+            }
+        },
+        "key": "27FC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta dupla longa para a esquerda da barra"
+            }
+        },
+        "key": "27FD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta dupla longa para a direita da barra de",
+                "short": "seta dupla muito bem do bar"
+            }
+        },
+        "key": "27FE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "squiggle longo para a direita seta",
+                "short": "seta do tempo certo rabisco"
+            }
+        },
+        "key": "27FF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita duas cabeças de seta com traço vertical",
+                "alternative": "bem dois cabeças de seta com traço vertical",
+                "short": "duas cabeças de seta para a direita com traço vertical"
+            }
+        },
+        "key": "2900"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita duas cabeças de seta com um traço vertical duplo",
+                "alternative": "bem dois cabeças de seta com um traço vertical duplo",
+                "short": "duas cabeças de seta para a direita com traço vertical duplo"
+            }
+        },
+        "key": "2901"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a esquerda dupla com traço vertical",
+                "alternative": "seta dupla à esquerda com traço vertical",
+                "short": "seta para a esquerda dupla com traço vertical"
+            }
+        },
+        "key": "2902"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita duas vezes com traço vertical",
+                "alternative": "seta direita dupla com traço vertical",
+                "short": "dupla seta para a direita com traço vertical"
+            }
+        },
+        "key": "2903"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a esquerda direita dupla com traço vertical",
+                "short": "dupla seta para a direita com traço vertical à esquerda"
+            }
+        },
+        "key": "2904"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita duas cabeças de seta de bar",
+                "alternative": "bem dois indo a seta da barra",
+                "short": "duas cabeças de seta para a direita da barra de"
+            }
+        },
+        "key": "2905"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta dupla para a esquerda da barra",
+                "alternative": "seta dupla à esquerda da barra",
+                "short": "dupla seta para a esquerda da barra"
+            }
+        },
+        "key": "2906"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta dupla para a direita da barra de",
+                "alternative": "seta direita dupla de bar",
+                "short": "dupla seta à direita da barra de"
+            }
+        },
+        "key": "2907"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para baixo seta com um traço horizontal",
+                "alternative": "seta com um traço horizontal para",
+                "short": "seta para baixo por um traço horizontal"
+            }
+        },
+        "key": "2908"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para cima seta com um traço horizontal",
+                "short": "cima seta com um traço horizontal"
+            }
+        },
+        "key": "2909"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para cima-tripla",
+                "short": "tripla seta para cima"
+            }
+        },
+        "key": "290A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para baixo tripla",
+                "short": "triplo-seta para baixo"
+            }
+        },
+        "key": "290B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a esquerda duplo traço",
+                "short": "seta esquerda duplo traço"
+            }
+        },
+        "key": "290C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita duplo traço",
+                "short": "seta direita duplo traço"
+            }
+        },
+        "key": "290D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a esquerda triplo de souza",
+                "short": "seta esquerda traço triplo"
+            }
+        },
+        "key": "290E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita triplo de souza",
+                "short": "seta direita triplo de souza"
+            }
+        },
+        "key": "290F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita duas cabeças seta tripla de souza",
+                "short": "bem dois indo seta tripla de souza"
+            }
+        },
+        "key": "2910"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta com pontilhado tronco",
+                "short": "seta para a direita com haste pontilhada"
+            }
+        },
+        "key": "2911"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para cima seta para bar",
+                "short": "seta para cima para bar"
+            }
+        },
+        "key": "2912"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para baixo seta para bar",
+                "short": "seta para baixo para bar"
+            }
+        },
+        "key": "2913"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta com cauda com traço vertical",
+                "short": "seta para a direita com cauda com traço vertical"
+            }
+        },
+        "key": "2914"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta com cauda com traço vertical duplo",
+                "short": "seta para a direita com cauda com traço vertical duplo"
+            }
+        },
+        "key": "2915"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita duas cabeças de seta com cauda",
+                "short": "bem dois cabeças de seta com cauda"
+            }
+        },
+        "key": "2916"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita duas cabeças de seta com cauda com traço vertical",
+                "short": "bem dois cabeças de seta com cauda com traço vertical"
+            }
+        },
+        "key": "2917"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita duas cabeças de seta com cauda com traço vertical duplo",
+                "short": "bem dois cabeças de seta com cauda com traço vertical duplo"
+            }
+        },
+        "key": "2918"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a esquerda da cauda",
+                "short": "cauda da seta para a esquerda"
+            }
+        },
+        "key": "2919"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita da cauda",
+                "short": "cauda da seta para a direita"
+            }
+        },
+        "key": "291A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "cauda de seta dupla para a esquerda",
+                "short": "deixou a cauda de seta dupla"
+            }
+        },
+        "key": "291B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "cauda de seta dupla para a direita",
+                "short": "cauda de seta direita duas vezes"
+            }
+        },
+        "key": "291C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta para diamante negro",
+                "short": "seta para a esquerda para diamante negro"
+            }
+        },
+        "key": "291D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta para diamante negro",
+                "short": "seta para a direita para diamante negro"
+            }
+        },
+        "key": "291E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta da barra de diamante negro",
+                "short": "seta para a esquerda da barra de diamante negro"
+            }
+        },
+        "key": "291F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta da barra de diamante negro"
+            }
+        },
+        "key": "2920"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "sentido leste-oeste e sudeste flecha"
+            }
+        },
+        "key": "2921"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta de sul a oeste e nordeste"
+            }
+        },
+        "key": "2922"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta de oeste norte com gancho"
+            }
+        },
+        "key": "2923"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta de leste norte com gancho"
+            }
+        },
+        "key": "2924"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta de sudeste com gancho"
+            }
+        },
+        "key": "2925"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta de sudoeste com gancho"
+            }
+        },
+        "key": "2926"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "norte oeste norte leste seta e"
+            }
+        },
+        "key": "2927"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "norte leste sudeste seta e"
+            }
+        },
+        "key": "2928"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta do oeste sul e sudeste"
+            }
+        },
+        "key": "2929"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta de oeste norte e sul oeste"
+            }
+        },
+        "key": "292A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a sudeste seta travessia norte leste"
+            }
+        },
+        "key": "292D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta de leste norte cruzando a seta do sudeste"
+            }
+        },
+        "key": "292E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "queda de seta de leste cruzamento diagonal norte"
+            }
+        },
+        "key": "292F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "subindo a seta no sudeste de cruzamento diagonal"
+            }
+        },
+        "key": "2930"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "norte leste seta travessia norte oeste seta"
+            }
+        },
+        "key": "2931"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "norte oeste seta travessia norte leste seta"
+            }
+        },
+        "key": "2932"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "onda de seta apontando diretamente direito"
+            }
+        },
+        "key": "2933"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta apontando para a direita, em seguida, curvando-se para cima",
+                "short": "seta apontando certo então, curvando-se acima"
+            }
+        },
+        "key": "2934"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta apontando para a direita, em seguida, curvando-se para baixo",
+                "short": "seta apontando certo então, curvando-se para baixo"
+            }
+        },
+        "key": "2935"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta apontando para baixo, em seguida, curvando-se para a esquerda",
+                "short": "seta apontando para baixo, em seguida, curvando-se deixou"
+            }
+        },
+        "key": "2936"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta apontando para baixo, em seguida, curvando-se para a direita",
+                "short": "seta apontando para baixo, em seguida, curvando-se bem"
+            }
+        },
+        "key": "2937"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita de arco de lado direito"
+            }
+        },
+        "key": "2938"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a esquerda arco no sentido anti-horário"
+            }
+        },
+        "key": "2939"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta esquerda arco superior"
+            }
+        },
+        "key": "293A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta no sentido anti-horário de arco inferior"
+            }
+        },
+        "key": "293B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a esquerda arco superior com menos"
+            }
+        },
+        "key": "293C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta no sentido anti-horário do arco superior com plus"
+            }
+        },
+        "key": "293D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita direita semicircular inferior"
+            }
+        },
+        "key": "293E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "baixa semicircular no sentido anti-horário seta para a esquerda"
+            }
+        },
+        "key": "293F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta círculo fechado no sentido anti-horário"
+            }
+        },
+        "key": "2940"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita círculo fechado"
+            }
+        },
+        "key": "2941"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta acima curta-seta para a esquerda",
+                "short": "seta para a direita acima curta seta para a esquerda"
+            }
+        },
+        "key": "2942"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta acima curta para a direita-seta",
+                "short": "seta para a esquerda acima seta direita curta"
+            }
+        },
+        "key": "2943"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "curto para a direita seta acima para a esquerda seta",
+                "short": "seta para a direita curta acima seta para a esquerda"
+            }
+        },
+        "key": "2944"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta com mais abaixo",
+                "short": "seta para a direita com mais abaixo"
+            }
+        },
+        "key": "2945"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta com mais abaixo",
+                "short": "seta para a esquerda com mais abaixo"
+            }
+        },
+        "key": "2946"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta através do x",
+                "short": "seta para a direita através do x"
+            }
+        },
+        "key": "2947"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "à esquerda seta para a direita através do pequeno círculo"
+            }
+        },
+        "key": "2948"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para cima dois cabeças de seta do círculo pequeno",
+                "short": "duas cabeças seta do círculo pequeno"
+            }
+        },
+        "key": "2949"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta direita dupla com cabeça arredondada"
+            }
+        },
+        "key": "2970"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "igual a assina acima para a direita seta",
+                "short": "sinal de igual acima seta para a direita"
+            }
+        },
+        "key": "2971"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "operador de til acima para a direita seta",
+                "short": "operador de til acima seta para a direita"
+            }
+        },
+        "key": "2972"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta acima operador til",
+                "short": "seta para a esquerda acima operador til"
+            }
+        },
+        "key": "2973"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta acima operador til",
+                "short": "seta para a direita acima operador til"
+            }
+        },
+        "key": "2974"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta acima quase igual a",
+                "short": "seta para a direita acima quase igual a"
+            }
+        },
+        "key": "2975"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "menos de acima para a esquerda seta",
+                "short": "seta para a esquerda inferior acima"
+            }
+        },
+        "key": "2976"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta através de menos de",
+                "short": "seta para a esquerda através de menos de"
+            }
+        },
+        "key": "2977"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "maior que acima para a direita seta",
+                "short": "maior que acima da seta para a direita"
+            }
+        },
+        "key": "2978"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "subconjunto acima para a direita seta",
+                "short": "subconjunto acima seta para a direita"
+            }
+        },
+        "key": "2979"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta através do subconjunto",
+                "short": "seta para a esquerda através do subconjunto"
+            }
+        },
+        "key": "297A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "superconjunto acima para a esquerda seta",
+                "short": "superconjunto acima seta para a esquerda"
+            }
+        },
+        "key": "297B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "conjunto vazio com seta para a direita acima"
+            }
+        },
+        "key": "29B3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "conjunto vazio com seta para a esquerda acima"
+            }
+        },
+        "key": "29B4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "cima seta através do círculo"
+            }
+        },
+        "key": "29BD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "diamante negro com seta para baixo"
+            }
+        },
+        "key": "29EA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "círculo branco com seta para baixo"
+            }
+        },
+        "key": "29EC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "círculo preto com seta para baixo"
+            }
+        },
+        "key": "29ED"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "integral com para a esquerda seta com gancho",
+                "short": "integral com seta para a esquerda com gancho"
+            }
+        },
+        "key": "2A17"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta de leste branco do norte"
+            }
+        },
+        "key": "2B00"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta de branco do oeste norte"
+            }
+        },
+        "key": "2B01"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta do sul leste branco"
+            }
+        },
+        "key": "2B02"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta branca sudoeste"
+            }
+        },
+        "key": "2B03"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para a esquerda direita branca"
+            }
+        },
+        "key": "2B04"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para a esquerda preta",
+                "short": "seta preta à esquerda"
+            }
+        },
+        "key": "2B05"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta preta para cima",
+                "short": "seta preta para cima"
+            }
+        },
+        "key": "2B06"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para baixo preta",
+                "short": "seta preta"
+            }
+        },
+        "key": "2B07"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta de norte leste preto"
+            }
+        },
+        "key": "2B08"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta de preto oeste norte"
+            }
+        },
+        "key": "2B09"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta do sul leste preto"
+            }
+        },
+        "key": "2B0A"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta preta sudoeste"
+            }
+        },
+        "key": "2B0B"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para a esquerda direita preta"
+            }
+        },
+        "key": "2B0C"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "acima abaixo seta preta"
+            }
+        },
+        "key": "2B0D"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta com ponta para baixo",
+                "short": "seta para a direita com ponta para baixo"
+            }
+        },
+        "key": "2B0E"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta com ponta para cima",
+                "short": "seta para a direita com ponta acima"
+            }
+        },
+        "key": "2B0F"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta com ponta para baixo",
+                "short": "seta para a esquerda com ponta para baixo"
+            }
+        },
+        "key": "2B10"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta com ponta para cima",
+                "short": "seta para a esquerda com ponta acima"
+            }
+        },
+        "key": "2B11"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a esquerda com pequeno círculo"
+            }
+        },
+        "key": "2B30"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "três para a esquerda setas",
+                "short": "três setas esquerdas"
+            }
+        },
+        "key": "2B31"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "seta para a esquerda com um círculo plus"
+            }
+        },
+        "key": "2B32"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "squiggle longa para a esquerda seta",
+                "short": "seta longa esquerda rabisco"
+            }
+        },
+        "key": "2B33"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda duas cabeças de seta com traço vertical",
+                "short": "deixou duas cabeças de seta com traço vertical"
+            }
+        },
+        "key": "2B34"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda duas cabeças de seta com um traço vertical duplo",
+                "short": "deixou duas cabeças de seta com um traço vertical duplo"
+            }
+        },
+        "key": "2B35"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda duas cabeças de seta da barra",
+                "short": "à esquerda duas cabeças de seta de bar"
+            }
+        },
+        "key": "2B36"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda duas cabeças seta tripla de souza",
+                "short": "à esquerda duas cabeças de seta tripla de souza"
+            }
+        },
+        "key": "2B37"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta com pontilhado tronco",
+                "short": "seta para a esquerda com haste pontilhada"
+            }
+        },
+        "key": "2B38"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta com cauda com traço vertical",
+                "short": "seta para a esquerda com cauda com traço vertical"
+            }
+        },
+        "key": "2B39"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta com cauda com traço vertical duplo",
+                "short": "seta para a esquerda com cauda com traço vertical duplo"
+            }
+        },
+        "key": "2B3A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda duas cabeças de seta com cauda",
+                "short": "deixou duas cabeças de seta com cauda"
+            }
+        },
+        "key": "2B3B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda duas cabeças de seta com cauda com traço vertical",
+                "short": "deixou duas cabeças de seta com cauda com traço vertical"
+            }
+        },
+        "key": "2B3C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda duas cabeças de seta com cauda com traço vertical duplo",
+                "short": "deixou duas cabeças de seta com cauda com traço vertical duplo"
+            }
+        },
+        "key": "2B3D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta através do x",
+                "short": "seta para a esquerda através do x"
+            }
+        },
+        "key": "2B3E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "onda seta apontando diretamente deixou"
+            }
+        },
+        "key": "2B3F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "igual a assina acima para a esquerda seta",
+                "short": "sinal de igual acima seta para a esquerda"
+            }
+        },
+        "key": "2B40"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "reverter o operador til acima para a esquerda seta",
+                "short": "operador de til reversa acima seta para a esquerda"
+            }
+        },
+        "key": "2B41"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta acima reverter quase igual a",
+                "short": "seta acima reverso esquerda quase igual a"
+            }
+        },
+        "key": "2B42"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta através de maior que",
+                "short": "seta para a direita através de maior que"
+            }
+        },
+        "key": "2B43"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta através de superconjunto",
+                "short": "seta para a direita através de superconjunto"
+            }
+        },
+        "key": "2B44"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para a esquerda quádrupla",
+                "short": "seta para a esquerda quádrupla"
+            }
+        },
+        "key": "2B45"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "seta para a direita quádrupla",
+                "short": "seta direita quádrupla"
+            }
+        },
+        "key": "2B46"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "reverter o operador til acima para a direita seta",
+                "short": "operador de til reversa acima seta para a direita"
+            }
+        },
+        "key": "2B47"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta acima reverter quase igual a",
+                "short": "seta para a direita acima reverter quase igual a"
+            }
+        },
+        "key": "2B48"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "operador de til acima para a esquerda seta",
+                "short": "operador de til acima seta para a esquerda"
+            }
+        },
+        "key": "2B49"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta acima quase igual a",
+                "short": "seta para a esquerda sobre quase igual a"
+            }
+        },
+        "key": "2B4A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a esquerda seta acima reverter operador til",
+                "short": "seta para a esquerda acima operador til reversa"
+            }
+        },
+        "key": "2B4B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para a direita seta acima reverter operador til",
+                "short": "seta para a direita acima operador til reversa"
+            }
+        },
+        "key": "2B4C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "halfwidth para a esquerda seta",
+                "short": "seta para a esquerda meia largura"
+            }
+        },
+        "key": "FFE9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "halfwidth para cima seta",
+                "short": "halfwidth seta para cima"
+            }
+        },
+        "key": "FFEA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "halfwidth para a direita seta",
+                "short": "seta para a direita meia largura"
+            }
+        },
+        "key": "FFEB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "halfwidth para baixo seta",
+                "short": "halfwidth seta para baixo"
+            }
+        },
+        "key": "FFEC"
+    }
+]

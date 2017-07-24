@@ -1,0 +1,158 @@
+[
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D26",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "gama de pequeno capital letra grega",
+                "alternative": "gama de letra grega",
+                "short": "gama de versalete"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D27",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra grega versalete lamda",
+                "alternative": "letra grega lambda",
+                "short": "pequena tampa lamda"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D28",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "pi de pequeno capital letra grega",
+                "alternative": "pi letra grega",
+                "short": "pi de versalete"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D29",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "rho de pequeno capital letra grega",
+                "alternative": "rho letra grega",
+                "short": "rho pequena tampa"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D2A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "psi de pequeno capital letra grega",
+                "alternative": "psi de letra grega",
+                "short": "libras por polegada quadrada pequena tampa"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "1D5E",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "gamma grego pequeno de modificador letra",
+                "alternative": "gama de sobrescrito letra grega",
+                "short": "gama de sobrescrito"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "1D60",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra modificadora minúscula fi grego",
+                "alternative": "letra grega fi sobrescrito",
+                "short": "phi sobrescrito"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "1D66",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "beta grego-letra minúscula subscrito",
+                "alternative": "",
+                "short": "subscrito beta"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "1D67",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "gama de letra minúscula grega e subscrito",
+                "alternative": "gama de letra grega",
+                "short": "subscrita gama"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "1D68",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "rho letra minúscula grega e subscrito",
+                "alternative": "rho letra grega",
+                "short": "rho subscrito"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "1D69",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "phi letra minúscula grega e subscrito",
+                "alternative": "letra grega fi",
+                "short": "phi subscrito"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "1D6A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "chi de letra minúscula grega e subscrito",
+                "alternative": "chi de letra grega",
+                "short": "subscript chi"
+            }
+        }
+    }
+]

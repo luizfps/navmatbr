@@ -1,0 +1,327 @@
+[
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03B1",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra minúscula grega alfa",
+                "alternative": "",
+                "short": "alfa"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03B2",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "beta de letra grega minúscula",
+                "alternative": "",
+                "short": "beta"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03B3",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "gama de letra grega minúscula",
+                "alternative": "",
+                "short": "gama"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03B4",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "delta de letra grega minúscula",
+                "alternative": "",
+                "short": "delta"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03B5",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "épsilon letra grega minúscula",
+                "alternative": "",
+                "short": "epsilon"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03B6",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "zeta letra grega minúscula",
+                "alternative": "",
+                "short": "zeta"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03B7",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra minúscula grega eta",
+                "alternative": "",
+                "short": "eta"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03B8",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra pequena grega theta",
+                "alternative": "",
+                "short": "theta"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03B9",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra minúscula grega iota",
+                "alternative": "",
+                "short": "iota"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03BA",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "kappa letra grega minúscula",
+                "alternative": "",
+                "short": "kappa"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03BB",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra minúscula grega lambda",
+                "alternative": "lambda letra grega minúscula",
+                "short": "lamda"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03BC",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "mu letra grega minúscula",
+                "alternative": "",
+                "short": "mu"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03BD",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "nu de letra grega minúscula",
+                "alternative": "",
+                "short": "nu"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03BE",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "xi letra grega minúscula",
+                "alternative": "",
+                "short": "xi"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03BF",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "omicron letra grega minúscula",
+                "alternative": "",
+                "short": "omicron"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03C0",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "pi letra grega minúscula",
+                "alternative": "",
+                "short": "pi"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03C1",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "rho letra grega minúscula",
+                "alternative": "",
+                "short": "rho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03C2",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "sigma final letra grega minúscula",
+                "alternative": "",
+                "short": "final sigma"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03C3",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "sigma de letra grega minúscula",
+                "alternative": "",
+                "short": "sigma"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03C4",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "tau letra grega minúscula",
+                "alternative": "",
+                "short": "tau"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03C5",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra minúscula grega ipsilon",
+                "alternative": "",
+                "short": "upsilon"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03C6",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "phi letra grega minúscula",
+                "alternative": "",
+                "short": "phi"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03C7",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "chi de letra grega minúscula",
+                "alternative": "",
+                "short": "chi"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03C8",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "psi de letra grega minúscula",
+                "alternative": "",
+                "short": "psi"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03C9",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra minúscula grega ômega",
+                "alternative": "",
+                "short": "omega"
+            }
+        }
+    }
+]

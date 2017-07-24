@@ -1,0 +1,314 @@
+[
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "0391",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega alfa",
+                "alternative": "",
+                "short": "alfa de cap"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "0392",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega beta",
+                "alternative": "",
+                "short": "beta de cap"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "0393",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega gama",
+                "alternative": "",
+                "short": "gama de cap"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "0394",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega delta",
+                "alternative": "",
+                "short": "delta do cap"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "0395",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega épsilon",
+                "alternative": "",
+                "short": "epsilon cap"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "0396",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega zeta",
+                "alternative": "",
+                "short": "cap zeta"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "0397",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega eta",
+                "alternative": "",
+                "short": "cap eta"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "0398",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega theta",
+                "alternative": "",
+                "short": "theta cap"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "0399",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega iota",
+                "alternative": "",
+                "short": "iota cap"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "039A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega kappa",
+                "alternative": "",
+                "short": "kappa de cap"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "039B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega lambda",
+                "alternative": "letra maiuscula grega lambda",
+                "short": "cap lamda"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "039C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega mu",
+                "alternative": "",
+                "short": "mu do cap"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "039D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega nu",
+                "alternative": "",
+                "short": "cap nu"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "039E",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega xi",
+                "alternative": "",
+                "short": "cap xi"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "039F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega ômicron",
+                "alternative": "",
+                "short": "omicron cap"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "03A0",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega pi",
+                "alternative": "",
+                "short": "pi cap"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "03A1",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega rho",
+                "alternative": "",
+                "short": "cap rho"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "03A3",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega sigma",
+                "alternative": "",
+                "short": "cap sigma"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "03A4",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega tau",
+                "alternative": "",
+                "short": "tau de cap"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "03A5",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega ipsilon",
+                "alternative": "",
+                "short": "cap ípsilon"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "03A6",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega phi",
+                "alternative": "",
+                "short": "phi cap"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "03A7",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega chi",
+                "alternative": "",
+                "short": "chi de cap"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "03A8",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula grega psi",
+                "alternative": "",
+                "short": "cap psi"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "03A9",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "letra grega maiuscula ômega",
+                "alternative": "",
+                "short": "ômega de cap"
+            }
+        }
+    }
+]

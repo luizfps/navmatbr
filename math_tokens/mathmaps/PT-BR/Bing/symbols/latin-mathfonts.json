@@ -1,0 +1,6052 @@
+[
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemáticas em negrito capital um",
+                "alternative": "bold (realce) capital um",
+                "short": "cap bold (realce) um"
+            }
+        },
+        "key": "1D400"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática b capital bold (realce)",
+                "alternative": "b capital bold (realce)",
+                "short": "b tampa bold (realce)"
+            }
+        },
+        "key": "1D401"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática c capital bold (realce)",
+                "alternative": "c capital bold (realce)",
+                "short": "c tampa bold (realce)"
+            }
+        },
+        "key": "1D402"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em negrito capital d",
+                "alternative": "bold (realce) capital d",
+                "short": "bold (realce) cap d"
+            }
+        },
+        "key": "1D403"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática e bold (realce) de capital",
+                "alternative": "bold (realce) e capital",
+                "short": "cap em negrito e"
+            }
+        },
+        "key": "1D404"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "f capital bold (realce) matemática",
+                "alternative": "f capital bold (realce)",
+                "short": "f tampa bold (realce)"
+            }
+        },
+        "key": "1D405"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em negrito capital g",
+                "alternative": "g capital bold (realce)",
+                "short": "g tampa bold (realce)"
+            }
+        },
+        "key": "1D406"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em negrito capital h",
+                "alternative": "bold (realce) capital h",
+                "short": "bold (realce) cap h"
+            }
+        },
+        "key": "1D407"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática capital negrito eu",
+                "alternative": "bold (realce) capital eu",
+                "short": "bold (realce) cap eu"
+            }
+        },
+        "key": "1D408"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "j capital bold (realce) matemática",
+                "alternative": "j capital bold (realce)",
+                "short": "j cap bold (realce)"
+            }
+        },
+        "key": "1D409"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em negrito capital k",
+                "alternative": "k capital bold (realce)",
+                "short": "bold (realce) cap k"
+            }
+        },
+        "key": "1D40A"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática l capital bold (realce)",
+                "alternative": "l capital bold (realce)",
+                "short": "l de tampão bold (realce)"
+            }
+        },
+        "key": "1D40B"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática m capital bold (realce)",
+                "alternative": "m capital bold (realce)",
+                "short": "bold (realce) tampão m"
+            }
+        },
+        "key": "1D40C"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática n capital bold (realce)",
+                "alternative": "n capital bold (realce)",
+                "short": "bold (realce) cap n"
+            }
+        },
+        "key": "1D40D"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em negrito o capital",
+                "alternative": "o capital bold (realce)",
+                "short": "o cap bold (realce)"
+            }
+        },
+        "key": "1D40E"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática p capital bold (realce)",
+                "alternative": "bold (realce) p capital",
+                "short": "p tampa bold (realce)"
+            }
+        },
+        "key": "1D40F"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática q capital bold (realce)",
+                "alternative": "bold (realce) q capital",
+                "short": "q tampa bold (realce)"
+            }
+        },
+        "key": "1D410"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática r capital bold (realce)",
+                "alternative": "r capital bold (realce)",
+                "short": "r cap bold (realce)"
+            }
+        },
+        "key": "1D411"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática s capital bold (realce)",
+                "alternative": "bold (realce) s capital",
+                "short": "tampa em negrito s"
+            }
+        },
+        "key": "1D412"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática t capital bold (realce)",
+                "alternative": "bold (realce) capital t",
+                "short": "cap bold (realce) t"
+            }
+        },
+        "key": "1D413"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em negrito u capital",
+                "alternative": "u capital bold (realce)",
+                "short": "cap negrito u"
+            }
+        },
+        "key": "1D414"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática v capital bold (realce)",
+                "alternative": "v capital bold (realce)",
+                "short": "bold (realce) cap v"
+            }
+        },
+        "key": "1D415"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em negrito capital w",
+                "alternative": "bold (realce) capital w",
+                "short": "bold (realce) tampa w"
+            }
+        },
+        "key": "1D416"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática x capital bold (realce)",
+                "alternative": "bold (realce) x capital",
+                "short": "bold (realce) cap x"
+            }
+        },
+        "key": "1D417"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática y capital bold (realce)",
+                "alternative": "bold (realce) y capital",
+                "short": "cap bold (realce) y"
+            }
+        },
+        "key": "1D418"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em negrito capital z",
+                "alternative": "bold (realce) capital z",
+                "short": "bold (realce) cap z"
+            }
+        },
+        "key": "1D419"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemático pequeno bold (realce) um",
+                "alternative": "bold (realce) pequeno um",
+                "short": "bold (realce) um"
+            }
+        },
+        "key": "1D41A"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática b pequeno bold (realce)",
+                "alternative": "b pequeno bold (realce)",
+                "short": "b negrito"
+            }
+        },
+        "key": "1D41B"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemático c pequeno bold (realce)",
+                "alternative": "c pequeno bold (realce)",
+                "short": "c bold (realce)"
+            }
+        },
+        "key": "1D41C"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática d pequeno bold (realce)",
+                "alternative": "d pequeno bold (realce)",
+                "short": "d bold (realce)"
+            }
+        },
+        "key": "1D41D"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática e pequeno bold (realce)",
+                "alternative": "bold (realce) e pequena",
+                "short": "negrito e"
+            }
+        },
+        "key": "1D41E"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em negrito pequena f",
+                "alternative": "f pequeno bold (realce)",
+                "short": "bold (realce) f"
+            }
+        },
+        "key": "1D41F"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática g pequeno bold (realce)",
+                "alternative": "g pequeno bold (realce)",
+                "short": "bold (realce) g"
+            }
+        },
+        "key": "1D420"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemático h pequeno bold (realce)",
+                "alternative": "h pequeno bold (realce)",
+                "short": "bold (realce) h"
+            }
+        },
+        "key": "1D421"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemático pequeno negrito eu",
+                "alternative": "bold (realce) pequeno eu",
+                "short": "bold (realce) eu"
+            }
+        },
+        "key": "1D422"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em negrito pequena j",
+                "alternative": "j pequeno bold (realce)",
+                "short": "j bold (realce)"
+            }
+        },
+        "key": "1D423"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática k pequeno bold (realce)",
+                "alternative": "k pequeno bold (realce)",
+                "short": "k bold (realce)"
+            }
+        },
+        "key": "1D424"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática l pequeno bold (realce)",
+                "alternative": "bold (realce) l pequeno",
+                "short": "bold (realce) l"
+            }
+        },
+        "key": "1D425"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática m pequeno bold (realce)",
+                "alternative": "bold (realce) m pequeno",
+                "short": "bold (realce) m"
+            }
+        },
+        "key": "1D426"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática n pequeno bold (realce)",
+                "alternative": "n pequeno bold (realce)",
+                "short": "bold (realce) n"
+            }
+        },
+        "key": "1D427"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "o pequeno bold (realce) matemático",
+                "alternative": "o pequeno bold (realce)",
+                "short": "o bold (realce)"
+            }
+        },
+        "key": "1D428"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática p pequeno bold (realce)",
+                "alternative": "p pequeno bold (realce)",
+                "short": "bold (realce) p"
+            }
+        },
+        "key": "1D429"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática q pequeno bold (realce)",
+                "alternative": "bold (realce) q pequeno",
+                "short": "q bold (realce)"
+            }
+        },
+        "key": "1D42A"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática r pequeno bold (realce)",
+                "alternative": "r pequeno bold (realce)",
+                "short": "r bold (realce)"
+            }
+        },
+        "key": "1D42B"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em negrito s pequeno",
+                "alternative": "s pequeno bold (realce)",
+                "short": "bold (realce) s"
+            }
+        },
+        "key": "1D42C"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática t pequeno bold (realce)",
+                "alternative": "bold (realce) t pequeno",
+                "short": "bold (realce) t"
+            }
+        },
+        "key": "1D42D"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em negrito u pequeno",
+                "alternative": "u pequeno bold (realce)",
+                "short": "bold (realce) u"
+            }
+        },
+        "key": "1D42E"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática v pequeno bold (realce)",
+                "alternative": "bold (realce) v pequeno",
+                "short": "bold (realce) v"
+            }
+        },
+        "key": "1D42F"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em negrito w pequena",
+                "alternative": "em negrito w pequena",
+                "short": "bold (realce) w"
+            }
+        },
+        "key": "1D430"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática x pequeno bold (realce)",
+                "alternative": "bold (realce) x pequeno",
+                "short": "bold (realce) x"
+            }
+        },
+        "key": "1D431"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática y pequeno bold (realce)",
+                "alternative": "bold (realce) y pequeno",
+                "short": "bold (realce) y"
+            }
+        },
+        "key": "1D432"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em negrito pequeno z",
+                "alternative": "bold (realce) pequeno z",
+                "short": "bold (realce) z"
+            }
+        },
+        "key": "1D433"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico capital um",
+                "alternative": "capital em itálico uma",
+                "short": "cap em itálico uma"
+            }
+        },
+        "key": "1D434"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemáticos em itálico capital b",
+                "alternative": "b capital em itálico",
+                "short": "b itálico cap"
+            }
+        },
+        "key": "1D435"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico capital c",
+                "alternative": "c capital em itálico",
+                "short": "c tampa em itálico"
+            }
+        },
+        "key": "1D436"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico capital d",
+                "alternative": "em itálico capital d",
+                "short": "d cap em itálico"
+            }
+        },
+        "key": "1D437"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico e capital",
+                "alternative": "itálico e capital",
+                "short": "cap em itálico e"
+            }
+        },
+        "key": "1D438"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico capital f",
+                "alternative": "f capital em itálico",
+                "short": "f tampa itálico"
+            }
+        },
+        "key": "1D439"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico capital g",
+                "alternative": "g capital em itálico",
+                "short": "g tampa itálico"
+            }
+        },
+        "key": "1D43A"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico capital h",
+                "alternative": "h em itálico capital",
+                "short": "h de tampa em itálico"
+            }
+        },
+        "key": "1D43B"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico capital eu",
+                "alternative": "capital em itálico eu",
+                "short": "itálico cap eu"
+            }
+        },
+        "key": "1D43C"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico j capital",
+                "alternative": "j capital em itálico",
+                "short": "cap em itálico j"
+            }
+        },
+        "key": "1D43D"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico capital k",
+                "alternative": "em itálico k capital",
+                "short": "cap em itálico k"
+            }
+        },
+        "key": "1D43E"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática l capital em itálico",
+                "alternative": "l capital em itálico",
+                "short": "l de tampão em itálico"
+            }
+        },
+        "key": "1D43F"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico capital m",
+                "alternative": "m capital em itálico",
+                "short": "cap em itálico m"
+            }
+        },
+        "key": "1D440"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico capital n",
+                "alternative": "n capital em itálico",
+                "short": "em itálico cap n"
+            }
+        },
+        "key": "1D441"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico o capital",
+                "alternative": "o capital em itálico",
+                "short": "o pac em itálico"
+            }
+        },
+        "key": "1D442"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico p capital",
+                "alternative": "em itálico p capital",
+                "short": "cap em itálico p"
+            }
+        },
+        "key": "1D443"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico capital q",
+                "alternative": "q capital em itálico",
+                "short": "q tampa itálico"
+            }
+        },
+        "key": "1D444"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico capital r",
+                "alternative": "r capital em itálico",
+                "short": "r cap em itálico"
+            }
+        },
+        "key": "1D445"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico s capital",
+                "alternative": "s de capital em itálico",
+                "short": "tampa em itálico s"
+            }
+        },
+        "key": "1D446"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico capital t",
+                "alternative": "t capital em itálico",
+                "short": "cap em itálico t"
+            }
+        },
+        "key": "1D447"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico u capital",
+                "alternative": "em itálico u capital",
+                "short": "cap em itálico u"
+            }
+        },
+        "key": "1D448"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico capital v",
+                "alternative": "v capital em itálico",
+                "short": "itálico-cap v"
+            }
+        },
+        "key": "1D449"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico capital w",
+                "alternative": "em itálico capital w",
+                "short": "cap em itálico w"
+            }
+        },
+        "key": "1D44A"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico capital x",
+                "alternative": "x capital em itálico",
+                "short": "itálico-cap x"
+            }
+        },
+        "key": "1D44B"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática y capital em itálico",
+                "alternative": "em itálico y capital",
+                "short": "cobertura em itálico y"
+            }
+        },
+        "key": "1D44C"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico capital z",
+                "alternative": "z de capital em itálico",
+                "short": "em itálico cap z"
+            }
+        },
+        "key": "1D44D"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequeno matemático itálico uma",
+                "alternative": "itálico pequeno um",
+                "short": "em itálico uma"
+            }
+        },
+        "key": "1D44E"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemáticos em itálico pequeno b",
+                "alternative": "b pequena em itálico",
+                "short": "b em itálico"
+            }
+        },
+        "key": "1D44F"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico pequeno c",
+                "alternative": "c pequeno em itálico",
+                "short": "c em itálico"
+            }
+        },
+        "key": "1D450"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico pequeno d",
+                "alternative": "d pequena em itálico",
+                "short": "d em itálico"
+            }
+        },
+        "key": "1D451"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico e pequena",
+                "alternative": "itálico e pequena",
+                "short": "e em itálico"
+            }
+        },
+        "key": "1D452"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico pequeno f",
+                "alternative": "f pequeno em itálico",
+                "short": "f em itálico"
+            }
+        },
+        "key": "1D453"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico pequeno g",
+                "alternative": "em itálico g pequeno",
+                "short": "g em itálico"
+            }
+        },
+        "key": "1D454"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequeno matemático itálico eu",
+                "alternative": "itálico pequeno eu",
+                "short": "em itálico eu"
+            }
+        },
+        "key": "1D456"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico pequeno j",
+                "alternative": "em itálico pequeno j",
+                "short": "j em itálico"
+            }
+        },
+        "key": "1D457"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico pequeno k",
+                "alternative": "em itálico k pequeno",
+                "short": "k em itálico"
+            }
+        },
+        "key": "1D458"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico l pequeno",
+                "alternative": "em itálico l pequeno",
+                "short": "l em itálico"
+            }
+        },
+        "key": "1D459"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico pequeno m",
+                "alternative": "em itálico pequeno m",
+                "short": "m em itálico"
+            }
+        },
+        "key": "1D45A"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico pequeno n",
+                "alternative": "em itálico pequeno n",
+                "short": "n em itálico"
+            }
+        },
+        "key": "1D45B"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico o pequeno",
+                "alternative": "o pequeno itálico",
+                "short": "o itálico"
+            }
+        },
+        "key": "1D45C"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico pequeno p",
+                "alternative": "em itálico pequeno p",
+                "short": "p em itálico"
+            }
+        },
+        "key": "1D45D"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico pequeno q",
+                "alternative": "em itálico q pequeno",
+                "short": "q em itálico"
+            }
+        },
+        "key": "1D45E"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico pequeno r",
+                "alternative": "r pequena em itálico",
+                "short": "r em itálico"
+            }
+        },
+        "key": "1D45F"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico pequeno s",
+                "alternative": "em itálico pequeno s",
+                "short": "s em itálico"
+            }
+        },
+        "key": "1D460"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico pequeno t",
+                "alternative": "em itálico pequeno t",
+                "short": "t em itálico"
+            }
+        },
+        "key": "1D461"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico u pequeno",
+                "alternative": "em itálico u pequeno",
+                "short": "u em itálico"
+            }
+        },
+        "key": "1D462"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico pequeno v",
+                "alternative": "em itálico v pequeno",
+                "short": "v em itálico"
+            }
+        },
+        "key": "1D463"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico pequeno w",
+                "alternative": "em itálico w pequena",
+                "short": "w em itálico"
+            }
+        },
+        "key": "1D464"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico x pequeno",
+                "alternative": "em itálico x pequeno",
+                "short": "x em itálico"
+            }
+        },
+        "key": "1D465"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática y pequeno em itálico",
+                "alternative": "em itálico pequeno y",
+                "short": "y em itálico"
+            }
+        },
+        "key": "1D466"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico pequeno z",
+                "alternative": "em itálico pequeno z",
+                "short": "z em itálico"
+            }
+        },
+        "key": "1D467"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital de matemática roteiro um",
+                "alternative": "capital de script um",
+                "short": "script de um"
+            }
+        },
+        "key": "1D49C"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "c capital de matemática roteiro",
+                "alternative": "c capital de roteiro",
+                "short": "roteiro c"
+            }
+        },
+        "key": "1D49E"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital de matemática roteiro d",
+                "alternative": "script de capital d",
+                "short": "roteiro d"
+            }
+        },
+        "key": "1D49F"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital g matemática roteiro",
+                "alternative": "capital g roteiro",
+                "short": "roteiro g"
+            }
+        },
+        "key": "1D4A2"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "j capital matemática roteiro",
+                "alternative": "roteiro j capital",
+                "short": "roteiro j"
+            }
+        },
+        "key": "1D4A5"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática capital k",
+                "alternative": "script de capital k",
+                "short": "roteiro k"
+            }
+        },
+        "key": "1D4A6"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática n capital",
+                "alternative": "roteiro n capital",
+                "short": "roteiro n"
+            }
+        },
+        "key": "1D4A9"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "o capital de matemática roteiro",
+                "alternative": "o capital de roteiro",
+                "short": "o roteiro"
+            }
+        },
+        "key": "1D4AA"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática p capital",
+                "alternative": "script p capital",
+                "short": "roteiro p"
+            }
+        },
+        "key": "1D4AB"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática q capital",
+                "alternative": "script q capital",
+                "short": "roteiro q"
+            }
+        },
+        "key": "1D4AC"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática s capital",
+                "alternative": "roteiro s capital",
+                "short": "roteiro s"
+            }
+        },
+        "key": "1D4AE"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital t matemática roteiro",
+                "alternative": "roteiro capital t",
+                "short": "roteiro t"
+            }
+        },
+        "key": "1D4AF"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática capital u",
+                "alternative": "roteiro u capital",
+                "short": "roteiro u"
+            }
+        },
+        "key": "1D4B0"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática capital v",
+                "alternative": "roteiro v capital",
+                "short": "roteiro v"
+            }
+        },
+        "key": "1D4B1"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital de matemática roteiro w",
+                "alternative": "capital de roteiro w",
+                "short": "roteiro w"
+            }
+        },
+        "key": "1D4B2"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática capital x",
+                "alternative": "roteiro capital x",
+                "short": "script de x"
+            }
+        },
+        "key": "1D4B3"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática y capital",
+                "alternative": "roteiro y capital",
+                "short": "roteiro y"
+            }
+        },
+        "key": "1D4B4"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática capital z",
+                "alternative": "roteiro capital z",
+                "short": "roteiro z"
+            }
+        },
+        "key": "1D4B5"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequeno matemático roteiro um",
+                "alternative": "pequeno script de uma",
+                "short": "script de um"
+            }
+        },
+        "key": "1D4B6"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "b pequeno roteiro matemática",
+                "alternative": "b pequeno roteiro",
+                "short": "roteiro b"
+            }
+        },
+        "key": "1D4B7"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "c pequeno roteiro matemática",
+                "alternative": "c pequeno roteiro",
+                "short": "roteiro c"
+            }
+        },
+        "key": "1D4B8"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "d pequeno roteiro matemática",
+                "alternative": "script pequeno d",
+                "short": "roteiro d"
+            }
+        },
+        "key": "1D4B9"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática pequena f",
+                "alternative": "f pequeno roteiro",
+                "short": "roteiro f"
+            }
+        },
+        "key": "1D4BB"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática h pequeno",
+                "alternative": "roteiro h pequeno",
+                "short": "roteiro h"
+            }
+        },
+        "key": "1D4BD"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequeno matemático roteiro eu",
+                "alternative": "script de pequeno eu",
+                "short": "eu script"
+            }
+        },
+        "key": "1D4BE"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequeno j matemática roteiro",
+                "alternative": "j pequeno roteiro",
+                "short": "roteiro j"
+            }
+        },
+        "key": "1D4BF"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática pequeno k",
+                "alternative": "k pequeno roteiro",
+                "short": "roteiro k"
+            }
+        },
+        "key": "1D4C0"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática l pequeno",
+                "alternative": "roteiro l pequeno",
+                "short": "roteiro l"
+            }
+        },
+        "key": "1D4C1"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática pequeno m",
+                "alternative": "roteiro pequeno m",
+                "short": "roteiro m"
+            }
+        },
+        "key": "1D4C2"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática pequeno n",
+                "alternative": "n pequeno roteiro",
+                "short": "roteiro n"
+            }
+        },
+        "key": "1D4C3"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática pequeno p",
+                "alternative": "script de pequeno p",
+                "short": "roteiro p"
+            }
+        },
+        "key": "1D4C5"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática q pequeno",
+                "alternative": "script q pequeno",
+                "short": "roteiro q"
+            }
+        },
+        "key": "1D4C6"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática pequeno r",
+                "alternative": "r pequeno roteiro",
+                "short": "roteiro r"
+            }
+        },
+        "key": "1D4C7"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática s pequeno",
+                "alternative": "s pequeno roteiro",
+                "short": "roteiro s"
+            }
+        },
+        "key": "1D4C8"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática t pequeno",
+                "alternative": "roteiro pequeno t",
+                "short": "roteiro t"
+            }
+        },
+        "key": "1D4C9"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática pequeno u",
+                "alternative": "u pequeno roteiro",
+                "short": "roteiro u"
+            }
+        },
+        "key": "1D4CA"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática v pequeno",
+                "alternative": "roteiro v pequeno",
+                "short": "roteiro v"
+            }
+        },
+        "key": "1D4CB"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática roteiro w pequena",
+                "alternative": "roteiro w pequena",
+                "short": "roteiro w"
+            }
+        },
+        "key": "1D4CC"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "x pequeno guião matemática",
+                "alternative": "x pequeno guião",
+                "short": "script de x"
+            }
+        },
+        "key": "1D4CD"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemáticas y pequeno",
+                "alternative": "roteiro pequeno y",
+                "short": "roteiro y"
+            }
+        },
+        "key": "1D4CE"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "roteiro de matemática pequeno z",
+                "alternative": "roteiro pequeno z",
+                "short": "roteiro z"
+            }
+        },
+        "key": "1D4CF"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital de matemática roteiro bold (realce) um",
+                "alternative": "bold (realce) capital roteiro um",
+                "short": "cap de roteiro bold (realce) um"
+            }
+        },
+        "key": "1D4D0"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "b capital de matemática roteiro bold (realce)",
+                "alternative": "b capital roteiro bold (realce)",
+                "short": "b tampa de roteiro bold (realce)"
+            }
+        },
+        "key": "1D4D1"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "c capital de matemática roteiro bold (realce)",
+                "alternative": "c capital roteiro bold (realce)",
+                "short": "bold (realce) roteiro tampa c"
+            }
+        },
+        "key": "1D4D2"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital de matemática roteiro ousado d",
+                "alternative": "bold (realce) roteiro capital d",
+                "short": "tampão de roteiro ousado d"
+            }
+        },
+        "key": "1D4D3"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital e matemática roteiro bold (realce)",
+                "alternative": "capital e roteiro bold (realce)",
+                "short": "bold (realce) roteiro cap e"
+            }
+        },
+        "key": "1D4D4"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "f capital de matemática roteiro bold (realce)",
+                "alternative": "f capital de roteiro bold (realce)",
+                "short": "bold (realce) roteiro cap f"
+            }
+        },
+        "key": "1D4D5"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital g matemática roteiro bold (realce)",
+                "alternative": "capital g roteiro bold (realce)",
+                "short": "bold (realce) roteiro cap g"
+            }
+        },
+        "key": "1D4D6"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital de matemática roteiro bold (realce) h",
+                "alternative": "letra maiuscula, negrito manuscrita h",
+                "short": "tampão de roteiro bold (realce) h"
+            }
+        },
+        "key": "1D4D7"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital de matemática roteiro negrito eu",
+                "alternative": "bold (realce) capital de roteiro eu",
+                "short": "script de negrito eu cap"
+            }
+        },
+        "key": "1D4D8"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "j capital matemática roteiro bold (realce)",
+                "alternative": "j capital roteiro bold (realce)",
+                "short": "bold (realce) roteiro cap j"
+            }
+        },
+        "key": "1D4D9"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital k matemática roteiro bold (realce)",
+                "alternative": "bold (realce) roteiro capital k",
+                "short": "bold (realce) script pac k"
+            }
+        },
+        "key": "1D4DA"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "l capital matemática roteiro bold (realce)",
+                "alternative": "l capital roteiro bold (realce)",
+                "short": "l de tampão roteiro bold (realce)"
+            }
+        },
+        "key": "1D4DB"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital m matemática roteiro bold (realce)",
+                "alternative": "capital m roteiro bold (realce)",
+                "short": "bold (realce) roteiro cap m"
+            }
+        },
+        "key": "1D4DC"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "n capital de matemática roteiro bold (realce)",
+                "alternative": "n capital roteiro bold (realce)",
+                "short": "bold (realce) roteiro cap n"
+            }
+        },
+        "key": "1D4DD"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "o capital de matemática roteiro bold (realce)",
+                "alternative": "o capital de roteiro bold (realce)",
+                "short": "o cap de roteiro bold (realce)"
+            }
+        },
+        "key": "1D4DE"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática roteiro ousado p capital",
+                "alternative": "roteiro ousado p capital",
+                "short": "bold (realce) roteiro cap p"
+            }
+        },
+        "key": "1D4DF"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital q matemática roteiro bold (realce)",
+                "alternative": "capital q roteiro bold (realce)",
+                "short": "bold (realce) roteiro cap q"
+            }
+        },
+        "key": "1D4E0"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "r capital matemática roteiro bold (realce)",
+                "alternative": "r capital roteiro bold (realce)",
+                "short": "bold (realce) roteiro cap r"
+            }
+        },
+        "key": "1D4E1"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital s matemática roteiro bold (realce)",
+                "alternative": "capital s script bold (realce)",
+                "short": "bold (realce) roteiro tampa s"
+            }
+        },
+        "key": "1D4E2"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital t matemática roteiro bold (realce)",
+                "alternative": "capital t roteiro bold (realce)",
+                "short": "bold (realce) script pac t"
+            }
+        },
+        "key": "1D4E3"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "u capital matemática roteiro bold (realce)",
+                "alternative": "roteiro de negrito u capital",
+                "short": "bold (realce) roteiro cap u"
+            }
+        },
+        "key": "1D4E4"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "v capital matemática roteiro bold (realce)",
+                "alternative": "v capital roteiro bold (realce)",
+                "short": "bold (realce) roteiro cap v"
+            }
+        },
+        "key": "1D4E5"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "letra maiuscula, matemática manuscrita em negrito w",
+                "alternative": "letra maiuscula, manuscrita em negrito w",
+                "short": "tampão de roteiro em negrito w"
+            }
+        },
+        "key": "1D4E6"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital x matemática roteiro bold (realce)",
+                "alternative": "capital x roteiro bold (realce)",
+                "short": "cap de roteiro bold (realce) x"
+            }
+        },
+        "key": "1D4E7"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital y matemática roteiro bold (realce)",
+                "alternative": "capital y roteiro bold (realce)",
+                "short": "bold (realce) script pac y"
+            }
+        },
+        "key": "1D4E8"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital z matemática roteiro bold (realce)",
+                "alternative": "bold (realce) roteiro capital z",
+                "short": "bold (realce) roteiro cap z"
+            }
+        },
+        "key": "1D4E9"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemático roteiro ousado pequeno um",
+                "alternative": "bold (realce) roteiro pequeno um",
+                "short": "bold (realce) script de um"
+            }
+        },
+        "key": "1D4EA"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "b pequena matemática roteiro bold (realce)",
+                "alternative": "b pequeno roteiro bold (realce)",
+                "short": "b roteiro bold (realce)"
+            }
+        },
+        "key": "1D4EB"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "c pequeno roteiro bold (realce) matemática",
+                "alternative": "c pequeno roteiro bold (realce)",
+                "short": "c roteiro bold (realce)"
+            }
+        },
+        "key": "1D4EC"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "d pequeno roteiro bold (realce) matemática",
+                "alternative": "d pequeno roteiro bold (realce)",
+                "short": "bold (realce) script de d"
+            }
+        },
+        "key": "1D4ED"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequeno e matemática roteiro bold (realce)",
+                "alternative": "e pequeno roteiro bold (realce)",
+                "short": "roteiro em negrito e"
+            }
+        },
+        "key": "1D4EE"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequena f matemática roteiro bold (realce)",
+                "alternative": "f pequeno roteiro bold (realce)",
+                "short": "f roteiro bold (realce)"
+            }
+        },
+        "key": "1D4EF"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "g pequeno roteiro bold (realce) matemática",
+                "alternative": "g pequeno roteiro bold (realce)",
+                "short": "bold (realce) roteiro g"
+            }
+        },
+        "key": "1D4F0"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "h pequeno roteiro bold (realce) matemática",
+                "alternative": "h pequeno roteiro bold (realce)",
+                "short": "bold (realce) script de h"
+            }
+        },
+        "key": "1D4F1"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemático roteiro ousado pequeno eu",
+                "alternative": "bold (realce) script de pequeno eu",
+                "short": "roteiro de negrito eu"
+            }
+        },
+        "key": "1D4F2"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequeno j matemática roteiro bold (realce)",
+                "alternative": "j pequeno roteiro bold (realce)",
+                "short": "j roteiro bold (realce)"
+            }
+        },
+        "key": "1D4F3"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequena k matemática roteiro bold (realce)",
+                "alternative": "k pequeno roteiro bold (realce)",
+                "short": "bold (realce) roteiro k"
+            }
+        },
+        "key": "1D4F4"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "l pequeno roteiro bold (realce) matemática",
+                "alternative": "l pequeno roteiro bold (realce)",
+                "short": "bold (realce) roteiro l"
+            }
+        },
+        "key": "1D4F5"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequeno m matemática roteiro bold (realce)",
+                "alternative": "m pequeno roteiro bold (realce)",
+                "short": "roteiro de bold (realce) m"
+            }
+        },
+        "key": "1D4F6"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequeno n matemática roteiro bold (realce)",
+                "alternative": "n pequeno roteiro bold (realce)",
+                "short": "roteiro de bold (realce) n"
+            }
+        },
+        "key": "1D4F7"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "o pequeno roteiro bold (realce) matemática",
+                "alternative": "o pequeno script bold (realce)",
+                "short": "o roteiro ousado"
+            }
+        },
+        "key": "1D4F8"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequeno p matemática roteiro bold (realce)",
+                "alternative": "p pequeno roteiro bold (realce)",
+                "short": "roteiro ousado p"
+            }
+        },
+        "key": "1D4F9"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequenas q matemática roteiro bold (realce)",
+                "alternative": "q pequeno roteiro bold (realce)",
+                "short": "bold (realce) roteiro q"
+            }
+        },
+        "key": "1D4FA"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "r pequena matemática roteiro bold (realce)",
+                "alternative": "r pequeno roteiro bold (realce)",
+                "short": "r roteiro bold (realce)"
+            }
+        },
+        "key": "1D4FB"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "s pequeno roteiro bold (realce) matemática",
+                "alternative": "s pequeno roteiro bold (realce)",
+                "short": "roteiro em negrito s"
+            }
+        },
+        "key": "1D4FC"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequeno t matemática roteiro bold (realce)",
+                "alternative": "t pequeno roteiro bold (realce)",
+                "short": "roteiro de bold (realce) t"
+            }
+        },
+        "key": "1D4FD"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "u pequeno roteiro bold (realce) matemática",
+                "alternative": "u pequeno roteiro bold (realce)",
+                "short": "roteiro de negrito u"
+            }
+        },
+        "key": "1D4FE"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequena v matemática roteiro bold (realce)",
+                "alternative": "v pequeno roteiro bold (realce)",
+                "short": "bold (realce) roteiro v"
+            }
+        },
+        "key": "1D4FF"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática roteiro em negrito w pequena",
+                "alternative": "bold (realce) roteiro w pequena",
+                "short": "bold (realce) roteiro w"
+            }
+        },
+        "key": "1D500"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "script de negrito matemática pequeno x",
+                "alternative": "x pequeno guião bold (realce)",
+                "short": "bold (realce) script de x"
+            }
+        },
+        "key": "1D501"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequena y matemática roteiro bold (realce)",
+                "alternative": "pequena y roteiro bold (realce)",
+                "short": "roteiro de bold (realce) y"
+            }
+        },
+        "key": "1D502"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequeno z matemática roteiro bold (realce)",
+                "alternative": "bold (realce) roteiro pequeno z",
+                "short": "roteiro de bold (realce) z"
+            }
+        },
+        "key": "1D503"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "maiuscula, gótica matemática um",
+                "alternative": "maiuscula, gótica um",
+                "short": "tampão de letra gótica um"
+            }
+        },
+        "key": "1D504"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "b capital fraktur matemático",
+                "alternative": "b capital letra gótica",
+                "short": "letra gótica tampa b"
+            }
+        },
+        "key": "1D505"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "maiuscula, gótica matemática d",
+                "alternative": "d maiuscula, gótica",
+                "short": "letra gótica cap d"
+            }
+        },
+        "key": "1D507"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática letra gótica e capital",
+                "alternative": "letra gótica e capital",
+                "short": "letra gótica cap e"
+            }
+        },
+        "key": "1D508"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "f capital fraktur matemático",
+                "alternative": "f capital de letra gótica",
+                "short": "letra gótica cap f"
+            }
+        },
+        "key": "1D509"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital g fraktur matemático",
+                "alternative": "letra gótica capital g",
+                "short": "letra gótica cap g"
+            }
+        },
+        "key": "1D50A"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "j capital fraktur matemático",
+                "alternative": "j capital letra gótica",
+                "short": "letra gótica cap j"
+            }
+        },
+        "key": "1D50D"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "fraktur matemático capital k",
+                "alternative": "letra gótica capital k",
+                "short": "letra gótica cap k"
+            }
+        },
+        "key": "1D50E"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "l capital fraktur matemático",
+                "alternative": "letra gótica capital l",
+                "short": "l de tampão de letra gótica"
+            }
+        },
+        "key": "1D50F"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "fraktur matemático capital m",
+                "alternative": "letra gótica capital m",
+                "short": "letra gótica cap m"
+            }
+        },
+        "key": "1D510"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática letra gótica n capital",
+                "alternative": "letra gótica n capital",
+                "short": "letra gótica cap n"
+            }
+        },
+        "key": "1D511"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "o capital de fraktur matemático",
+                "alternative": "o capital de letra gótica",
+                "short": "o tampão de letra gótica"
+            }
+        },
+        "key": "1D512"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "fraktur matemático p capital",
+                "alternative": "letra gótica capital p",
+                "short": "letra gótica cap p"
+            }
+        },
+        "key": "1D513"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "fraktur matemático capital q",
+                "alternative": "letra gótica capital q",
+                "short": "letra gótica cap q"
+            }
+        },
+        "key": "1D514"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital s fraktur matemático",
+                "alternative": "letra gótica s capital",
+                "short": "letra gótica tampa s"
+            }
+        },
+        "key": "1D516"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital t fraktur matemático",
+                "alternative": "letra gótica capital t",
+                "short": "letra gótica cap t"
+            }
+        },
+        "key": "1D517"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "fraktur matemático capital u",
+                "alternative": "letra gótica capital u",
+                "short": "letra gótica cap u"
+            }
+        },
+        "key": "1D518"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "v capital fraktur matemático",
+                "alternative": "letra gótica capital v",
+                "short": "letra gótica cap v"
+            }
+        },
+        "key": "1D519"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "maiuscula, gótica matemática w",
+                "alternative": "maiuscula, gótica w",
+                "short": "letra gótica cap w"
+            }
+        },
+        "key": "1D51A"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "fraktur matemático capital x",
+                "alternative": "letra gótica capital x",
+                "short": "tampão de letra gótica x"
+            }
+        },
+        "key": "1D51B"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "letra gótica matemática y capital",
+                "alternative": "capital y letra gótica",
+                "short": "letra gótica cap y"
+            }
+        },
+        "key": "1D51C"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequena matemática gótica um",
+                "alternative": "letra gótica pequena um",
+                "short": "letra gótica um"
+            }
+        },
+        "key": "1D51E"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "b pequena gótica matemática",
+                "alternative": "b pequena gótica",
+                "short": "b letra gótica"
+            }
+        },
+        "key": "1D51F"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "c pequeno fraktur matemático",
+                "alternative": "c pequena gótica",
+                "short": "c letra gótica"
+            }
+        },
+        "key": "1D520"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "letra gótica matemática pequeno d",
+                "alternative": "d pequena gótica",
+                "short": "letra gótica d"
+            }
+        },
+        "key": "1D521"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática letra gótica e pequenas",
+                "alternative": "letra gótica e pequenas",
+                "short": "letra gótica e"
+            }
+        },
+        "key": "1D522"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "letra gótica matemáticos pequena f",
+                "alternative": "letra gótica pequena f",
+                "short": "letra gótica f"
+            }
+        },
+        "key": "1D523"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "letra gótica matemática g pequeno",
+                "alternative": "letra gótica g pequeno",
+                "short": "letra gótica g"
+            }
+        },
+        "key": "1D524"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "letra gótica matemática h pequeno",
+                "alternative": "letra gótica h pequeno",
+                "short": "letra gótica h"
+            }
+        },
+        "key": "1D525"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequena matemática gótica eu",
+                "alternative": "letra gótica pequena eu",
+                "short": "letra gótica eu"
+            }
+        },
+        "key": "1D526"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "letra gótica matemáticos pequena j",
+                "alternative": "letra gótica pequena j",
+                "short": "letra gótica j"
+            }
+        },
+        "key": "1D527"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "letra gótica matemática pequeno k",
+                "alternative": "letra gótica pequeno k",
+                "short": "letra gótica k"
+            }
+        },
+        "key": "1D528"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "fraktur matemático l pequeno",
+                "alternative": "letra gótica l pequeno",
+                "short": "letra gótica l"
+            }
+        },
+        "key": "1D529"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "fraktur matemático m pequeno",
+                "alternative": "letra gótica pequeno m",
+                "short": "letra gótica m"
+            }
+        },
+        "key": "1D52A"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "letra gótica matemática pequeno n",
+                "alternative": "letra gótica pequeno n",
+                "short": "letra gótica n"
+            }
+        },
+        "key": "1D52B"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "o pequeno fraktur matemático",
+                "alternative": "o pequeno letra gótica",
+                "short": "o gótica"
+            }
+        },
+        "key": "1D52C"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "letra gótica matemática pequeno p",
+                "alternative": "letra gótica pequeno p",
+                "short": "letra gótica p"
+            }
+        },
+        "key": "1D52D"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "letra gótica matemática q pequeno",
+                "alternative": "letra gótica pequena q",
+                "short": "q letra gótica"
+            }
+        },
+        "key": "1D52E"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "letra gótica matemática pequeno r",
+                "alternative": "r pequena gótica",
+                "short": "letra gótica r"
+            }
+        },
+        "key": "1D52F"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática letra gótica s pequeno",
+                "alternative": "letra gótica s pequeno",
+                "short": "letra gótica s"
+            }
+        },
+        "key": "1D530"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "letra gótica matemática t pequeno",
+                "alternative": "letra gótica pequeno t",
+                "short": "letra gótica t"
+            }
+        },
+        "key": "1D531"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "letra gótica matemática pequeno u",
+                "alternative": "letra gótica pequeno u",
+                "short": "letra gótica u"
+            }
+        },
+        "key": "1D532"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "letra gótica matemática v pequeno",
+                "alternative": "v pequena gótica",
+                "short": "letra gótica v"
+            }
+        },
+        "key": "1D533"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "fraktur matemático w pequena",
+                "alternative": "letra gótica w pequena",
+                "short": "letra gótica w"
+            }
+        },
+        "key": "1D534"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "letra gótica matemática x pequeno",
+                "alternative": "letra gótica x pequeno",
+                "short": "letra gótica x"
+            }
+        },
+        "key": "1D535"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequena y matemática letra gótica",
+                "alternative": "pequena y letra gótica",
+                "short": "letra gótica y"
+            }
+        },
+        "key": "1D536"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "letra gótica matemática pequeno z",
+                "alternative": "letra gótica pequeno z",
+                "short": "letra gótica z"
+            }
+        },
+        "key": "1D537"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu capital um",
+                "alternative": "dupla atingiu capital um",
+                "short": "dupla atingiu a tampa uma"
+            }
+        },
+        "key": "1D538"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu capital b",
+                "alternative": "dupla atingiu a capital b",
+                "short": "b duplo golpeado cap"
+            }
+        },
+        "key": "1D539"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu capital d",
+                "alternative": "dupla atingiu capital d",
+                "short": "cap golpeado duplo d"
+            }
+        },
+        "key": "1D53B"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingido e capital",
+                "alternative": "casal atingido e capital",
+                "short": "cap golpeado duplo e"
+            }
+        },
+        "key": "1D53C"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu capital f",
+                "alternative": "dupla atingiu capital f",
+                "short": "cap golpeado duplo f"
+            }
+        },
+        "key": "1D53D"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu capital g",
+                "alternative": "dupla atingiu capital g",
+                "short": "cap golpeado duplo g"
+            }
+        },
+        "key": "1D53E"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu capital eu",
+                "alternative": "dupla atingiu capital eu",
+                "short": "dupla atingiu cap eu"
+            }
+        },
+        "key": "1D540"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu capital j",
+                "alternative": "dupla atingiu capital j",
+                "short": "cap golpeado duplo j"
+            }
+        },
+        "key": "1D541"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu capital k",
+                "alternative": "dupla atingiu capital k",
+                "short": "cap golpeado duplo k"
+            }
+        },
+        "key": "1D542"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu capital l",
+                "alternative": "dupla atingiu capital l",
+                "short": "cap golpeado duplo l"
+            }
+        },
+        "key": "1D543"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu capital m",
+                "alternative": "dupla atingiu capital m",
+                "short": "cap golpeado duplo m"
+            }
+        },
+        "key": "1D544"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu o capital",
+                "alternative": "casal atingido o capital",
+                "short": "o cap golpeado duplo"
+            }
+        },
+        "key": "1D546"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu capital s",
+                "alternative": "casal atingido s capital",
+                "short": "tampa de batida dupla s"
+            }
+        },
+        "key": "1D54A"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu capital t",
+                "alternative": "dupla atingiu capital t",
+                "short": "cap golpeado duplo t"
+            }
+        },
+        "key": "1D54B"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu u capital",
+                "alternative": "casal atingido u capital",
+                "short": "cap golpeado duplo u"
+            }
+        },
+        "key": "1D54C"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu capital v",
+                "alternative": "dupla atingiu capital v",
+                "short": "cap golpeado duplo v"
+            }
+        },
+        "key": "1D54D"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu capital w",
+                "alternative": "dupla atingiu capital w",
+                "short": "cap golpeado duplo w"
+            }
+        },
+        "key": "1D54E"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu capital x",
+                "alternative": "dupla atingiu capital x",
+                "short": "dupla atingiu cap x"
+            }
+        },
+        "key": "1D54F"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática golpeado y capital",
+                "alternative": "casal atingido y capital",
+                "short": "dupla cobertura golpeado y"
+            }
+        },
+        "key": "1D550"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu pequena uma",
+                "alternative": "dupla atingiu pequenos uma",
+                "short": "dupla atingiu um"
+            }
+        },
+        "key": "1D552"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu b pequeno",
+                "alternative": "casal atingido b pequeno",
+                "short": "b batida dupla"
+            }
+        },
+        "key": "1D553"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu c pequeno",
+                "alternative": "casal atingido pequeno c",
+                "short": "c atingido duplo"
+            }
+        },
+        "key": "1D554"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu pequeno d",
+                "alternative": "casal atingido pequeno d",
+                "short": "duplo d golpeado"
+            }
+        },
+        "key": "1D555"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingido e pequena",
+                "alternative": "casal atingido e pequena",
+                "short": "duplo ' e ' atingido"
+            }
+        },
+        "key": "1D556"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu pequena f",
+                "alternative": "casal atingido pequena f",
+                "short": "f batida dupla"
+            }
+        },
+        "key": "1D557"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu g pequeno",
+                "alternative": "casal atingido g pequeno",
+                "short": "duplo g atingido"
+            }
+        },
+        "key": "1D558"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu h pequeno",
+                "alternative": "casal atingido h pequeno",
+                "short": "double h atingida"
+            }
+        },
+        "key": "1D559"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu pequenos eu",
+                "alternative": "casal atingido pequeno eu",
+                "short": "dupla atingiu"
+            }
+        },
+        "key": "1D55A"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu pequena j",
+                "alternative": "casal atingido pequena j",
+                "short": "duplo j golpeado"
+            }
+        },
+        "key": "1D55B"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu pequeno k",
+                "alternative": "casal atingido pequeno k",
+                "short": "dupla k golpeado"
+            }
+        },
+        "key": "1D55C"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu l pequeno",
+                "alternative": "casal atingido l pequeno",
+                "short": "duplo l atingida"
+            }
+        },
+        "key": "1D55D"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu m pequeno",
+                "alternative": "casal atingido pequeno m",
+                "short": "duplo m atingido"
+            }
+        },
+        "key": "1D55E"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu pequeno n",
+                "alternative": "casal atingido pequeno n",
+                "short": "duplo n golpeado"
+            }
+        },
+        "key": "1D55F"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática impressionou o pequeno",
+                "alternative": "dupla atingiu o pequeno",
+                "short": "duplo o atingido"
+            }
+        },
+        "key": "1D560"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu pequeno p",
+                "alternative": "casal atingido pequeno p",
+                "short": "casal atingido p"
+            }
+        },
+        "key": "1D561"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingido q pequeno",
+                "alternative": "casal atingido q pequeno",
+                "short": "q batida dupla"
+            }
+        },
+        "key": "1D562"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu r pequeno",
+                "alternative": "dupla atingiu r pequeno",
+                "short": "duplo r atingida"
+            }
+        },
+        "key": "1D563"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingido s pequeno",
+                "alternative": "casal atingido s pequeno",
+                "short": "double s atingido"
+            }
+        },
+        "key": "1D564"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu t pequeno",
+                "alternative": "casal atingido t pequeno",
+                "short": "duplo t atingido"
+            }
+        },
+        "key": "1D565"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu u pequeno",
+                "alternative": "casal atingido u pequeno",
+                "short": "duplo u golpeado"
+            }
+        },
+        "key": "1D566"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu v pequeno",
+                "alternative": "casal atingido v pequeno",
+                "short": "duplo v golpeado"
+            }
+        },
+        "key": "1D567"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu w pequena",
+                "alternative": "casal atingido w pequena",
+                "short": "double w golpeado"
+            }
+        },
+        "key": "1D568"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu x pequeno",
+                "alternative": "dupla atingida pequena x",
+                "short": "atingido o dobro x"
+            }
+        },
+        "key": "1D569"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática golpeado y pequeno",
+                "alternative": "casal atingido pequeno y",
+                "short": "duplo golpeado y"
+            }
+        },
+        "key": "1D56A"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "dupla de matemática atingiu pequeno z",
+                "alternative": "casal atingido pequeno z",
+                "short": "double z golpeado"
+            }
+        },
+        "key": "1D56B"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "maiuscula, gótica bold (realce) matemática um",
+                "alternative": "negrito maiuscula, gótica um",
+                "short": "cap de letra gótica bold (realce) um"
+            }
+        },
+        "key": "1D56C"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "b capital de matemática letra gótica bold (realce)",
+                "alternative": "b capital gótica bold (realce)",
+                "short": "letra gótica bold (realce) tampa b"
+            }
+        },
+        "key": "1D56D"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "c capital de matemática letra gótica bold (realce)",
+                "alternative": "c capital gótica bold (realce)",
+                "short": "letra gótica bold (realce) tampa c"
+            }
+        },
+        "key": "1D56E"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "maiuscula, gótica bold (realce) matemática d",
+                "alternative": "maiuscula, negrito gótica d",
+                "short": "tampão de letra gótica bold (realce) d"
+            }
+        },
+        "key": "1D56F"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática letra gótica bold (realce) e capital",
+                "alternative": "letra gótica bold (realce) e capital",
+                "short": "letra gótica bold (realce) cap e"
+            }
+        },
+        "key": "1D570"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "f capital de matemática letra gótica bold (realce)",
+                "alternative": "f capital de letra gótica bold (realce)",
+                "short": "letra gótica bold (realce) tampão f"
+            }
+        },
+        "key": "1D571"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital g matemática letra gótica bold (realce)",
+                "alternative": "capital g gótica bold (realce)",
+                "short": "letra gótica bold (realce) tampa g"
+            }
+        },
+        "key": "1D572"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "maiuscula, gótica bold (realce) matemática h",
+                "alternative": "maiuscula, negrito gótica h",
+                "short": "tampão de letra gótica bold (realce) h"
+            }
+        },
+        "key": "1D573"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "maiuscula, gótica bold (realce) matemática",
+                "alternative": "negrito maiuscula, gótica eu",
+                "short": "letra gótica negrito eu cap"
+            }
+        },
+        "key": "1D574"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "j capital matemática letra gótica bold (realce)",
+                "alternative": "j capital gótica bold (realce)",
+                "short": "letra gótica bold (realce) cap j"
+            }
+        },
+        "key": "1D575"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática letra gótica bold (realce) capital k",
+                "alternative": "letra gótica bold (realce) capital k",
+                "short": "letra gótica bold (realce) cap k"
+            }
+        },
+        "key": "1D576"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "l capital matemática letra gótica bold (realce)",
+                "alternative": "l capital gótica bold (realce)",
+                "short": "l de tampão gótica bold (realce)"
+            }
+        },
+        "key": "1D577"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital m matemática letra gótica bold (realce)",
+                "alternative": "capital m gótica bold (realce)",
+                "short": "letra gótica bold (realce) tampão m"
+            }
+        },
+        "key": "1D578"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "n capital de matemática letra gótica bold (realce)",
+                "alternative": "n capital gótica bold (realce)",
+                "short": "letra gótica bold (realce) cap n"
+            }
+        },
+        "key": "1D579"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "o capital de matemática letra gótica bold (realce)",
+                "alternative": "o capital de letra gótica bold (realce)",
+                "short": "o cap de letra gótica bold (realce)"
+            }
+        },
+        "key": "1D57A"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática letra gótica bold (realce) capital p",
+                "alternative": "letra gótica bold (realce) capital p",
+                "short": "bold (realce) letra gótica cap p"
+            }
+        },
+        "key": "1D57B"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital q matemática letra gótica bold (realce)",
+                "alternative": "capital q letra gótica bold (realce)",
+                "short": "letra gótica bold (realce) cap q"
+            }
+        },
+        "key": "1D57C"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "r capital matemática letra gótica bold (realce)",
+                "alternative": "r capital gótica bold (realce)",
+                "short": "letra gótica bold (realce) cap r"
+            }
+        },
+        "key": "1D57D"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital s matemáticos gótica bold (realce)",
+                "alternative": "capital s letra gótica bold (realce)",
+                "short": "letra gótica bold (realce) tampa s"
+            }
+        },
+        "key": "1D57E"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital t matemática letra gótica bold (realce)",
+                "alternative": "capital t gótica bold (realce)",
+                "short": "letra gótica bold (realce) tampa t"
+            }
+        },
+        "key": "1D57F"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática letra gótica negrito u capital",
+                "alternative": "letra gótica negrito u capital",
+                "short": "letra gótica bold (realce) cap u"
+            }
+        },
+        "key": "1D580"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "v capital matemática letra gótica bold (realce)",
+                "alternative": "v capital gótica bold (realce)",
+                "short": "letra gótica bold (realce) cap v"
+            }
+        },
+        "key": "1D581"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "maiuscula, matemáticos gótica em negrito w",
+                "alternative": "maiuscula, negrito gótica w",
+                "short": "tampão de letra gótica em negrito w"
+            }
+        },
+        "key": "1D582"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital x matemática letra gótica bold (realce)",
+                "alternative": "letra gótica bold (realce) x capital",
+                "short": "cap de letra gótica bold (realce) x"
+            }
+        },
+        "key": "1D583"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital y matemática letra gótica bold (realce)",
+                "alternative": "capital y letra gótica bold (realce)",
+                "short": "letra gótica bold (realce) cap y"
+            }
+        },
+        "key": "1D584"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática letra gótica bold (realce) capital z",
+                "alternative": "letra gótica bold (realce) capital z",
+                "short": "letra gótica bold (realce) cap z"
+            }
+        },
+        "key": "1D585"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática letra gótica bold (realce) pequena um",
+                "alternative": "bold (realce) letra gótica pequena um",
+                "short": "letra gótica bold (realce) um"
+            }
+        },
+        "key": "1D586"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "b pequenos matemáticos gótica bold (realce)",
+                "alternative": "b pequena gótica bold (realce)",
+                "short": "b letra gótica bold (realce)"
+            }
+        },
+        "key": "1D587"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "c pequeno matemática letra gótica bold (realce)",
+                "alternative": "c pequena gótica bold (realce)",
+                "short": "letra gótica bold (realce) c"
+            }
+        },
+        "key": "1D588"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "d pequenos matemáticos gótica bold (realce)",
+                "alternative": "d pequena gótica bold (realce)",
+                "short": "letra gótica bold (realce) d"
+            }
+        },
+        "key": "1D589"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática letra gótica bold (realce) e pequenas",
+                "alternative": "letra gótica bold (realce) e pequenas",
+                "short": "letra gótica bold (realce) e"
+            }
+        },
+        "key": "1D58A"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequena f matemática letra gótica bold (realce)",
+                "alternative": "f pequena gótica bold (realce)",
+                "short": "letra gótica bold (realce) f"
+            }
+        },
+        "key": "1D58B"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "g pequenos matemáticos gótica bold (realce)",
+                "alternative": "g pequena gótica bold (realce)",
+                "short": "letra gótica bold (realce) g"
+            }
+        },
+        "key": "1D58C"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "letra gótica bold (realce) matemática h pequeno",
+                "alternative": "letra gótica bold (realce) h pequeno",
+                "short": "letra gótica bold (realce) h"
+            }
+        },
+        "key": "1D58D"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática letra gótica bold (realce) pequena eu",
+                "alternative": "bold (realce) letra gótica pequena eu",
+                "short": "letra gótica negrito eu"
+            }
+        },
+        "key": "1D58E"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequeno j matemática letra gótica bold (realce)",
+                "alternative": "letra gótica bold (realce) pequena j",
+                "short": "letra gótica bold (realce) j"
+            }
+        },
+        "key": "1D58F"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática letra gótica bold (realce) pequeno k",
+                "alternative": "k pequena gótica bold (realce)",
+                "short": "letra gótica bold (realce) k"
+            }
+        },
+        "key": "1D590"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "letra gótica bold (realce) matemática l pequeno",
+                "alternative": "letra gótica bold (realce) l pequeno",
+                "short": "letra gótica bold (realce) l"
+            }
+        },
+        "key": "1D591"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática letra gótica bold (realce) pequeno m",
+                "alternative": "letra gótica bold (realce) pequeno m",
+                "short": "letra gótica bold (realce) m"
+            }
+        },
+        "key": "1D592"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "n pequenos matemáticos gótica bold (realce)",
+                "alternative": "letra gótica bold (realce) pequeno n",
+                "short": "letra gótica bold (realce) n"
+            }
+        },
+        "key": "1D593"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "o pequeno matemática letra gótica bold (realce)",
+                "alternative": "o pequeno gótica bold (realce)",
+                "short": "o bold (realce) letra gótica"
+            }
+        },
+        "key": "1D594"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática letra gótica bold (realce) pequeno p",
+                "alternative": "letra gótica bold (realce) pequeno p",
+                "short": "letra gótica bold (realce) p"
+            }
+        },
+        "key": "1D595"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequenas q matemática letra gótica bold (realce)",
+                "alternative": "q pequena gótica bold (realce)",
+                "short": "q letra gótica bold (realce)"
+            }
+        },
+        "key": "1D596"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "r pequena gótica bold (realce) matemática",
+                "alternative": "r pequena gótica bold (realce)",
+                "short": "letra gótica bold (realce) r"
+            }
+        },
+        "key": "1D597"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequeno s matemáticos gótica bold (realce)",
+                "alternative": "letra gótica bold (realce) pequeno s",
+                "short": "letra gótica em negrito s"
+            }
+        },
+        "key": "1D598"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "letra gótica bold (realce) matemática t pequeno",
+                "alternative": "letra gótica bold (realce) pequeno t",
+                "short": "letra gótica bold (realce) t"
+            }
+        },
+        "key": "1D599"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática letra gótica negrito u pequeno",
+                "alternative": "letra gótica negrito u pequeno",
+                "short": "letra gótica negrito u"
+            }
+        },
+        "key": "1D59A"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "letra gótica bold (realce) matemática v pequeno",
+                "alternative": "v pequena gótica bold (realce)",
+                "short": "letra gótica bold (realce) v"
+            }
+        },
+        "key": "1D59B"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática letra gótica em negrito w pequena",
+                "alternative": "letra gótica em negrito w pequena",
+                "short": "letra gótica em negrito w"
+            }
+        },
+        "key": "1D59C"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática letra gótica bold (realce) pequena x",
+                "alternative": "letra gótica bold (realce) x pequeno",
+                "short": "letra gótica bold (realce) x"
+            }
+        },
+        "key": "1D59D"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequena y matemática letra gótica bold (realce)",
+                "alternative": "pequena y letra gótica bold (realce)",
+                "short": "letra gótica bold (realce) y"
+            }
+        },
+        "key": "1D59E"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática letra gótica bold (realce) pequeno z",
+                "alternative": "letra gótica bold (realce) pequeno z",
+                "short": "letra gótica bold (realce) z"
+            }
+        },
+        "key": "1D59F"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa capital um",
+                "alternative": "sans serif capital um",
+                "short": "sans serif cap um"
+            }
+        },
+        "key": "1D5A0"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "b capital de matemática sem serifa",
+                "alternative": "b capital sans serif",
+                "short": "sans serif tampa b"
+            }
+        },
+        "key": "1D5A1"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "c capital de matemática sem serifa",
+                "alternative": "c capital sans serif",
+                "short": "sans serif tampa c"
+            }
+        },
+        "key": "1D5A2"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa capital d",
+                "alternative": "sans serif capital d",
+                "short": "sans serif cap d"
+            }
+        },
+        "key": "1D5A3"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa e capital",
+                "alternative": "capital e sans serif",
+                "short": "sans serif cap e"
+            }
+        },
+        "key": "1D5A4"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "f capital de matemática sem serifa",
+                "alternative": "f capital de sans serif",
+                "short": "sans serif cap f"
+            }
+        },
+        "key": "1D5A5"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital g matemática sans serif",
+                "alternative": "sans serif capital g",
+                "short": "sans serif cap g"
+            }
+        },
+        "key": "1D5A6"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital de matemática sans serif h",
+                "alternative": "sans serif capital h",
+                "short": "sans serif cap h"
+            }
+        },
+        "key": "1D5A7"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital de matemática sans serif eu",
+                "alternative": "sans serif capital eu",
+                "short": "sans serif cap eu"
+            }
+        },
+        "key": "1D5A8"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "j capital matemática sans serif",
+                "alternative": "j capital sans serif",
+                "short": "sans serif cap j"
+            }
+        },
+        "key": "1D5A9"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa capital k",
+                "alternative": "sans serif capital k",
+                "short": "sans serif cap k"
+            }
+        },
+        "key": "1D5AA"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "l capital matemática sans serif",
+                "alternative": "l capital sans serif",
+                "short": "l de tampão de sans serif"
+            }
+        },
+        "key": "1D5AB"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital m matemática sans serif",
+                "alternative": "sans serif capital m",
+                "short": "sans serif cap m"
+            }
+        },
+        "key": "1D5AC"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "n capital de matemática sem serifa",
+                "alternative": "sans serif capital n",
+                "short": "sans serif cap n"
+            }
+        },
+        "key": "1D5AD"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "o capital de matemática sem serifa",
+                "alternative": "o capital de sans serif",
+                "short": "o tampão de sans serif"
+            }
+        },
+        "key": "1D5AE"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa capital p",
+                "alternative": "sans serif capital p",
+                "short": "sans serif cap p"
+            }
+        },
+        "key": "1D5AF"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital q matemática sans serif",
+                "alternative": "sans serif capital q",
+                "short": "sans serif cap q"
+            }
+        },
+        "key": "1D5B0"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "r capital matemática sans serif",
+                "alternative": "r capital sans serif",
+                "short": "sans serif cap r"
+            }
+        },
+        "key": "1D5B1"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital s matemáticos sans serif",
+                "alternative": "capital s sans serif",
+                "short": "sans serif tampa s"
+            }
+        },
+        "key": "1D5B2"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital t matemática sans serif",
+                "alternative": "capital t sans serif",
+                "short": "sans serif cap t"
+            }
+        },
+        "key": "1D5B3"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa capital u",
+                "alternative": "sans serif capital u",
+                "short": "sans serif cap u"
+            }
+        },
+        "key": "1D5B4"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "v capital matemática sans serif",
+                "alternative": "sans serif capital v",
+                "short": "sans serif cap v"
+            }
+        },
+        "key": "1D5B5"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa capital w",
+                "alternative": "sans serif capital w",
+                "short": "sans serif cap w"
+            }
+        },
+        "key": "1D5B6"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital x matemática sans serif",
+                "alternative": "sans serif capital x",
+                "short": "sans serif cap x"
+            }
+        },
+        "key": "1D5B7"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital y matemáticas sans serif",
+                "alternative": "capital y sans serif",
+                "short": "sans serif cap y"
+            }
+        },
+        "key": "1D5B8"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa capital z",
+                "alternative": "sans serif capital z",
+                "short": "sans serif cap z"
+            }
+        },
+        "key": "1D5B9"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa pequena um",
+                "alternative": "sans serif pequeno um",
+                "short": "sans serif um"
+            }
+        },
+        "key": "1D5BA"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "b pequenos matemáticos sans serif",
+                "alternative": "b pequenas sans serif",
+                "short": "b sem serifa"
+            }
+        },
+        "key": "1D5BB"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "c pequeno matemática sans serif",
+                "alternative": "c pequenas sans serif",
+                "short": "sans serif c"
+            }
+        },
+        "key": "1D5BC"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif pequeno d",
+                "alternative": "sans serif pequeno d",
+                "short": "d sem serifa"
+            }
+        },
+        "key": "1D5BD"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa e pequenas",
+                "alternative": "pequeno e sem serifa",
+                "short": "sans serif e"
+            }
+        },
+        "key": "1D5BE"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequena f matemática sans serif",
+                "alternative": "sans serif pequena f",
+                "short": "sans serif f"
+            }
+        },
+        "key": "1D5BF"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "g pequenos matemáticos sans serif",
+                "alternative": "sans serif g pequeno",
+                "short": "sans serif g"
+            }
+        },
+        "key": "1D5C0"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif h pequeno",
+                "alternative": "sans serif h pequeno",
+                "short": "sans serif h"
+            }
+        },
+        "key": "1D5C1"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa pequena eu",
+                "alternative": "sans serif pequeno eu",
+                "short": "sans serif eu"
+            }
+        },
+        "key": "1D5C2"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequeno j matemática sans serif",
+                "alternative": "sans serif pequena j",
+                "short": "sans serif j"
+            }
+        },
+        "key": "1D5C3"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa pequeno k",
+                "alternative": "sans serif pequeno k",
+                "short": "sans serif k"
+            }
+        },
+        "key": "1D5C4"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa l pequeno",
+                "alternative": "l pequenas sans serif",
+                "short": "sans serif l"
+            }
+        },
+        "key": "1D5C5"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa pequeno m",
+                "alternative": "sans serif pequeno m",
+                "short": "sans serif m"
+            }
+        },
+        "key": "1D5C6"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "n pequenos matemáticos sans serif",
+                "alternative": "sans serif pequeno n",
+                "short": "sans serif n"
+            }
+        },
+        "key": "1D5C7"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "o pequeno matemática sans serif",
+                "alternative": "o pequeno sans serif",
+                "short": "o sans serif"
+            }
+        },
+        "key": "1D5C8"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa pequeno p",
+                "alternative": "sans serif pequeno p",
+                "short": "sans serif p"
+            }
+        },
+        "key": "1D5C9"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequenas q matemática sans serif",
+                "alternative": "sans serif pequena q",
+                "short": "sans serif q"
+            }
+        },
+        "key": "1D5CA"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "r pequenos matemáticos sans serif",
+                "alternative": "sans serif pequeno r",
+                "short": "sans serif r"
+            }
+        },
+        "key": "1D5CB"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequeno s matemáticos sans serif",
+                "alternative": "sans serif s pequeno",
+                "short": "sans serif s"
+            }
+        },
+        "key": "1D5CC"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa pequeno t",
+                "alternative": "sans serif pequeno t",
+                "short": "sans serif t"
+            }
+        },
+        "key": "1D5CD"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa pequeno u",
+                "alternative": "sans serif pequeno u",
+                "short": "sans serif u"
+            }
+        },
+        "key": "1D5CE"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa v pequeno",
+                "alternative": "sans serif v pequeno",
+                "short": "sans serif v"
+            }
+        },
+        "key": "1D5CF"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa w pequena",
+                "alternative": "sans serif w pequena",
+                "short": "sans serif w"
+            }
+        },
+        "key": "1D5D0"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa x pequeno",
+                "alternative": "sans serif x pequeno",
+                "short": "sans serif x"
+            }
+        },
+        "key": "1D5D1"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequena y matemáticas sans serif",
+                "alternative": "pequena y sans serif",
+                "short": "sans serif y"
+            }
+        },
+        "key": "1D5D2"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa pequeno z",
+                "alternative": "sans serif pequeno z",
+                "short": "sans serif z"
+            }
+        },
+        "key": "1D5D3"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) capital um",
+                "alternative": "sans serif bold (realce) capital um",
+                "short": "sans serif bold (realce) cap um"
+            }
+        },
+        "key": "1D5D4"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) capital b",
+                "alternative": "sans serif bold (realce) capital b",
+                "short": "sans serif bold (realce) tampa b"
+            }
+        },
+        "key": "1D5D5"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) capital c",
+                "alternative": "sans serif bold (realce) capital c",
+                "short": "sans serif bold (realce) tampa c"
+            }
+        },
+        "key": "1D5D6"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) capital d",
+                "alternative": "sans serif bold (realce) capital d",
+                "short": "sans serif bold (realce) cap d"
+            }
+        },
+        "key": "1D5D7"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) e capital",
+                "alternative": "sans serif bold (realce) e capital",
+                "short": "sans serif bold (realce) cap e"
+            }
+        },
+        "key": "1D5D8"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) capital f",
+                "alternative": "sans serif bold (realce) capital f",
+                "short": "sans serif bold (realce) tampão f"
+            }
+        },
+        "key": "1D5D9"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) capital g",
+                "alternative": "sans serif bold (realce) capital g",
+                "short": "sans serif bold (realce) tampa g"
+            }
+        },
+        "key": "1D5DA"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) capital h",
+                "alternative": "sans serif bold (realce) capital h",
+                "short": "sans serif bold (realce) cap h"
+            }
+        },
+        "key": "1D5DB"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) capital eu",
+                "alternative": "sans serif bold (realce) capital eu",
+                "short": "sans serif bold (realce) cap eu"
+            }
+        },
+        "key": "1D5DC"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) capital j",
+                "alternative": "sans serif bold (realce) capital j",
+                "short": "sans serif bold (realce) cap j"
+            }
+        },
+        "key": "1D5DD"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) capital k",
+                "alternative": "sans serif bold (realce) capital k",
+                "short": "sans serif bold (realce) cap k"
+            }
+        },
+        "key": "1D5DE"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) capital l",
+                "alternative": "sans serif bold (realce) capital l",
+                "short": "sans serif bold (realce) cap l"
+            }
+        },
+        "key": "1D5DF"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) capital m",
+                "alternative": "sans serif bold (realce) capital m",
+                "short": "sans serif bold (realce) tampão m"
+            }
+        },
+        "key": "1D5E0"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) capital n",
+                "alternative": "sans serif bold (realce) capital n",
+                "short": "sans serif bold (realce) cap n"
+            }
+        },
+        "key": "1D5E1"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) o capital",
+                "alternative": "sans serif bold (realce) o capital",
+                "short": "sans serif bold (realce) cap ó"
+            }
+        },
+        "key": "1D5E2"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) p capital",
+                "alternative": "sans serif bold (realce) p capital",
+                "short": "sans serif bold (realce) tampa p"
+            }
+        },
+        "key": "1D5E3"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) q capital",
+                "alternative": "sans serif bold (realce) q capital",
+                "short": "sans serif bold (realce) cap q"
+            }
+        },
+        "key": "1D5E4"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) capital r",
+                "alternative": "sans serif bold (realce) capital r",
+                "short": "sans serif bold (realce) cap r"
+            }
+        },
+        "key": "1D5E5"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) s capital",
+                "alternative": "sans serif bold (realce) s capital",
+                "short": "sans serif bold (realce) tampa s"
+            }
+        },
+        "key": "1D5E6"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) capital t",
+                "alternative": "sans serif bold (realce) capital t",
+                "short": "sans serif bold (realce) tampa t"
+            }
+        },
+        "key": "1D5E7"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif negrito u capital",
+                "alternative": "sans serif negrito u capital",
+                "short": "sans serif bold (realce) cap u"
+            }
+        },
+        "key": "1D5E8"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) capital v",
+                "alternative": "sans serif bold (realce) capital v",
+                "short": "sans serif bold (realce) cap v"
+            }
+        },
+        "key": "1D5E9"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) capital w",
+                "alternative": "sans serif bold (realce) capital w",
+                "short": "sans serif bold (realce) tampa w"
+            }
+        },
+        "key": "1D5EA"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) x capital",
+                "alternative": "sans serif bold (realce) x capital",
+                "short": "sans serif bold (realce) cap x"
+            }
+        },
+        "key": "1D5EB"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) y capital",
+                "alternative": "sans serif bold (realce) y capital",
+                "short": "sans serif bold (realce) cap y"
+            }
+        },
+        "key": "1D5EC"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) capital z",
+                "alternative": "sans serif bold (realce) capital z",
+                "short": "sans serif bold (realce) cap z"
+            }
+        },
+        "key": "1D5ED"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) pequeno um",
+                "alternative": "sans serif bold (realce) pequeno um",
+                "short": "sans serif bold (realce) um"
+            }
+        },
+        "key": "1D5EE"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif negrito b pequeno",
+                "alternative": "sans serif negrito b pequeno",
+                "short": "sans serif bold (realce) b"
+            }
+        },
+        "key": "1D5EF"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) pequeno c",
+                "alternative": "sans serif bold (realce) pequeno c",
+                "short": "sans serif bold (realce) c"
+            }
+        },
+        "key": "1D5F0"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) pequeno d",
+                "alternative": "sans serif bold (realce) pequeno d",
+                "short": "sans serif bold (realce) d"
+            }
+        },
+        "key": "1D5F1"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) e pequenas",
+                "alternative": "sans serif bold (realce) e pequenas",
+                "short": "sans serif bold (realce) e"
+            }
+        },
+        "key": "1D5F2"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) pequena f",
+                "alternative": "sans serif bold (realce) pequena f",
+                "short": "sans serif bold (realce) f"
+            }
+        },
+        "key": "1D5F3"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) g pequeno",
+                "alternative": "sans serif bold (realce) g pequeno",
+                "short": "sans serif bold (realce) g"
+            }
+        },
+        "key": "1D5F4"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) h pequeno",
+                "alternative": "sans serif bold (realce) h pequeno",
+                "short": "sans serif bold (realce) h"
+            }
+        },
+        "key": "1D5F5"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) pequeno eu",
+                "alternative": "sans serif bold (realce) pequeno eu",
+                "short": "sans serif negrito eu"
+            }
+        },
+        "key": "1D5F6"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) pequena j",
+                "alternative": "sans serif bold (realce) pequena j",
+                "short": "sans serif bold (realce) j"
+            }
+        },
+        "key": "1D5F7"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) pequeno k",
+                "alternative": "sans serif bold (realce) pequeno k",
+                "short": "sans serif bold (realce) k"
+            }
+        },
+        "key": "1D5F8"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) l pequeno",
+                "alternative": "sans serif bold (realce) l pequeno",
+                "short": "sans serif bold (realce) l"
+            }
+        },
+        "key": "1D5F9"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) m pequeno",
+                "alternative": "sans serif bold (realce) m pequeno",
+                "short": "sans serif bold (realce) m"
+            }
+        },
+        "key": "1D5FA"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) pequeno n",
+                "alternative": "sans serif bold (realce) pequeno n",
+                "short": "sans serif bold (realce) n"
+            }
+        },
+        "key": "1D5FB"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) o pequeno",
+                "alternative": "sans serif bold (realce) o pequeno",
+                "short": "sans serif bold (realce) o"
+            }
+        },
+        "key": "1D5FC"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) pequeno p",
+                "alternative": "sans serif bold (realce) pequeno p",
+                "short": "sans serif bold (realce) p"
+            }
+        },
+        "key": "1D5FD"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) q pequeno",
+                "alternative": "sans serif bold (realce) q pequeno",
+                "short": "sans serif bold (realce) q"
+            }
+        },
+        "key": "1D5FE"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) pequeno r",
+                "alternative": "sans serif bold (realce) pequeno r",
+                "short": "sans serif bold (realce) r"
+            }
+        },
+        "key": "1D5FF"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) pequeno s",
+                "alternative": "sans serif bold (realce) pequeno s",
+                "short": "sans serif bold (realce) s"
+            }
+        },
+        "key": "1D600"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) t pequeno",
+                "alternative": "sans serif bold (realce) t pequeno",
+                "short": "sans serif bold (realce) t"
+            }
+        },
+        "key": "1D601"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif negrito u pequeno",
+                "alternative": "sans serif negrito u pequeno",
+                "short": "sans serif bold (realce) u"
+            }
+        },
+        "key": "1D602"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) v pequeno",
+                "alternative": "sans serif bold (realce) v pequeno",
+                "short": "sans serif bold (realce) v"
+            }
+        },
+        "key": "1D603"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) w pequena",
+                "alternative": "sans serif bold (realce) w pequena",
+                "short": "sans serif bold (realce) w"
+            }
+        },
+        "key": "1D604"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) x pequeno",
+                "alternative": "sans serif bold (realce) x pequeno",
+                "short": "sans serif bold (realce) x"
+            }
+        },
+        "key": "1D605"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) y pequeno",
+                "alternative": "sans serif bold (realce) y pequeno",
+                "short": "sans serif bold (realce) y"
+            }
+        },
+        "key": "1D606"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif bold (realce) pequeno z",
+                "alternative": "sans serif bold (realce) pequeno z",
+                "short": "sans serif bold (realce) z"
+            }
+        },
+        "key": "1D607"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico capital um",
+                "alternative": "sans serif em itálico capital um",
+                "short": "sans serif em itálico cap um"
+            }
+        },
+        "key": "1D608"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico capital b",
+                "alternative": "sans serif em itálico capital b",
+                "short": "sans serif em itálico tampa b"
+            }
+        },
+        "key": "1D609"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "c capital itálico de matemática sem serifa",
+                "alternative": "sans serif em itálico capital c",
+                "short": "sans serif em itálico tampa c"
+            }
+        },
+        "key": "1D60A"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "d capital em itálico de matemática sem serifa",
+                "alternative": "sans serif em itálico capital d",
+                "short": "sans serif em itálico cap d"
+            }
+        },
+        "key": "1D60B"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa e de capital em itálico",
+                "alternative": "sans serif em itálico e capital",
+                "short": "sans serif cap em itálico e"
+            }
+        },
+        "key": "1D60C"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico capital f",
+                "alternative": "sans serif em itálico capital f",
+                "short": "sans serif em itálico cap f"
+            }
+        },
+        "key": "1D60D"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico capital g",
+                "alternative": "sans serif em itálico capital g",
+                "short": "sans serif em itálico cap g"
+            }
+        },
+        "key": "1D60E"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico capital h",
+                "alternative": "sans serif em itálico capital h",
+                "short": "sans serif em itálico cap h"
+            }
+        },
+        "key": "1D60F"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico capital eu",
+                "alternative": "sans serif em itálico capital eu",
+                "short": "sans serif itálico cap eu"
+            }
+        },
+        "key": "1D610"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico j capital",
+                "alternative": "sans serif em itálico j capital",
+                "short": "sans serif em itálico cap j"
+            }
+        },
+        "key": "1D611"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico k capital",
+                "alternative": "sans serif em itálico k capital",
+                "short": "sans serif cap itálico k"
+            }
+        },
+        "key": "1D612"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico capital l",
+                "alternative": "sans serif em itálico capital l",
+                "short": "sans serif em itálico cap l"
+            }
+        },
+        "key": "1D613"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico capital m",
+                "alternative": "sans serif em itálico capital m",
+                "short": "sans serif em itálico cap m"
+            }
+        },
+        "key": "1D614"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico n capital",
+                "alternative": "sans serif em itálico n capital",
+                "short": "sans serif em itálico cap n"
+            }
+        },
+        "key": "1D615"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "o capital em itálico de matemática sem serifa",
+                "alternative": "sans serif em itálico o capital",
+                "short": "o de itálico cap sans serif"
+            }
+        },
+        "key": "1D616"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico p capital",
+                "alternative": "sans serif em itálico p capital",
+                "short": "sans serif em itálico cap p"
+            }
+        },
+        "key": "1D617"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico q capital",
+                "alternative": "sans serif em itálico q capital",
+                "short": "sans serif em itálico cap q"
+            }
+        },
+        "key": "1D618"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico capital r",
+                "alternative": "sans serif em itálico capital r",
+                "short": "sans serif em itálico cap r"
+            }
+        },
+        "key": "1D619"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico s capital",
+                "alternative": "sans serif em itálico s capital",
+                "short": "sans serif em itálico tampa s"
+            }
+        },
+        "key": "1D61A"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico capital t",
+                "alternative": "sans serif em itálico capital t",
+                "short": "sans serif em itálico cap t"
+            }
+        },
+        "key": "1D61B"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico u capital",
+                "alternative": "sans serif em itálico u capital",
+                "short": "sans serif cap itálico u"
+            }
+        },
+        "key": "1D61C"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico capital v",
+                "alternative": "sans serif em itálico capital v",
+                "short": "sans serif em itálico cap v"
+            }
+        },
+        "key": "1D61D"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico capital w",
+                "alternative": "sans serif em itálico capital w",
+                "short": "sans serif em itálico cap w"
+            }
+        },
+        "key": "1D61E"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico capital x",
+                "alternative": "sans serif em itálico capital x",
+                "short": "sans serif em itálico cap x"
+            }
+        },
+        "key": "1D61F"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico y capital",
+                "alternative": "sans serif em itálico y capital",
+                "short": "sans serif em itálico cap y"
+            }
+        },
+        "key": "1D620"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico capital z",
+                "alternative": "sans serif em itálico capital z",
+                "short": "sans serif em itálico cap z"
+            }
+        },
+        "key": "1D621"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico pequeno um",
+                "alternative": "sans serif itálico pequeno um",
+                "short": "sans serif itálico uma"
+            }
+        },
+        "key": "1D622"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico pequeno b",
+                "alternative": "sans serif em itálico pequeno b",
+                "short": "b itálico sans serif"
+            }
+        },
+        "key": "1D623"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico pequeno c",
+                "alternative": "sans serif em itálico pequeno c",
+                "short": "c itálico sans serif"
+            }
+        },
+        "key": "1D624"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif em itálico pequeno d",
+                "alternative": "sans serif em itálico pequeno d",
+                "short": "sans serif em itálico d"
+            }
+        },
+        "key": "1D625"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif em itálico e pequenas",
+                "alternative": "sans serif em itálico e pequenas",
+                "short": "itálico e sem serifa"
+            }
+        },
+        "key": "1D626"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico pequeno f",
+                "alternative": "sans serif em itálico pequeno f",
+                "short": "sans serif f itálico"
+            }
+        },
+        "key": "1D627"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico pequeno g",
+                "alternative": "sans serif em itálico pequeno g",
+                "short": "sans serif em itálico g"
+            }
+        },
+        "key": "1D628"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sans serif h pequeno em itálico",
+                "alternative": "sans serif h pequeno em itálico",
+                "short": "sans serif h em itálico"
+            }
+        },
+        "key": "1D629"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico pequeno eu",
+                "alternative": "sans serif itálico pequeno eu",
+                "short": "sans serif itálico eu"
+            }
+        },
+        "key": "1D62A"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico pequeno j",
+                "alternative": "sans serif em itálico pequeno j",
+                "short": "sans serif em itálico j"
+            }
+        },
+        "key": "1D62B"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico pequeno k",
+                "alternative": "sans serif em itálico pequeno k",
+                "short": "sans serif em itálico k"
+            }
+        },
+        "key": "1D62C"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico l pequeno",
+                "alternative": "sans serif em itálico l pequeno",
+                "short": "sans serif em itálico l"
+            }
+        },
+        "key": "1D62D"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico pequeno m",
+                "alternative": "sans serif em itálico pequeno m",
+                "short": "sans serif em itálico m"
+            }
+        },
+        "key": "1D62E"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico pequeno n",
+                "alternative": "sans serif em itálico pequeno n",
+                "short": "sans serif n itálico"
+            }
+        },
+        "key": "1D62F"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "o pequeno itálico de matemática sans serif",
+                "alternative": "sans serif em itálico o pequeno",
+                "short": "o itálico sans serif"
+            }
+        },
+        "key": "1D630"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico pequeno p",
+                "alternative": "sans serif em itálico pequeno p",
+                "short": "sans serif em itálico p"
+            }
+        },
+        "key": "1D631"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico pequeno q",
+                "alternative": "sans serif em itálico pequeno q",
+                "short": "sans serif em itálico q"
+            }
+        },
+        "key": "1D632"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico pequeno r",
+                "alternative": "sans serif em itálico pequeno r",
+                "short": "sans serif em itálico r"
+            }
+        },
+        "key": "1D633"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico pequeno s",
+                "alternative": "sans serif em itálico pequeno s",
+                "short": "sans serif s itálico"
+            }
+        },
+        "key": "1D634"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico pequeno t",
+                "alternative": "sans serif em itálico pequeno t",
+                "short": "sans serif em itálico t"
+            }
+        },
+        "key": "1D635"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico u pequeno",
+                "alternative": "sans serif em itálico u pequeno",
+                "short": "sans serif em itálico u"
+            }
+        },
+        "key": "1D636"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico pequeno v",
+                "alternative": "sans serif em itálico pequeno v",
+                "short": "sans serif em itálico v"
+            }
+        },
+        "key": "1D637"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico pequeno w",
+                "alternative": "sans serif em itálico pequeno w",
+                "short": "sans serif em itálico w"
+            }
+        },
+        "key": "1D638"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico x pequeno",
+                "alternative": "sans serif em itálico x pequeno",
+                "short": "sans serif x itálico"
+            }
+        },
+        "key": "1D639"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico pequeno y",
+                "alternative": "sans serif em itálico pequeno y",
+                "short": "sans serif em itálico y"
+            }
+        },
+        "key": "1D63A"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática sem serifa itálico pequeno z",
+                "alternative": "sans serif em itálico pequeno z",
+                "short": "sans serif em itálico z"
+            }
+        },
+        "key": "1D63B"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "monospace matemática capital um",
+                "alternative": "monospace capital um",
+                "short": "monospace cap um"
+            }
+        },
+        "key": "1D670"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "b capital monospace matemática",
+                "alternative": "b capital monospace",
+                "short": "monospace tampa b"
+            }
+        },
+        "key": "1D671"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "c capital monospace matemática",
+                "alternative": "c capital monospace",
+                "short": "monospace tampa c"
+            }
+        },
+        "key": "1D672"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "monospace matemática capital d",
+                "alternative": "monospace capital d",
+                "short": "monospace cap d"
+            }
+        },
+        "key": "1D673"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital e matemática monospace",
+                "alternative": "capital e monoespaçada",
+                "short": "monospace cap e"
+            }
+        },
+        "key": "1D674"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "f capital de matemática monospace",
+                "alternative": "f capital monospace",
+                "short": "monospace cap f"
+            }
+        },
+        "key": "1D675"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital g matemática monospace",
+                "alternative": "monospace capital g",
+                "short": "monospace cap g"
+            }
+        },
+        "key": "1D676"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "monospace matemática capital h",
+                "alternative": "monospace capital h",
+                "short": "monospace cap h"
+            }
+        },
+        "key": "1D677"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "monospace matemática capital eu",
+                "alternative": "monospace capital eu",
+                "short": "monospace cap eu"
+            }
+        },
+        "key": "1D678"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "j capital monospace matemática",
+                "alternative": "j capital monospace",
+                "short": "monospace cap j"
+            }
+        },
+        "key": "1D679"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "monospace matemática capital k",
+                "alternative": "monospace capital k",
+                "short": "monospace cap k"
+            }
+        },
+        "key": "1D67A"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "l capital monospace matemática",
+                "alternative": "l capital monospace",
+                "short": "monospace cap l"
+            }
+        },
+        "key": "1D67B"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital m matemática monospace",
+                "alternative": "monospace capital m",
+                "short": "monospace cap m"
+            }
+        },
+        "key": "1D67C"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "monospace matemáticos n capital",
+                "alternative": "monospace capital n",
+                "short": "monospace cap n"
+            }
+        },
+        "key": "1D67D"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "o capital de matemática monospace",
+                "alternative": "o capital monospace",
+                "short": "monospace cap ó"
+            }
+        },
+        "key": "1D67E"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "monospace matemática p capital",
+                "alternative": "monospace capital p",
+                "short": "monospace cap p"
+            }
+        },
+        "key": "1D67F"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "monospace matemática q capital",
+                "alternative": "monospace capital q",
+                "short": "monospace cap q"
+            }
+        },
+        "key": "1D680"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "r capital monospace matemática",
+                "alternative": "r capital monospace",
+                "short": "monospace cap r"
+            }
+        },
+        "key": "1D681"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital s matemáticos monospace",
+                "alternative": "monospace capital s",
+                "short": "monospace tampa s"
+            }
+        },
+        "key": "1D682"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "capital t monospace matemática",
+                "alternative": "monospace capital t",
+                "short": "monospace cap t"
+            }
+        },
+        "key": "1D683"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "monospace matemáticas u capital",
+                "alternative": "monospace capital u",
+                "short": "monospace cap u"
+            }
+        },
+        "key": "1D684"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "monospace matemática capital v",
+                "alternative": "monospace capital v",
+                "short": "monospace cap v"
+            }
+        },
+        "key": "1D685"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "monospace matemática capital w",
+                "alternative": "monospace capital w",
+                "short": "monospace cap w"
+            }
+        },
+        "key": "1D686"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "monospace matemática capital x",
+                "alternative": "monospace capital x",
+                "short": "monospace cap x"
+            }
+        },
+        "key": "1D687"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "monospace matemática y capital",
+                "alternative": "monospace y capital",
+                "short": "monospace cap y"
+            }
+        },
+        "key": "1D688"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "monospace matemática capital z",
+                "alternative": "monospace capital z",
+                "short": "monospace cap z"
+            }
+        },
+        "key": "1D689"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequeno matemático monospace um",
+                "alternative": "monospace pequeno um",
+                "short": "monospace um"
+            }
+        },
+        "key": "1D68A"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "b pequenos matemáticos monospace",
+                "alternative": "b pequena monospace",
+                "short": "monospace b"
+            }
+        },
+        "key": "1D68B"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "c pequeno monospace matemática",
+                "alternative": "c pequeno monospace",
+                "short": "monospace c"
+            }
+        },
+        "key": "1D68C"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática monoespaçada pequenas d",
+                "alternative": "monoespaçada pequenas d",
+                "short": "monospace d"
+            }
+        },
+        "key": "1D68D"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática monoespaçada pequenas e",
+                "alternative": "monoespaçada pequenas e",
+                "short": "e monoespaçada"
+            }
+        },
+        "key": "1D68E"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "monospace matemáticos pequena f",
+                "alternative": "monospace pequena f",
+                "short": "monospace f"
+            }
+        },
+        "key": "1D68F"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "monospace matemática g pequeno",
+                "alternative": "monospace g pequeno",
+                "short": "monospace g"
+            }
+        },
+        "key": "1D690"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "monospace matemática h pequeno",
+                "alternative": "monospace h pequeno",
+                "short": "monospace h"
+            }
+        },
+        "key": "1D691"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequeno matemático monospace eu",
+                "alternative": "monoespaçada pequena eu",
+                "short": "monospace eu"
+            }
+        },
+        "key": "1D692"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "monospace matemáticos pequena j",
+                "alternative": "monospace pequena j",
+                "short": "monospace j"
+            }
+        },
+        "key": "1D693"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática monoespaçada pequenas k",
+                "alternative": "monoespaçada pequenas k",
+                "short": "monospace k"
+            }
+        },
+        "key": "1D694"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "monospace matemática l pequeno",
+                "alternative": "monospace l pequeno",
+                "short": "monospace l"
+            }
+        },
+        "key": "1D695"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática monoespaçada pequenas m",
+                "alternative": "monospace pequeno m",
+                "short": "monospace m"
+            }
+        },
+        "key": "1D696"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "monospace matemática pequeno n",
+                "alternative": "monospace pequeno n",
+                "short": "monospace n"
+            }
+        },
+        "key": "1D697"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "o pequeno monospace matemática",
+                "alternative": "o pequeno monospace",
+                "short": "ó monospace"
+            }
+        },
+        "key": "1D698"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "monospace matemática pequeno p",
+                "alternative": "monospace pequeno p",
+                "short": "monospace p"
+            }
+        },
+        "key": "1D699"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática monoespaçada pequenas q",
+                "alternative": "monoespaçada pequenas q",
+                "short": "monospace q"
+            }
+        },
+        "key": "1D69A"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "monospace matemática pequeno r",
+                "alternative": "monospace pequeno r",
+                "short": "monospace r"
+            }
+        },
+        "key": "1D69B"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática monoespaçada pequenas s",
+                "alternative": "monoespaçada pequenas s",
+                "short": "monospace s"
+            }
+        },
+        "key": "1D69C"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "monospace matemática t pequeno",
+                "alternative": "monospace pequeno t",
+                "short": "monospace t"
+            }
+        },
+        "key": "1D69D"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática monoespaçada pequenas u",
+                "alternative": "monospace pequeno u",
+                "short": "monospace u"
+            }
+        },
+        "key": "1D69E"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "monospace matemática v pequeno",
+                "alternative": "monoespaçada pequenas v",
+                "short": "monospace v"
+            }
+        },
+        "key": "1D69F"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática monoespaçada pequenas w",
+                "alternative": "monoespaçada pequenas w",
+                "short": "monospace w"
+            }
+        },
+        "key": "1D6A0"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "monospace matemática x pequeno",
+                "alternative": "monospace x pequeno",
+                "short": "monospace x"
+            }
+        },
+        "key": "1D6A1"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequena y matemáticas monospace",
+                "alternative": "monoespaçada pequenas y",
+                "short": "monospace y"
+            }
+        },
+        "key": "1D6A2"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "monospace matemática pequeno z",
+                "alternative": "monospace pequeno z",
+                "short": "monospace z"
+            }
+        },
+        "key": "1D6A3"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "pequeno matemático itálico sem pingo eu",
+                "alternative": "itálico pequeno pingo eu",
+                "short": "sem pingo de itálico eu"
+            }
+        },
+        "key": "1D6A4"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "matemática em itálico pequena minúscula j",
+                "alternative": "em itálico pequena minúscula j",
+                "short": "minúscula em itálico j"
+            }
+        },
+        "key": "1D6A5"
+    }
+]

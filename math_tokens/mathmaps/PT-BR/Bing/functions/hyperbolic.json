@@ -1,0 +1,170 @@
+[
+    {
+        "category": "Hyperbolic",
+        "mappings": {
+            "default": {
+                "default": "função cosseno hiperbólico",
+                "short": "cosseno hiperbólico"
+            }
+        },
+        "key": "cosh",
+        "names": [
+            "cosh"
+        ]
+    },
+    {
+        "category": "Hyperbolic",
+        "mappings": {
+            "default": {
+                "default": "função cotangente hiperbólica",
+                "short": "cotangente hiperbólica"
+            }
+        },
+        "key": "coth",
+        "names": [
+            "coth"
+        ]
+    },
+    {
+        "category": "Hyperbolic",
+        "mappings": {
+            "default": {
+                "default": "função cossecante hiperbólica",
+                "short": "cossecante hiperbólica"
+            }
+        },
+        "key": "csch",
+        "names": [
+            "csch"
+        ]
+    },
+    {
+        "category": "Hyperbolic",
+        "mappings": {
+            "default": {
+                "default": "função secante hiperbólica",
+                "short": "secante hiperbólica"
+            }
+        },
+        "key": "sech",
+        "names": [
+            "sech"
+        ]
+    },
+    {
+        "category": "Hyperbolic",
+        "mappings": {
+            "default": {
+                "default": "função seno hiperbólico",
+                "short": "seno hiperbólico"
+            }
+        },
+        "key": "sinh",
+        "names": [
+            "sinh"
+        ]
+    },
+    {
+        "category": "Hyperbolic",
+        "mappings": {
+            "default": {
+                "default": "função tangente hiperbólica",
+                "short": "tangente hiperbólica"
+            }
+        },
+        "key": "tanh",
+        "names": [
+            "tanh"
+        ]
+    },
+    {
+        "category": "Area",
+        "mappings": {
+            "default": {
+                "default": "função cosseno hiperbólico inverso",
+                "alternative": "função cosseno hiperbólico de área",
+                "short": "cosseno hiperbólico de área"
+            }
+        },
+        "key": "arcosh",
+        "names": [
+            "arcosh",
+            "arccosh"
+        ]
+    },
+    {
+        "category": "Area",
+        "mappings": {
+            "default": {
+                "default": "função cotangente hiperbólica inversa",
+                "alternative": "função cotangente hiperbólico de área",
+                "short": "cotangente hiperbólica de área"
+            }
+        },
+        "key": "arcoth",
+        "names": [
+            "arcoth",
+            "arccoth"
+        ]
+    },
+    {
+        "category": "Area",
+        "mappings": {
+            "default": {
+                "default": "função cossecante hiperbólica inversa",
+                "alternative": "função cossecante hiperbólica de área",
+                "short": "cossecante hiperbólica de área"
+            }
+        },
+        "key": "arcsch",
+        "names": [
+            "arcsch",
+            "arccsch"
+        ]
+    },
+    {
+        "category": "Area",
+        "mappings": {
+            "default": {
+                "default": "função secante hiperbólica inversa",
+                "alternative": "função secante hiperbólica de área",
+                "short": "secante hiperbólica de área"
+            }
+        },
+        "key": "arsech",
+        "names": [
+            "arsech",
+            "arcsech"
+        ]
+    },
+    {
+        "category": "Area",
+        "mappings": {
+            "default": {
+                "default": "função seno hiperbólico inverso",
+                "alternative": "função seno hiperbólico de área",
+                "short": "seno hiperbólico de área"
+            }
+        },
+        "key": "arsinh",
+        "names": [
+            "arsinh",
+            "arcsinh"
+        ]
+    },
+    {
+        "category": "Area",
+        "mappings": {
+            "default": {
+                "default": "função tangente hiperbólica inversa",
+                "alternative": "função tangente hiperbólica de área",
+                "short": "tangente hiperbólica de área"
+            }
+        },
+        "key": "artanh",
+        "names": [
+            "artanh",
+            "arctanh"
+        ]
+    }
+]
