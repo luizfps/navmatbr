@@ -364,6 +364,8 @@ cvox.NavigationManager.prototype.findNext = function(
     this.updateSelToArbitraryNode(ret.start.node);
   }
   this.predicate_ = '';
+
+  console.log("ret:",ret)
   return ret;
 };
 

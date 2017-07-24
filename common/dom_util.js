@@ -2270,7 +2270,7 @@ cvox.DomUtil.getContainingMath = function(node) {
  * Null if it does not.
  */
 cvox.DomUtil.findMathNodeInList = function(nodes) {
- // console.log(nodes)
+  console.log('nodes from findMathNodeInList:',nodes)
   for (var i = 0, node; node = nodes[i]; i++) {
     if (cvox.DomUtil.isMath(node)) {
       //console.log('node found:',node)
@@ -2284,7 +2284,7 @@ cvox.DomUtil.findMathNodeInList = function(nodes) {
  *  extrai um node que é uma fracao em mathml
  */
 cvox.DomUtil.findFracNodeInList = function(nodes) {
-  //console.log('node found2:',nodes)
+  console.log('nodes from findfracnodeinlist:',nodes)
   for (var i = 0, node; node = nodes[i]; i++) {
      //console.log('node found3:',node[i],i)
     if (cvox.DomUtil.isFrac(node)) {
@@ -2311,10 +2311,12 @@ cvox.DomUtil.isMath = function(node) {
               cvox.AriaUtil.isMath(node);
 };
 /**
- *  verifique se o nó contem uma tag frac
+ *  verifique se o nó contem uma tag frac implementar as outras funções
  */
 cvox.DomUtil.isFrac = function(node) {
-  return cvox.DomUtil.isFracMathml(node)
+  return cvox.DomUtil.isFracMathml(node)||
+  cvox.DomUtil.isFracMathJax(node) ||
+          cvox.DomUtil.isFracMathImg(node); 
 };
 
 /**
@@ -2365,6 +2367,23 @@ cvox.DomUtil.isMathImg = function(node) {
   return cvox.DomUtil.ALT_MATH_CLASSES.tex.indexOf(className) != -1 ||
       cvox.DomUtil.ALT_MATH_CLASSES.asciimath.indexOf(className) != -1;
 };
+/**
+ *  nova implementação
+ * 
+ */
+cvox.DomUtil.isFracMathImg = function(node) {
+  if (!node || !node.tagName || !node.className) {
+    return false;
+  }
+  if (node.tagName != 'IMG') {
+    return false;
+  }
+  var className = node.className.toLowerCase();
+  return cvox.DomUtil.ALT_MATH_CLASSES.tex.indexOf(className) != -1 ||
+      cvox.DomUtil.ALT_MATH_CLASSES.asciimath.indexOf(className) != -1;
+};
+
+
 
 
 /**
@@ -2396,6 +2415,7 @@ cvox.DomUtil.isFracMathml = function(node) {
  * @return {boolean} Whether or not a node is a MathJax node.
  */
 cvox.DomUtil.isMathJax = function(node) {
+  console.log("entrou")
   if (!node || !node.tagName || !node.className) {
     return false;
   }
@@ -2407,10 +2427,36 @@ cvox.DomUtil.isMathJax = function(node) {
   };
   if (isSpanWithClass(node, 'math')) {
     var ancestors = cvox.DomUtil.getAncestors(node);
+    console.log("ancestral ismathjax:",ancestors)
     return ancestors.some(function(x) {return isSpanWithClass(x, 'mathjax');});
   }
   return false;
 };
+/**
+ *  implementação do isFracMathJax verifica se é um no no mathjax
+ */
+cvox.DomUtil.isFracMathJax = function(node) {
+  if (!node || !node.tagName || !node.className) {
+    return false;
+  }
+
+  function isSpanWithClass(n, cl) {
+    return (n.tagName == 'SPAN' &&
+            n.className.split(' ').some(function(x) {
+                                          return x.toLowerCase() == cl;}));
+  };
+  if (isSpanWithClass(node, 'mfrac')) {
+    var ancestors = cvox.DomUtil.getAncestors(node);
+    return ancestors.some(function(x) {return isSpanWithClass(x, 'mathjax');});
+  }
+  return false;
+};
+
+
+
+
+
+
 
 
 /**

@@ -45,23 +45,27 @@ cvox.FindUtil.objectWalker_ = new cvox.BareObjectWalker();
  */
 cvox.FindUtil.findNext = function(sel, predicate, opt_initialNode) {
   var r = sel.isReversed();
-  console.log("r:",r);
+  //console.log("r:",r);
   var cur = new cvox.CursorSelection(sel.absStart(), sel.absStart())
       .setReversed(r);
-  console.log("cur 1:",cur);
+ // console.log("cur 1:",cur);
   // We may have been sync'ed into a subtree of the current predicate match.
   // Find our ancestor that matches the predicate.
   var ancestor;
+  console.log("cur.start.node:",cur.start.node)
+  var ancestrais = cvox.DomUtil.getAncestors(cur.start.node)
+
+  console.log("ancestrais:->" ,ancestrais)
+
   if (ancestor = predicate(cvox.DomUtil.getAncestors(cur.start.node))) {
     cur = cvox.CursorSelection.fromNode(ancestor).setReversed(r);
-    console.log("ancestor:",ancestor);
-    console.log("cur 2:",cur)
+  
     if (opt_initialNode) {
-      
+       console.log("cur:",cur)
       return cur;
     }
   }
-  console.log("cur:",cur)
+ 
   while (cur) {
     // Use ObjectWalker's traversal which guarantees us a stable iteration of
     // the DOM including returning null at page bounds.

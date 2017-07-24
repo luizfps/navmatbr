@@ -50,7 +50,7 @@ cvox.ChromeVoxKbHandler.loadKeyToFunctionsTable = function(
   cvox.ChromeVoxKbHandler.handlerKeyMap =
       
       cvox.KeyMap.fromJSON(keyToFunctionsTable);
-      console.log("keyToFunctionsTable ->"+keyToFunctionsTable);
+      //console.log("keyToFunctionsTable ->"+keyToFunctionsTable);
 };
 
 /**
@@ -101,7 +101,7 @@ cvox.ChromeVoxKbHandler.basicKeyDownActionsListener = function(evt) {
   var functionName;
 
  // console.log("imprimir hendlerkwymap "+JSON.stringify(cvox.ChromeVoxKbHandler.handlerKeyMap));// não esta identificando o comando numerator
-  console.log("keySequence -> "+JSON.stringify(keySequence));
+  //console.log("keySequence -> "+JSON.stringify(keySequence));
 
 
   if (cvox.ChromeVoxKbHandler.handlerKeyMap != undefined) {
@@ -132,7 +132,7 @@ cvox.ChromeVoxKbHandler.basicKeyDownActionsListener = function(evt) {
   
   var func = cvox.ChromeVoxUserCommands.commands[functionName];
 
-  console.log('func -> ' , func);
+  //console.log('func -> ' , func);
 
   if (func) {
     var history = cvox.History.getInstance();

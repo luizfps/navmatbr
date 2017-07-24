@@ -301,7 +301,7 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
   var errorMsg = '';
   var prefixMsg = '';
   var ret = false;
-  console.log("cmd:",cmd);
+  //console.log("cmd:",cmd);
   switch (cmd) {
 
     
@@ -331,9 +331,9 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
       var NodeInfoStruct =
           cvox.CommandStore.NODE_INFO_MAP[cmdStruct.findNext];//esta no CommandStore 
       var predicateName = NodeInfoStruct.predicate;
-      console.log("nodeinfo:", NodeInfoStruct);
+      //console.log("nodeinfo:", NodeInfoStruct);
       var predicate = cvox.DomPredicates[predicateName];//esta em dom_predicates.js e retorna o node correspondente 
-      console.log("predicate:",predicate)
+      //console.log("predicate:",predicate)
       var error = '';
       var wrap = '';
       if (cmdStruct.forward) {
@@ -347,7 +347,7 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
       var status = cmdStruct.status || cvox.UserEventDetail.Status.PENDING;
       var resultNode = cmdStruct.resultNode || null;
 
-      console.log("status:",status)
+      //console.log("status:",status)
       switch (status) {
         case cvox.UserEventDetail.Status.SUCCESS:
           if (resultNode) {
@@ -361,7 +361,7 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
         default:
           found = cvox.ChromeVox.navigationManager.findNext(
               predicate, predicateName);
-          console.log("found:", found)
+          console.log("encontrado:", found)
           if (!found) {
             cvox.ChromeVox.navigationManager.saveSel();
             prefixMsg = wrap;

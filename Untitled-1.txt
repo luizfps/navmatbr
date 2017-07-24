@@ -1,0 +1,38 @@
+
+
+<!DOCTYPE html>
+ <html>
+ <head>
+     <meta charset="UTF-8"/>
+     <title>Document</title>
+ </head>
+ <body>
+     <mrow>
+  <mrow>
+   <mo>(</mo>
+   <mrow>
+    <ms>Content</ms>
+    <semantics>
+     <mo>&#8594;</mo>
+     <annotation encoding='Mathematica'>&quot;\[Rule]&quot;</annotation>
+    </semantics>
+    <mi>True</mi>
+   </mrow>
+   <mo>)</mo>
+  </mrow>
+  <mo>&#10740;</mo>
+  <mrow>
+   <mi>a</mi>
+   <mo>+</mo>
+   <mfrac>
+    <mn>2</mn>
+    <mi>b</mi>
+   </mfrac>
+   <mo>+</mo>
+   <mn>7</mn>
+  </mrow>
+ </mrow>
+</math>
+ </body>
+ </html><math xmlns='http://www.w3.org/1998/Math/MathML'>
+ 

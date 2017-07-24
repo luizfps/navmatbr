@@ -196,7 +196,7 @@ cvox.KeySequence.prototype.equals = function(rhs) {
  * @private
  */
 cvox.KeySequence.prototype.extractKey_ = function(keyEvent) {
-  console.log(keyEvent);
+  //console.log(keyEvent);
   for (var prop in this.keys) {
     
     if (prop == 'keyCode') {
