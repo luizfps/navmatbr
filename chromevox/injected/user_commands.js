@@ -31,7 +31,9 @@ goog.provide('cvox.ChromeVoxUserCommands');
 goog.require('cvox.AutoRunner');
 goog.require('cvox.BrailleKeyCommand');
 goog.require('cvox.ChromeVox');
+goog.require('cvox.CursorSelection');
 goog.require('cvox.CommandStore');
+goog.require('cvox.NavigationManager');
 goog.require('cvox.ConsoleTts');
 goog.require('cvox.DomPredicates');
 goog.require('cvox.DomUtil');
@@ -244,9 +246,9 @@ cvox.ChromeVoxUserCommands.dispatchCommand_ = function(cmdStruct) {
       (cvox.UserEventDetail.JUMP_COMMANDS.indexOf(cmdStruct.command) != -1)) {console.log("command: ",cmdStruct.command);
     var detail = new cvox.UserEventDetail({command: cmdStruct.command});
     var evt = detail.createEventObject();
-    console.log("evt ", evt)
+    //console.log("evt ", evt)
     var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
-    console.log("current node",currentNode);
+    //console.log("current node",currentNode);
     if (!currentNode) {
       currentNode = document.body;
     }
@@ -327,7 +329,8 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
       if (!cmdStruct.findNext) {
         throw 'Invalid find command.';
       }
-      console.log("findnext",cmdStruct.findNext)
+      //console.log("findnext",cmdStruct.findNext)
+     
       var NodeInfoStruct =
           cvox.CommandStore.NODE_INFO_MAP[cmdStruct.findNext];//esta no CommandStore 
       var predicateName = NodeInfoStruct.predicate;
@@ -358,24 +361,43 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
         case cvox.UserEventDetail.Status.FAILURE:
           prefixMsg = error;
           break;
-        default:
-          found = cvox.ChromeVox.navigationManager.findNext(
-              predicate, predicateName);
-          console.log("encontrado:", found)
-          if (!found) {
-            cvox.ChromeVox.navigationManager.saveSel();
-            prefixMsg = wrap;
-            cvox.ChromeVox.navigationManager.syncToBeginning();
-            cvox.ChromeVox.earcons.playEarcon(cvox.AbstractEarcons.WRAP);
-            found = cvox.ChromeVox.navigationManager.findNext(
-                predicate, predicateName, true);
-            if (!found) {
-              prefixMsg = error;
-              cvox.ChromeVox.navigationManager.restoreSel();
+        default: 
+        /* if(cmdStruct.findNext=='frac'){
+         
+          var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
+          var ancestors =  cvox.DomUtil.getAncestors(currentNode);
+         
+          
+           // verifica se o nó atual está dentro de um math 
+           if (cvox.DomUtil.findMathNodeInList(ancestors)) {
+              //verificamos a fração mais perto do nó atual
+             found = cvox.ChromeVox.navigationManager.walktreefrac(currentNode);
+            console.log("encontrado:",found); 
             }
-          }
-          break;
-      }
+        }
+        
+        else{*/
+            found = cvox.ChromeVox.navigationManager.findNext(
+                          predicate, predicateName);
+                         console.log("encontrado2:",found); 
+       // }
+                     
+                      if (!found) {
+                        
+                        cvox.ChromeVox.navigationManager.saveSel();
+                        prefixMsg = wrap;
+                        cvox.ChromeVox.navigationManager.syncToBeginning();
+                        cvox.ChromeVox.earcons.playEarcon(cvox.AbstractEarcons.WRAP);
+                        found = cvox.ChromeVox.navigationManager.findNext(
+                            predicate, predicateName, true);
+                        console.log("found2:",found);
+                        if (!found) {
+                          prefixMsg = error;
+                          cvox.ChromeVox.navigationManager.restoreSel();
+                        }
+                      }
+                    }
+      
       // NavigationManager performs announcement inside of frames when finding.
       if (found && found.start.node.tagName == 'IFRAME') {
         cmdStruct.announce = false;

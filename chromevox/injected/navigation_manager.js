@@ -352,11 +352,20 @@ cvox.NavigationManager.prototype.hasNext_ = function() {
  */
 cvox.NavigationManager.prototype.findNext = function(
     predicate, opt_predicateName, opt_initialNode) {
+
+      //console.log("predicate:",predicate);
+      console.log("opt_predicateName:",opt_predicateName);
+      //console.log("opt_initialNode:",opt_initialNode);
+
+
   this.predicate_ = opt_predicateName || '';
   this.resolve();
   this.shifter_ = this.shifterStack_[0] || this.shifter_;
   this.shifterStack_ = [];
+  //console.log(this.curSel_);
+  //console.log(predicate);
   var ret = cvox.FindUtil.findNext(this.curSel_, predicate, opt_initialNode);
+
   if (!this.ignoreIframesNoMatterWhat_) {
     this.tryIframe_(ret && ret.start.node);
   }
@@ -365,7 +374,9 @@ cvox.NavigationManager.prototype.findNext = function(
   }
   this.predicate_ = '';
 
-  console.log("ret:",ret)
+  console.log(this.curSel_);
+
+  //console.log("ret:",ret)
   return ret;
 };
 
@@ -1245,3 +1256,60 @@ cvox.NavigationManager.prototype.persistGranularity_ = function(opt_persist) {
     });
   }
 };
+// anda na arvore DOM 
+
+/*cvox.NavigationManager.prototype.walktreefrac = function(node){
+
+  var c;
+
+  do {
+    console.log(node);
+    if (node) {
+      if (cvox.DomUtil.isFrac(node)) {
+        console.log("fração encontrada:", node);
+        c = cvox.CursorSelection.fromNode(node);
+        console.log(c);
+      }
+      if (node.hasChildNodes()) {
+        console.log("recursao no filho",c);
+        c = cvox.ChromeVox.navigationManager.walktreefrac(node.firstChild);
+      }
+
+    }
+  } while (node = node.nextSibling);
+  return c;
+
+
+}*/
+
+cvox.NavigationManager.prototype.walktreefrac = function(node){
+
+var walker=document.createTreeWalker(node, NodeFilter.SHOW_ELEMENT, null, false);
+if( cvox.DomUtil.isFrac(node)){
+  walker=document.createTreeWalker(node.nextSibling, NodeFilter.SHOW_ELEMENT, null, false);
+}
+console.log("current  node:",this.getCurrentNode());
+console.log("cursel",this.curSel_);
+
+console.log(node);
+while(walker.nextNode()){
+  var resul = null;
+  // console.log(walker.currentNode);
+  if(cvox.DomUtil.isFrac(walker.currentNode)){
+    
+    result = cvox.CursorSelection.fromNode(walker.currentNode);
+    this.curSel_ = result;
+    if (!this.ignoreIframesNoMatterWhat_) {
+    this.tryIframe_(result && result.start.node);
+
+     this.updateSelToArbitraryNode(result.start.node);
+     
+     
+  }
+    break;
+    
+  }
+}
+return result;
+}
+

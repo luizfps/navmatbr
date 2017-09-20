@@ -48,6 +48,7 @@ goog.inherits(cvox.AbstractNodeWalker, cvox.AbstractWalker);
  * @override
  */
 cvox.AbstractNodeWalker.prototype.next = function(sel) {
+  
   var r = sel.isReversed();
   var node = sel.end.node || document.body;
 

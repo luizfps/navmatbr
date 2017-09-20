@@ -1082,6 +1082,7 @@ cvox.DomUtil.getAncestors = function(targetNode) {
   while (ancestors.length && !ancestors[0].tagName && !ancestors[0].nodeValue) {
     ancestors.shift();
   }
+ // console.log(ancestors);
   return ancestors;
 };
 
@@ -2270,7 +2271,7 @@ cvox.DomUtil.getContainingMath = function(node) {
  * Null if it does not.
  */
 cvox.DomUtil.findMathNodeInList = function(nodes) {
-  console.log('nodes from findMathNodeInList:',nodes)
+  //console.log('nodes from findMathNodeInList:',nodes)
   for (var i = 0, node; node = nodes[i]; i++) {
     if (cvox.DomUtil.isMath(node)) {
       //console.log('node found:',node)
@@ -2284,15 +2285,14 @@ cvox.DomUtil.findMathNodeInList = function(nodes) {
  *  extrai um node que é uma fracao em mathml
  */
 cvox.DomUtil.findFracNodeInList = function(nodes) {
-  console.log('nodes from findfracnodeinlist:',nodes)
+  //console.log('nodes from findfracnodeinlist:',nodes)
   for (var i = 0, node; node = nodes[i]; i++) {
      //console.log('node found3:',node[i],i)
     if (cvox.DomUtil.isFrac(node)) {
       
-      alert("encontrou frac!")
+      console.log("nó encontrado:",node)
+      //alert("encontrou frac!")
       return node;
-    }else{
-
     }
   }
   return null;
@@ -2305,15 +2305,24 @@ cvox.DomUtil.findFracNodeInList = function(nodes) {
  */
 //encontra um nó que contém formulas matematicas
 cvox.DomUtil.isMath = function(node) {
+  // console.log("1:",cvox.DomUtil.isMathml(node));
+  // console.log("2:",cvox.DomUtil.isMathJax(node) );
+  // console.log("3:",cvox.DomUtil.isMathImg(node));
+  // console.log("4:",cvox.AriaUtil.isMath(node));
   return cvox.DomUtil.isMathml(node) ||
       cvox.DomUtil.isMathJax(node) ||
           cvox.DomUtil.isMathImg(node) ||
               cvox.AriaUtil.isMath(node);
 };
+
 /**
  *  verifique se o nó contem uma tag frac implementar as outras funções
  */
 cvox.DomUtil.isFrac = function(node) {
+//  console.log("1:",cvox.DomUtil.isFracMathml(node));
+//   console.log("2:", cvox.DomUtil.isFracMathJax(node)  );
+//   console.log("3:",cvox.DomUtil.isFracMathImg(node));
+  
   return cvox.DomUtil.isFracMathml(node)||
   cvox.DomUtil.isFracMathJax(node) ||
           cvox.DomUtil.isFracMathImg(node); 
@@ -2415,7 +2424,7 @@ cvox.DomUtil.isFracMathml = function(node) {
  * @return {boolean} Whether or not a node is a MathJax node.
  */
 cvox.DomUtil.isMathJax = function(node) {
-  console.log("entrou")
+  //console.log("entrou")
   if (!node || !node.tagName || !node.className) {
     return false;
   }
@@ -2427,7 +2436,7 @@ cvox.DomUtil.isMathJax = function(node) {
   };
   if (isSpanWithClass(node, 'math')) {
     var ancestors = cvox.DomUtil.getAncestors(node);
-    console.log("ancestral ismathjax:",ancestors)
+    //console.log("ancestral ismathjax:",ancestors)
     return ancestors.some(function(x) {return isSpanWithClass(x, 'mathjax');});
   }
   return false;

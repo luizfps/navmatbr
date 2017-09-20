@@ -45,34 +45,43 @@ cvox.FindUtil.objectWalker_ = new cvox.BareObjectWalker();
  */
 cvox.FindUtil.findNext = function(sel, predicate, opt_initialNode) {
   var r = sel.isReversed();
-  //console.log("r:",r);
+
   var cur = new cvox.CursorSelection(sel.absStart(), sel.absStart())
       .setReversed(r);
  // console.log("cur 1:",cur);
   // We may have been sync'ed into a subtree of the current predicate match.
   // Find our ancestor that matches the predicate.
   var ancestor;
-  console.log("cur.start.node:",cur.start.node)
-  var ancestrais = cvox.DomUtil.getAncestors(cur.start.node)
+ 
+  //console.log("ancestrais:->" ,ancestrais)
+    //console.log("cur.star.node->" ,cur.start.node)
 
-  console.log("ancestrais:->" ,ancestrais)
+
+  //console.log("ancestor",cvox.DomUtil.getAncestors(cur.start.node));
 
   if (ancestor = predicate(cvox.DomUtil.getAncestors(cur.start.node))) {
-    cur = cvox.CursorSelection.fromNode(ancestor).setReversed(r);
-  
+    
+    cur = cvox.CursorSelection.fromNode(ancestor).setReversed(r);//esta em cursor_selection.js
+    console.log("sncestor:",ancestor);
+    //console.log("cur:",cur);
     if (opt_initialNode) {
-       console.log("cur:",cur)
+       
       return cur;
     }
+  
   }
- 
+ //console.log("cur:",cur);
   while (cur) {
     // Use ObjectWalker's traversal which guarantees us a stable iteration of
     // the DOM including returning null at page bounds.
     cur = cvox.FindUtil.objectWalker_.next(cur);
+
     var retNode = null;
+    
     if (!cur ||
         (retNode = predicate(cvox.DomUtil.getAncestors(cur.start.node)))) {
+
+      //console.log("retNode:",retNode);  
       return retNode ? cvox.CursorSelection.fromNode(retNode) : null;
     }
 
