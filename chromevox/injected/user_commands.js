@@ -379,7 +379,7 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
         else{*/
             found = cvox.ChromeVox.navigationManager.findNext(
                           predicate, predicateName);
-                         console.log("encontrado2:",found); 
+                         console.log("encontrado do else:",found); 
        // }
                      
                       if (!found) {
