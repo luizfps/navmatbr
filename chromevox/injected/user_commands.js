@@ -221,6 +221,7 @@ cvox.ChromeVoxUserCommands.createTabDummySpan_ = function() {
  * @private
  */
 cvox.ChromeVoxUserCommands.createCommand_ = function(cmd) {
+  //alert("caller is " + arguments.callee.caller.toString());
   return goog.bind(function(opt_kwargs) {
     var cmdStruct = cvox.ChromeVoxUserCommands.lookupCommand_(cmd, opt_kwargs);
     return cvox.ChromeVoxUserCommands.dispatchCommand_(cmdStruct);
@@ -234,6 +235,7 @@ cvox.ChromeVoxUserCommands.createCommand_ = function(cmd) {
  * @private
  */
 cvox.ChromeVoxUserCommands.dispatchCommand_ = function(cmdStruct) {
+
   if (cvox.Widget.isActive()) {
     return true;
   }
@@ -308,10 +310,19 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
 
     
     case 'goToNumerator':
-      alert("comando numerador ativado");
+    var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
+      if(cvox.DomUtil.isFrac( currentNode )){
+        console.log(currentNode.firstChild);
+        alert("entrou no numerador");
+      }
       break;
     case 'goToDenominator':
-      alert("comando denominador ativado");
+    var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
+    if(cvox.DomUtil.isFrac( currentNode )){
+      console.log(currentNode.lastChild);
+      alert("entrou no denominador");
+    }
+
       break;
     case 'handleTab':
     case 'handleTabPrev':
@@ -362,7 +373,7 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
           prefixMsg = error;
           break;
         default: 
-        /* if(cmdStruct.findNext=='frac'){
+         if(cmdStruct.findNext=='frac'){
          
           var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
           var ancestors =  cvox.DomUtil.getAncestors(currentNode);
@@ -371,16 +382,16 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
            // verifica se o nó atual está dentro de um math 
            if (cvox.DomUtil.findMathNodeInList(ancestors)) {
               //verificamos a fração mais perto do nó atual
-             found = cvox.ChromeVox.navigationManager.walktreefrac(currentNode);
+             found = cvox.ChromeVox.navigationManager.walktreefrac(currentNode.firstChild);
             console.log("encontrado:",found); 
             }
         }
         
-        else{*/
+        else{
             found = cvox.ChromeVox.navigationManager.findNext(
                           predicate, predicateName);
-                         console.log("encontrado do else:",found); 
-       // }
+                        
+       }
                      
                       if (!found) {
                         
@@ -390,7 +401,7 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
                         cvox.ChromeVox.earcons.playEarcon(cvox.AbstractEarcons.WRAP);
                         found = cvox.ChromeVox.navigationManager.findNext(
                             predicate, predicateName, true);
-                        console.log("found2:",found);
+                        
                         if (!found) {
                           prefixMsg = error;
                           cvox.ChromeVox.navigationManager.restoreSel();

@@ -1284,32 +1284,56 @@ cvox.NavigationManager.prototype.persistGranularity_ = function(opt_persist) {
 
 cvox.NavigationManager.prototype.walktreefrac = function(node){
 
-var walker=document.createTreeWalker(node, NodeFilter.SHOW_ELEMENT, null, false);
-if( cvox.DomUtil.isFrac(node)){
-  walker=document.createTreeWalker(node.nextSibling, NodeFilter.SHOW_ELEMENT, null, false);
+  console.log("no inicial",node);
+  var nodefound = null;
+  
+    if(cvox.DomUtil.isMath(node)){
+      return null;
+    }
+    if(cvox.DomUtil.isFrac(node)){
+      node = node.nextSibling;
+    }
+    else{
+      var walker=document.createTreeWalker(node, NodeFilter.SHOW_ELEMENT, null, false);
+      
+      if(cvox.DomUtil.isMath(walker.currentNode)){
+        return walker.currentNode;
+      }
+      else if(walker.nextNode()!=null){
+        walktreefrac(walker.currentNode);
+      }
+      else if(walker.nextNode()!= null){
+        if(walker.nextSibling()!=null){
+          walktreefrac(walker.currentNode);
+        }
+        else{
+          
+        }
+      }
+
+    }
+  
+    return nodefound;
 }
-console.log("current  node:",this.getCurrentNode());
-console.log("cursel",this.curSel_);
 
-console.log(node);
-while(walker.nextNode()){
-  var resul = null;
-  // console.log(walker.currentNode);
-  if(cvox.DomUtil.isFrac(walker.currentNode)){
-    
-    result = cvox.CursorSelection.fromNode(walker.currentNode);
-    this.curSel_ = result;
-    if (!this.ignoreIframesNoMatterWhat_) {
-    this.tryIframe_(result && result.start.node);
+/*var nodefound = null;
 
-     this.updateSelToArbitraryNode(result.start.node);
-     
-     
+  if(cvox.DomUtil.isMath(node)){
+    return null;
   }
-    break;
-    
+  if(cvox.DomUtil.isFrac(node)){
+    node = node.nextSibling;
   }
-}
-return result;
-}
+  else{
+    var walker=document.createTreeWalker(node, NodeFilter.SHOW_ELEMENT, null, false);
 
+    while(walker.nextNode()){
+      if(cvox.DomUtil.isFrac(node)){
+        nodefound = walker.currentNode;
+        break;
+      }
+    }
+
+  }
+
+  return nodefound;*/

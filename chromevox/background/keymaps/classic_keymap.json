@@ -546,6 +546,14 @@
   {"command": "goToDenominator",
   "sequence": {"keys": {"keyCode": [68],
                         "shiftKey": [true]}
-              }}
+              }},
+  {"command": "internalNavigation",
+    "sequence":{
+      "keys":{"keyCode":[13]}
+    }},
+    {"command": "exitInternalNavigation",
+      "sequence":{
+        "keys":{"keyCode":[27]}
+      }}
   ]
 }
