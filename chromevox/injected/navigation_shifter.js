@@ -148,6 +148,9 @@ cvox.NavigationShifter.prototype.getName = function() {
  * @override
  */
 cvox.NavigationShifter.prototype.getDescription = function(prevSel, sel) {
+  console.log("entrou no shifter");
+  console.log("this current walker",this.currentWalker_);
+
   return this.currentWalker_.getDescription(prevSel, sel);
 };
 
@@ -271,6 +274,7 @@ cvox.NavigationShifter.prototype.reset_ = function() {
    * @private
    */
   this.currentWalker_ = this.walkers_[this.currentWalkerIndex_];
+  
 };
 
 

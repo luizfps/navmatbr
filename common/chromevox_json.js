@@ -291,6 +291,7 @@ if (window.JSON && window.JSON.toString() == '[object JSON]') {
     // If the JSON object does not yet have a parse method, give it one.
 
     if (typeof cvox.ChromeVoxJSON.parse !== 'function') {
+      console.log("entrou2");
       /**
        * @param {string} text The string to parse.
        * @param {(function(string, *) : *|null)=} reviver Reviver function.
@@ -331,6 +332,7 @@ if (window.JSON && window.JSON.toString() == '[object JSON]') {
         // treating them as line endings.
 
         text = String(text);
+        console.log("text",text);
         cx.lastIndex = 0;
         if (cx.test(text)) {
           text = text.replace(cx, function(a) {

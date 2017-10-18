@@ -996,3 +996,10 @@ cvox.AriaUtil.isMath = function(node) {
   var role = cvox.AriaUtil.getRoleAttribute(node);
   return role == 'math';
 };
+cvox.AriaUtil.isFrac = function(node) {
+  if (!node || !node.getAttribute) {
+    return false;
+  }
+  var role = cvox.AriaUtil.getRoleAttribute(node);
+  return role == 'frac';
+};

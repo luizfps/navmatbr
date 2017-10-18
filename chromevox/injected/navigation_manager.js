@@ -359,14 +359,21 @@ cvox.NavigationManager.prototype.findNext = function(
 
 
   this.predicate_ = opt_predicateName || '';
+  console.log("resolve:",this.resolve());
+  
+  
+  console.log();
   this.resolve();
   this.shifter_ = this.shifterStack_[0] || this.shifter_;
+  console.log("thisshifter",this.shifter_);
   this.shifterStack_ = [];
+  
   //console.log(this.curSel_);
   //console.log(predicate);
   var ret = cvox.FindUtil.findNext(this.curSel_, predicate, opt_initialNode);
 
   if (!this.ignoreIframesNoMatterWhat_) {
+    console.log("iframe");
     this.tryIframe_(ret && ret.start.node);
   }
   if (ret) {
@@ -374,8 +381,8 @@ cvox.NavigationManager.prototype.findNext = function(
   }
   this.predicate_ = '';
 
-  console.log(this.curSel_);
-
+ 
+  console.log("shifterstack",this.shifterStack_);
   //console.log("ret:",ret)
   return ret;
 };
@@ -445,10 +452,12 @@ cvox.NavigationManager.prototype.togglePageSel = function() {
 cvox.NavigationManager.prototype.getDescription = function() {
   // Handle description of special content. Consider moving to DescriptionUtil.
   // Specially annotated nodes.
+  console.log("gerando descrição");
   if (this.getCurrentNode().hasAttribute &&
       this.getCurrentNode().hasAttribute('cvoxnodedesc')) {
     var preDesc = cvox.ChromeVoxJSON.parse(
         this.getCurrentNode().getAttribute('cvoxnodedesc'));
+    console.log("predesc:",preDesc);
     var currentDesc = new Array();
     for (var i = 0; i < preDesc.length; ++i) {
       var inDesc = preDesc[i];
@@ -461,6 +470,7 @@ cvox.NavigationManager.prototype.getDescription = function() {
         annotation: inDesc.annotation
       }));
     }
+    
     return currentDesc;
   }
 
@@ -468,6 +478,13 @@ cvox.NavigationManager.prototype.getDescription = function() {
   var desc = this.pageSel_ ? this.pageSel_.getDescription(
           this.shifter_, this.prevSel_, this.curSel_) :
       this.shifter_.getDescription(this.prevSel_, this.curSel_);
+
+  console.log("pagesel",this.pageSel_);
+  console.log("shifter:",this.shifter_);
+  console.log("this.prevsel:",this.prevSel_);
+  console.log("cursel:",this.curSel_);
+
+ console.log("desc:",desc);
   var earcons = [];
 
   // Earcons.
@@ -729,11 +746,14 @@ cvox.NavigationManager.prototype.finishNavCommand = function(
   }
 
   if (this.enteredShifter_ || this.exitedShifter_) {
+    console.log("dentro do finishnavcommand");
     opt_prefix = cvox.ChromeVox.msgs.getMsg(
         'enter_content_say', [this.shifter_.getName()]);
+
   }
 
   var descriptionArray = cvox.ChromeVox.navigationManager.getDescription();
+  console.log("description",descriptionArray);
 
   opt_setFocus = opt_setFocus === undefined ? true : opt_setFocus;
 
@@ -1281,59 +1301,45 @@ cvox.NavigationManager.prototype.persistGranularity_ = function(opt_persist) {
 
 
 }*/
+//pilha de nos 
+nodestack = [];
 
 cvox.NavigationManager.prototype.walktreefrac = function(node){
 
-  console.log("no inicial",node);
-  var nodefound = null;
-  
-    if(cvox.DomUtil.isMath(node)){
-      return null;
-    }
-    if(cvox.DomUtil.isFrac(node)){
-      node = node.nextSibling;
-    }
-    else{
-      var walker=document.createTreeWalker(node, NodeFilter.SHOW_ELEMENT, null, false);
-      
-      if(cvox.DomUtil.isMath(walker.currentNode)){
-        return walker.currentNode;
-      }
-      else if(walker.nextNode()!=null){
-        walktreefrac(walker.currentNode);
-      }
-      else if(walker.nextNode()!= null){
-        if(walker.nextSibling()!=null){
-          walktreefrac(walker.currentNode);
-        }
-        else{
-          
-        }
-      }
+  var walker=document.createTreeWalker(node, NodeFilter.SHOW_ELEMENT, null, false);
+ 
+  var cursor = null;
+  var nodefound=null;
 
-    }
-  
-    return nodefound;
-}
-
-/*var nodefound = null;
-
-  if(cvox.DomUtil.isMath(node)){
-    return null;
-  }
-  if(cvox.DomUtil.isFrac(node)){
-    node = node.nextSibling;
+  //se a pilha 
+  if(nodestack.length >0){
+    console.log("fração encontrada:", walker.currentNode);
+    nodefound = nodestack.shift();
+    cursor = cvox.CursorSelection.fromNode(nodefound);
   }
   else{
-    var walker=document.createTreeWalker(node, NodeFilter.SHOW_ELEMENT, null, false);
-
     while(walker.nextNode()){
-      if(cvox.DomUtil.isFrac(node)){
-        nodefound = walker.currentNode;
-        break;
-      }
+      //console.log("current node:",walker.currentNode);
+      if (cvox.DomUtil.isFrac(walker.currentNode)) {
+       nodestack.push(walker.currentNode);
+     }  
     }
-
+    if(nodestack.length >0){
+      nodefound = nodestack.shift();
+      cursor = cvox.CursorSelection.fromNode(nodefound);
+    }
   }
+  console.log("pilha",nodestack);
+  console.log("noencontrado",nodefound);
+  if (!this.ignoreIframesNoMatterWhat_) {
+    console.log("iframe");
+    this.tryIframe_(cursor&& cursor.start.node);
+  }
+  if(cursor){
+    this.curSel_ = cursor;
+    this.updateSelToArbitraryNode(cursor.start.node,true);
+  }
+  return cursor;
+}
 
-  return nodefound;*/
+

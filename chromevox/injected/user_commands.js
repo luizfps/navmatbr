@@ -378,12 +378,13 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
           var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
           var ancestors =  cvox.DomUtil.getAncestors(currentNode);
          
+          console.log("currentnode",currentNode);
           
            // verifica se o nó atual está dentro de um math 
            if (cvox.DomUtil.findMathNodeInList(ancestors)) {
               //verificamos a fração mais perto do nó atual
-             found = cvox.ChromeVox.navigationManager.walktreefrac(currentNode.firstChild);
-            console.log("encontrado:",found); 
+             found = cvox.ChromeVox.navigationManager.walktreefrac(currentNode);
+            console.log("encontrado cursor:",found); 
             }
         }
         
@@ -394,7 +395,7 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
        }
                      
                       if (!found) {
-                        
+                        console.log("entrou found");
                         cvox.ChromeVox.navigationManager.saveSel();
                         prefixMsg = wrap;
                         cvox.ChromeVox.navigationManager.syncToBeginning();
@@ -802,19 +803,25 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
   }
 
   if (errorMsg != '') {
+    console.log("error message");
     cvox.ChromeVox.tts.speak(
         cvox.ChromeVox.msgs.getMsg(errorMsg),
         cvox.AbstractTts.QUEUE_MODE_FLUSH,
         cvox.AbstractTts.PERSONALITY_ANNOTATION);
   } else if (cvox.ChromeVox.navigationManager.isReading()) {
+    console.log("is reading");
     if (cmdStruct.disallowContinuation) {
       cvox.ChromeVox.navigationManager.stopReading(true);
     } else if (cmd != 'readFromHere') {
+      console.log("readfrom");
       cvox.ChromeVox.navigationManager.skip();
     }
   } else {
     if (cmdStruct.announce) {
+      console.log("finishnavcommand");
+      console.log("prefixmsg",prefixMsg);
       cvox.ChromeVox.navigationManager.finishNavCommand(prefixMsg);
+      
     }
   }
   if (!cmdStruct.allowEvents) {

@@ -45,6 +45,7 @@ cvox.ObjectWalker.prototype.stopNodeDescent = function(node) {
  * @override
  */
 cvox.AbstractNodeWalker.prototype.getDescription = function(prevSel, sel) {
+  console.log("getdescription");
   return cvox.DescriptionUtil.getDescriptionFromNavigation(
       prevSel.end.node,
       sel.start.node,
