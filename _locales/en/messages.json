@@ -865,7 +865,7 @@
         "message": "No next math expression."
     },
      "chromevox_no_next_fraction": {
-        "message": "Fração não encontrada."
+        "message": "No next fraction"
         },
 
     "chromevox_no_previous_math": {
@@ -2601,12 +2601,36 @@
         }
     },
      "chromevox_numerator_key": {
-        "message": "key to go  formula numerator"
+        "message": "key to go  numerator"
     },
     "chromevox_denominator_key": {
-        "message": "key to go  formula denominator"
+        "message": "key to go  denominator"
     },
      "chromevox_next_fraction": {
-        "message": "next fraction"
-    }
+        "message": "Next fraction"
+    },
+    "chromevox_internalNavigation": {
+        "message": "Active Internal Navigation"
+    },
+    "chromevox_exitinternalnavigation": {
+        "message": "Exit internal navigation"
+    },
+    "chromevox_rightnode": {
+        "message": "Navigate to the right side of expression"
+    },
+    "chromevox_leftnode": {
+        "message": "Navigate to the left side of expression"
+    },
+    "chromevox_topnode": {
+        "message": "Navigate to the top side of expression"
+    },
+    "chromevox_bottomnode": {
+        "message": "Navigate to the bottom side of expression"
+    } ,
+    "chromevox_internalnavigationactived": {
+        "message": "Internal Navigation is Actived!"
+    },
+    "chromevox_internalnavigationdesactived": {
+        "message": "Internal Navigation is Desactived!"
+    }  
 }

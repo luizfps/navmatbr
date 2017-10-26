@@ -549,11 +549,36 @@
               }},
   {"command": "internalNavigation",
     "sequence":{
-      "keys":{"keyCode":[13]}
+      "keys":{
+        "keyCode":[13],
+        "shiftKey": [true]}
     }},
-    {"command": "exitInternalNavigation",
+  {"command": "exitInternalNavigation",
       "sequence":{
         "keys":{"keyCode":[27]}
-      }}
+      }},
+
+  {"command": "rightNode",
+        "sequence":{
+          "keys":{"keyCode":[39]}
+        }},      
+  {"command": "leftNode",
+          "sequence":{
+            "keys":{"keyCode":[37]}
+          }},
+  {"command":"bottomNode",
+    "sequence":{
+      "keys":{
+        "keyCode":[40]
+      }
+    }
+  },
+  {"command":"topNode",
+    "sequence":{
+      "keys":{
+        "keyCode":[38]
+      }
+    }
+  }
   ]
 }

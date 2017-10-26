@@ -142,12 +142,37 @@ cvox.CommandStore.commandsForCategory = function(category) {
  * false.
  */
 cvox.CommandStore.CMD_WHITELIST = {
+ 
   'toggleStickyMode': {announce: false,
                        msgId: 'toggle_sticky_mode',
                        category: 'modifier_keys'},
   'toggleKeyPrefix': {announce: false,
                       msgId: 'prefix_key',
                       category: 'modifier_keys'},
+  'rightNode':{
+    allowEvents: true,
+    msgId: 'rightNode',
+  
+    category: 'navigation'
+  },
+  'leftNode':{
+    allowEvents: true,
+    msgId: 'leftNode',
+    
+    category: 'navigation'
+  },
+  'topNode':{
+    allowEvents: true,
+    msgId: 'topNode',
+   
+    category: 'navigation'
+  },
+  'bottomNode':{
+    allowEvents: true,
+    msgId: 'bottomNode',
+   
+    category: 'navigation'
+  },
 
   'stopSpeech': {announce: false,
                  disallowContinuation: true,
@@ -198,6 +223,17 @@ cvox.CommandStore.CMD_WHITELIST = {
     msgId: 'handle_tab_prev',
     disallowContinuation: true,
     category: 'navigation'},
+
+  'internalNavigation':{
+      announce: false,
+      msgId: 'internalnavigation',
+      category: 'navigation'},
+  'exitInternalNavigation':{
+    announce: false,
+    msgId: 'exitinternalnavigation',
+    category: 'navigation'
+  },
+
   'forward': {forward: true,
               announce: true,
               msgId: 'forward',
@@ -471,9 +507,11 @@ cvox.CommandStore.CMD_WHITELIST = {
                findNext: 'math',
                msgId: 'next_math',
                category: 'jump_commands'},
+
+  
   'nextFrac': {forward: true,
                findNext: 'frac',
-               msgId: 'next frac',
+               msgId: 'next_fraction',
                category: 'jump_commands'},
   'nextMedia': {forward: true,
                 findNext: 'media',

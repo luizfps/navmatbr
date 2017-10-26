@@ -5351,4 +5351,18 @@ msgs.MSG_CHROMEVOX_DENOMINATOR_KEY =
     goog.getMsg('key to go  formula denominator');
 
 msgs.MSG_CHROMEVOX_NEXT_FRACTION =
-    goog.getMsg('next fraction');
+    goog.getMsg('Next fraction ');
+
+msgs.MSG_CHROMEVOX_INTERNALNAVIGATION = goog.getMsg('internal navigation');
+
+msgs.MSG_CHROMEVOX_EXITINTERNALNAVIGATION = goog.getMsg('exit internal navigation');
+
+msgs.MSG_CHROMEVOX_RIGHTNODE = goog.getMsg('rightnode');
+
+msgs.MSG_CHROMEVOX_LEFTNODE = goog.getMsg('leftnode');
+
+msgs.MSG_CHROMEVOX_TOPNODE = goog.getMsg('topnode');
+
+msgs.MSG_CHROMEVOX_BOTTOMNODE = goog.getMsg('bottomnode');
+
+

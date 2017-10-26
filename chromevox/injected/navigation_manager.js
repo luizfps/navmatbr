@@ -52,7 +52,8 @@ goog.require('cvox.Widget');
  */
 cvox.NavigationManager = function() {
   this.addInterframeListener_();
-
+  //armazenará os nós que contém frações;
+  this.nodestack = [];
   this.reset();
 };
 
@@ -786,7 +787,9 @@ cvox.NavigationManager.prototype.finishNavCommand = function(
  * @return {boolean} False if end of document reached.
  */
 cvox.NavigationManager.prototype.navigate = function(
+  
     opt_ignoreIframes, opt_granularity) {
+      console.log("entrou no navigate");
   this.pageEndAnnounced_ = false;
   if (this.pageEnd_) {
     this.pageEnd_ = false;
@@ -1276,35 +1279,16 @@ cvox.NavigationManager.prototype.persistGranularity_ = function(opt_persist) {
     });
   }
 };
-// anda na arvore DOM 
-
-/*cvox.NavigationManager.prototype.walktreefrac = function(node){
-
-  var c;
-
-  do {
-    console.log(node);
-    if (node) {
-      if (cvox.DomUtil.isFrac(node)) {
-        console.log("fração encontrada:", node);
-        c = cvox.CursorSelection.fromNode(node);
-        console.log(c);
-      }
-      if (node.hasChildNodes()) {
-        console.log("recursao no filho",c);
-        c = cvox.ChromeVox.navigationManager.walktreefrac(node.firstChild);
-      }
-
-    }
-  } while (node = node.nextSibling);
-  return c;
 
 
-}*/
-//pilha de nos 
-nodestack = [];
-
+/**
+ *  percorre a árvore empilhando os nós que contém a tag <mfrac>
+ * que e a divisão em mathml,retornará um CursorSelection que identifica
+ * em qual objeto está o foco.
+ */
 cvox.NavigationManager.prototype.walktreefrac = function(node){
+
+  
 
   var walker=document.createTreeWalker(node, NodeFilter.SHOW_ELEMENT, null, false);
  
@@ -1312,24 +1296,24 @@ cvox.NavigationManager.prototype.walktreefrac = function(node){
   var nodefound=null;
 
   //se a pilha 
-  if(nodestack.length >0){
+  if(this.nodestack.length >0){
     console.log("fração encontrada:", walker.currentNode);
-    nodefound = nodestack.shift();
+    nodefound = this.nodestack.shift();
     cursor = cvox.CursorSelection.fromNode(nodefound);
   }
   else{
     while(walker.nextNode()){
       //console.log("current node:",walker.currentNode);
       if (cvox.DomUtil.isFrac(walker.currentNode)) {
-       nodestack.push(walker.currentNode);
+        this.nodestack.push(walker.currentNode);
      }  
     }
-    if(nodestack.length >0){
-      nodefound = nodestack.shift();
+    if(this.nodestack.length >0){
+      nodefound = this.nodestack.shift();
       cursor = cvox.CursorSelection.fromNode(nodefound);
     }
   }
-  console.log("pilha",nodestack);
+  console.log("pilha",this.nodestack);
   console.log("noencontrado",nodefound);
   if (!this.ignoreIframesNoMatterWhat_) {
     console.log("iframe");

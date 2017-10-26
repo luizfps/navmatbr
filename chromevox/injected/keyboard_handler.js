@@ -100,8 +100,8 @@ cvox.ChromeVoxKbHandler.basicKeyDownActionsListener = function(evt) {
   var keySequence = cvox.KeyUtil.keyEventToKeySequence(evt);
   var functionName;
 
- // console.log("imprimir hendlerkwymap "+JSON.stringify(cvox.ChromeVoxKbHandler.handlerKeyMap));// não esta identificando o comando numerator
-  //console.log("keySequence -> "+JSON.stringify(keySequence));
+  console.log("imprimir hendlerkwymap ",cvox.ChromeVoxKbHandler.handlerKeyMap);// não esta identificando o comando numerator
+  console.log("keySequence -> ",(keySequence));
 
 
   if (cvox.ChromeVoxKbHandler.handlerKeyMap != undefined) {
