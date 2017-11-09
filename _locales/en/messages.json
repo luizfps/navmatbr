@@ -2632,5 +2632,11 @@
     },
     "chromevox_internalnavigationdesactived": {
         "message": "Internal Navigation is Desactived!"
-    }  
+    },
+    "chromevox_numerator": {
+        "message": "Numerator is "
+    },
+    "chromevox_denominator": {
+        "message": "Denominator is "
+    }      
 }

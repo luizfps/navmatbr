@@ -150,27 +150,30 @@ cvox.CommandStore.CMD_WHITELIST = {
                       msgId: 'prefix_key',
                       category: 'modifier_keys'},
   'rightNode':{
+    announce: true,
     allowEvents: true,
     msgId: 'rightNode',
-  
+  announce: true,
     category: 'navigation'
   },
   'leftNode':{
+    announce: true,
     allowEvents: true,
     msgId: 'leftNode',
     
     category: 'navigation'
   },
   'topNode':{
+    announce: true,
     allowEvents: true,
     msgId: 'topNode',
    
     category: 'navigation'
   },
   'bottomNode':{
+    announce: true,
     allowEvents: true,
     msgId: 'bottomNode',
-   
     category: 'navigation'
   },
 
@@ -718,11 +721,11 @@ cvox.CommandStore.CMD_WHITELIST = {
   'nop': {announce: false},
 
 
-  'goToNumerator':{announce: true,
+  'goToNumerator':{announce: false,
                    msgId: 'numerator_key',
                   category: 'navigation'
   },
-  'goToDenominator':{announce: true,
+  'goToDenominator':{announce: false,
                        msgId: 'denominator_key',
                        category: 'navigation'
   }

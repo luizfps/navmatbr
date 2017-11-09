@@ -213,7 +213,6 @@ cvox.DescriptionUtil.getDescriptionFromNavigation =
     console.log("FracDescription");
     return cvox.DescriptionUtil.getMathDescription(node);
 }
-
   // Next, check to see if the current node is a collection type.
   if (cvox.DescriptionUtil.COLLECTION_NODE_TYPE[node.tagName]) {
     return cvox.DescriptionUtil.getCollectionDescription(
@@ -221,6 +220,9 @@ cvox.DescriptionUtil.getDescriptionFromNavigation =
             cvox.CursorSelection.fromNode(prevNode)),
         /** @type {!cvox.CursorSelection} */(
             cvox.CursorSelection.fromNode(node)));
+  }
+  else{
+    return cvox.DescriptionUtil.getMathDescription(node);
   }
 
   // Now, generate a description for all other elements.

@@ -5365,4 +5365,8 @@ msgs.MSG_CHROMEVOX_TOPNODE = goog.getMsg('topnode');
 
 msgs.MSG_CHROMEVOX_BOTTOMNODE = goog.getMsg('bottomnode');
 
+msgs.MSG_CHROMEVOX_NUMERATOR = goog.getMsg('numerator');
+
+msgs.MSG_CHROMEVOX_DENOMINATOR = goog.getMsg('denominator');
+
 

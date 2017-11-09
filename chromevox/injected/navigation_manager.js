@@ -1289,7 +1289,6 @@ cvox.NavigationManager.prototype.persistGranularity_ = function(opt_persist) {
 cvox.NavigationManager.prototype.walktreefrac = function(node){
 
   
-
   var walker=document.createTreeWalker(node, NodeFilter.SHOW_ELEMENT, null, false);
  
   var cursor = null;
@@ -1325,5 +1324,8 @@ cvox.NavigationManager.prototype.walktreefrac = function(node){
   }
   return cursor;
 }
-
+cvox.NavigationManager.prototype.updatecursel_ = function (cursor){
+  this.curSel_ = cursor;
+  this.updateSelToArbitraryNode(cursor.start.node,true);
+}
 

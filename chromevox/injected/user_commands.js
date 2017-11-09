@@ -320,16 +320,29 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
     console.log("navegação interna ativada");
     switch(cmd){
       case 'rightNode':
-      alert("rightNode");
+      var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
+      console.log("currentnode:",currentNode.nextSibling);
+      cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.nextSibling));
+      
       break;
       case 'leftNode':
-      alert("leftnode");
+      var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
+      console.log("currentnode:",currentNode.previousSibling);
+      cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.previousSibling));
+      
       break;
       case 'bottomNode':
-      alert("bottomnode");
+      var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
+      console.log("currentnode:",currentNode.firstChild);
+      cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.firstChild));
+      
       break;
       case 'topNode':
-      alert("topnode");
+      var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
+      console.log("currentnode:",currentNode.parentNode);
+      cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.parentNode));
+     
+      
       break;
       case 'exitInternalNavigation':
       this.internalNavigationActived  = false;
@@ -354,14 +367,16 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
           var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
             if(cvox.DomUtil.isFrac( currentNode )){
               console.log(currentNode.firstChild);
-              alert("entrou no numerador",currentNode.firstChild);
+              cvox.ChromeVox.tts.speak(cvox.ChromeVox.msgs.getMsg("numerator"));
+              cvox.ChromeVox.tts.speak(currentNode.firstChild);
             }
             break;
           case 'goToDenominator':
           var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
           if(cvox.DomUtil.isFrac( currentNode )){
             console.log(currentNode.lastChild);
-            alert("entrou no denominador",currentNode.lastChild);
+            cvox.ChromeVox.tts.speak(cvox.ChromeVox.msgs.getMsg("denominator"));
+          
           }
       
             break;
