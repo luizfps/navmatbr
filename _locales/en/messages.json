@@ -2628,15 +2628,27 @@
         "message": "Navigate to the bottom side of expression"
     } ,
     "chromevox_internalnavigationactived": {
-        "message": "Internal Navigation is Actived!"
+        "message": "navigation by expression was actived, to navegate use the arrows!"
     },
     "chromevox_internalnavigationdesactived": {
-        "message": "Internal Navigation is Desactived!"
+        "message": "navigation by expression was desactived"
     },
     "chromevox_numerator": {
         "message": "Numerator is "
     },
     "chromevox_denominator": {
         "message": "Denominator is "
-    }      
+    },
+    "chromevox_lefterror": {
+        "message": "There is no higher level of the present expression"
+    },
+    "chromevox_righterror": {
+        "message": "no more terms at this level of the current expression"
+    } 
+    ,"chromevox_topterror": {
+        "message": "there are no upper levels for a current expression"
+    }
+    ,"chromevox_bottomterror": {
+        "message": "there are no lower levels for the current expression"
+    }         
 }

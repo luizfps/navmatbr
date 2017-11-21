@@ -328,7 +328,7 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
           
         }
         else{
-          prefixMsg = 'nada encontrado';
+          prefixMsg =cvox.ChromeVox.msgs.getMsg("righterror");
         }
       }
      
@@ -343,7 +343,7 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
           cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.previousSibling));  
         }
         else{
-          prefixMsg = 'nada encontrado';
+          prefixMsg = cvox.ChromeVox.msgs.getMsg("lefterror");
         }
       }
      
@@ -358,6 +358,9 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
           cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.firstChild));
           
         }
+        else{
+          prefixMsg = cvox.ChromeVox.msgs.getMsg("bottomerror");
+        }
         
       }
       
@@ -368,9 +371,13 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
       
         console.log("currentnode:",currentNode.parentNode);
 
-        if(currentNode.parentNode){
+        if(currentNode.parentNode && !cvox.DomUtil.isFrac(currentNode)){
           cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.parentNode));
         }
+        else{
+          prefixMsg = cvox.ChromeVox.msgs.getMsg("toperror");
+        }
+       
       
       }
      
