@@ -321,28 +321,59 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
     switch(cmd){
       case 'rightNode':
       var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
-      console.log("currentnode:",currentNode.nextSibling);
-      cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.nextSibling));
+      if(currentNode != null){
+        console.log("currentnode:",currentNode.nextSibling);
+        if(currentNode.nextSibling){
+          cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.nextSibling));
+          
+        }
+        else{
+          prefixMsg = 'nada encontrado';
+        }
+      }
+     
       
       break;
       case 'leftNode':
       var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
-      console.log("currentnode:",currentNode.previousSibling);
-      cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.previousSibling));
-      
+      if(currentNode !=null){
+        console.log("currentnode:",currentNode.previousSibling);
+
+        if(currentNode.previousSibling){
+          cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.previousSibling));  
+        }
+        else{
+          prefixMsg = 'nada encontrado';
+        }
+      }
+     
       break;
       case 'bottomNode':
       var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
-      console.log("currentnode:",currentNode.firstChild);
-      cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.firstChild));
+      if(currentNode !=null){
+       
+        console.log("currentnode:",currentNode.firstChild);
+        
+        if(currentNode.firstChild){
+          cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.firstChild));
+          
+        }
+        
+      }
       
       break;
       case 'topNode':
       var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
-      console.log("currentnode:",currentNode.parentNode);
-      cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.parentNode));
-     
+      if(currentNode !=null){
       
+        console.log("currentnode:",currentNode.parentNode);
+
+        if(currentNode.parentNode){
+          cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.parentNode));
+        }
+      
+      }
+     
       break;
       case 'exitInternalNavigation':
       this.internalNavigationActived  = false;
