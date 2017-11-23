@@ -2648,7 +2648,7 @@
     ,"chromevox_topterror": {
         "message": "there are no upper levels for a current expression"
     }
-    ,"chromevox_bottomterror": {
+    ,"chromevox_bottomerror": {
         "message": "there are no lower levels for the current expression"
     }         
 }

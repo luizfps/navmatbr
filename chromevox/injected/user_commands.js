@@ -328,7 +328,9 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
           
         }
         else{
-          prefixMsg =cvox.ChromeVox.msgs.getMsg("righterror");
+          
+            cvox.ChromeVox.tts.speak(cvox.ChromeVox.msgs.getMsg("righterror"));
+            cmdStruct.announce = false;
         }
       }
      
@@ -343,7 +345,10 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
           cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.previousSibling));  
         }
         else{
-          prefixMsg = cvox.ChromeVox.msgs.getMsg("lefterror");
+         
+          cvox.ChromeVox.tts.speak(cvox.ChromeVox.msgs.getMsg("lefterror"));
+          
+          cmdStruct.announce = false;
         }
       }
      
@@ -354,12 +359,15 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
        
         console.log("currentnode:",currentNode.firstChild);
         
-        if(currentNode.firstChild){
+        if(currentNode.firstChild && currentNode.firstChild.nodeType ==1){
+          console.log("bottomnode:",currentNode.firstChild);
           cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.firstChild));
           
         }
         else{
-          prefixMsg = cvox.ChromeVox.msgs.getMsg("bottomerror");
+         
+          cvox.ChromeVox.tts.speak(cvox.ChromeVox.msgs.getMsg("bottomerror"));
+          cmdStruct.announce = false;
         }
         
       }
@@ -375,12 +383,14 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
           cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.parentNode));
         }
         else{
-          prefixMsg = cvox.ChromeVox.msgs.getMsg("toperror");
+         
+          cvox.ChromeVox.tts.speak(cvox.ChromeVox.msgs.getMsg("toperror"));
+          cmdStruct.announce = false;
         }
        
       
       }
-     
+      
       break;
       case 'exitInternalNavigation':
       this.internalNavigationActived  = false;
@@ -397,8 +407,8 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
       
           case 'internalNavigation':
           this.internalNavigationActived  = true;
-          
           cvox.ChromeVox.tts.speak(cvox.ChromeVox.msgs.getMsg("internalnavigationactived"));
+          
           
           break;
           case 'goToNumerator':
