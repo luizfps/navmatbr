@@ -149,6 +149,15 @@ cvox.CommandStore.CMD_WHITELIST = {
   'toggleKeyPrefix': {announce: false,
                       msgId: 'prefix_key',
                       category: 'modifier_keys'},
+  'internalNavigation':{
+      announce: false,
+      msgId: 'internalnavigation',
+      category: 'navigation'},
+  'exitInternalNavigation':{
+    announce: false,
+    msgId: 'exitinternalnavigation',
+    category: 'navigation'
+  },
   'rightNode':{
     announce: true,
     allowEvents: true,
@@ -227,15 +236,7 @@ cvox.CommandStore.CMD_WHITELIST = {
     disallowContinuation: true,
     category: 'navigation'},
 
-  'internalNavigation':{
-      announce: false,
-      msgId: 'internalnavigation',
-      category: 'navigation'},
-  'exitInternalNavigation':{
-    announce: false,
-    msgId: 'exitinternalnavigation',
-    category: 'navigation'
-  },
+ 
 
   'forward': {forward: true,
               announce: true,

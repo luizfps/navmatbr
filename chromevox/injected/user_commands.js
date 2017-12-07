@@ -383,7 +383,7 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
           cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.parentNode));
         }
         else{
-         
+         //o leitor fala a mensagem de erro
           cvox.ChromeVox.tts.speak(cvox.ChromeVox.msgs.getMsg("toperror"));
           cmdStruct.announce = false;
         }
