@@ -54,6 +54,7 @@ cvox.NavigationManager = function() {
   this.addInterframeListener_();
   //armazenará os nós que contém frações;
   this.nodestack = [];
+  this.position = 0;
   this.reset();
 };
 
@@ -357,8 +358,8 @@ cvox.NavigationManager.prototype.findNext = function(
       //console.log("predicate:",predicate);
       console.log("opt_predicateName:",opt_predicateName);
       //console.log("opt_initialNode:",opt_initialNode);
-
-
+  this.position = 0;
+  this.nodestack = [];
   this.predicate_ = opt_predicateName || '';
   console.log("resolve:",this.resolve());
   
@@ -1288,34 +1289,31 @@ cvox.NavigationManager.prototype.persistGranularity_ = function(opt_persist) {
  */
 cvox.NavigationManager.prototype.walktreefrac = function(node){
 
-  
   var walker=document.createTreeWalker(node, NodeFilter.SHOW_ELEMENT, null, false);
- 
   var cursor = null;
   var nodefound=null;
 
-  //se a pilha 
+  //se a pilha estiver com elementos inseridos.
   if(this.nodestack.length >0){
-    console.log("fração encontrada:", walker.currentNode);
-    nodefound = this.nodestack.shift();
+    nodefound = this.nodestack[this.position];
     cursor = cvox.CursorSelection.fromNode(nodefound);
-  }
+    this.position+=1;
+    }
   else{
     while(walker.nextNode()){
-      //console.log("current node:",walker.currentNode);
+    
       if (cvox.DomUtil.isFrac(walker.currentNode)) {
         this.nodestack.push(walker.currentNode);
      }  
     }
     if(this.nodestack.length >0){
-      nodefound = this.nodestack.shift();
+      nodefound = this.nodestack[this.position];
       cursor = cvox.CursorSelection.fromNode(nodefound);
-    }
+      this.position+=1;    }
   }
-  console.log("pilha",this.nodestack);
-  console.log("noencontrado",nodefound);
+
   if (!this.ignoreIframesNoMatterWhat_) {
-    console.log("iframe");
+
     this.tryIframe_(cursor&& cursor.start.node);
   }
   if(cursor){

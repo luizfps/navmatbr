@@ -415,17 +415,31 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
           var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
             if(cvox.DomUtil.isFrac( currentNode )){
               console.log(currentNode.firstChild);
-              cvox.ChromeVox.tts.speak(cvox.ChromeVox.msgs.getMsg("numerator"));
-              cvox.ChromeVox.tts.speak(currentNode.firstChild);
+              prefixMsg = cvox.ChromeVox.msgs.getMsg("numerator");
+              cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.firstChild))
+              
+            }
+            else if (cvox.DomUtil.isFrac(currentNode.parentNode)){
+            
+              prefixMsg = cvox.ChromeVox.msgs.getMsg("numerator");
+              cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.parentNode.firstChild));
             }
             break;
           case 'goToDenominator':
           var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
           if(cvox.DomUtil.isFrac( currentNode )){
             console.log(currentNode.lastChild);
-            cvox.ChromeVox.tts.speak(cvox.ChromeVox.msgs.getMsg("denominator"));
-          
+
+            prefixMsg = cvox.ChromeVox.msgs.getMsg("denominator");
+            cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.lastChild))
           }
+           else if (cvox.DomUtil.isFrac(currentNode.parentNode)){
+
+           
+             prefixMsg = cvox.ChromeVox.msgs.getMsg("denominator");
+              cvox.ChromeVox.navigationManager.updatecursel_(cvox.CursorSelection.fromNode(currentNode.parentNode.lastChild));
+
+            }
       
             break;
           case 'handleTab':

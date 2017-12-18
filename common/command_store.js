@@ -722,11 +722,11 @@ cvox.CommandStore.CMD_WHITELIST = {
   'nop': {announce: false},
 
 
-  'goToNumerator':{announce: false,
+  'goToNumerator':{announce: true,
                    msgId: 'numerator_key',
                   category: 'navigation'
   },
-  'goToDenominator':{announce: false,
+  'goToDenominator':{announce: true,
                        msgId: 'denominator_key',
                        category: 'navigation'
   }
