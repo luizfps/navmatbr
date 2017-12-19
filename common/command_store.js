@@ -517,6 +517,11 @@ cvox.CommandStore.CMD_WHITELIST = {
                findNext: 'frac',
                msgId: 'next_fraction',
                category: 'jump_commands'},
+  'nextlLimit': {forward: true,
+               findNext: 'Limit',
+               msgId: 'next_limit',
+               category: 'jump_commands'},
+
   'nextMedia': {forward: true,
                 findNext: 'media',
                 msgId: 'next_media',
@@ -841,5 +846,10 @@ cvox.CommandStore.NODE_INFO_MAP = {
            backwardError: 'no_previous_control'},
   'frac': {predicate: 'fracPredicate',
            forwardError: 'no_next_fraction',
-           backwardError: 'no_previous_fraction'}
+           backwardError: 'no_previous_fraction'},
+  'limit':{
+    predicate:'limitPredicate',
+    forwardError:'no_next_limit',
+    backwardError: 'no_previou_limit'
+    }
 };
