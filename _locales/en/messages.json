@@ -867,9 +867,15 @@
      "chromevox_no_next_fraction": {
         "message": "No next fraction"
         },
-
+    "chromevox_no_next_limit": {
+            "message": "No next limit"
+            },
+    
     "chromevox_no_previous_math": {
         "message": "No previous math expression."
+    },
+    "chromevox_no_previous_limit": {
+        "message": "No previous limit"
     },
     "chromevox_no_next_media_widget": {
         "message": "No next media widget."
@@ -2638,6 +2644,9 @@
     },
     "chromevox_denominator": {
         "message": "Denominator is "
+    },
+    "chromevox_next_limit": {
+        "message": "Find the next limit on page "
     },
     "chromevox_lefterror": {
         "message": "There is no higher level of the present expression"

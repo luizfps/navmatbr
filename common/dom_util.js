@@ -2328,6 +2328,12 @@ cvox.DomUtil.isFrac = function(node) {
           cvox.DomUtil.isFracMathImg(node); 
 };
 
+cvox.DomUtil.isLimit = function(node) {
+
+    return cvox.DomUtil.isLimitMathml(node)||
+    cvox.DomUtil.isLimitMathJax(node) ||
+            cvox.DomUtil.isLimitMathImg(node); 
+  };
 /**
  * Specifies node classes in which we expect maths expressions a alt text.
  * @type {{tex: Array.<string>,
@@ -2392,7 +2398,17 @@ cvox.DomUtil.isFracMathImg = function(node) {
       cvox.DomUtil.ALT_MATH_CLASSES.asciimath.indexOf(className) != -1;
 };
 
-
+cvox.DomUtil.isLimitMathImg = function(node) {
+  if (!node || !node.tagName || !node.className) {
+    return false;
+  }
+  if (node.tagName != 'IMG') {
+    return false;
+  }
+  var className = node.className.toLowerCase();
+  return cvox.DomUtil.ALT_MATH_CLASSES.tex.indexOf(className) != -1 ||
+      cvox.DomUtil.ALT_MATH_CLASSES.asciimath.indexOf(className) != -1;
+};
 
 
 /**
@@ -2416,8 +2432,25 @@ cvox.DomUtil.isFracMathml = function(node) {
   }
   return node.tagName.toLowerCase() == 'mfrac';
 };
+cvox.DomUtil.isLimitMathml = function(node) {
+  if (!node || !node.tagName) {
+    return false;
+  }
+  console.log("node limite:",node);
+  //acrescentar o outro tipo de representação do somatorio
 
-
+  
+  console.log("operator",node.firstChild.tagName);
+  console.log("child",node.firstChild.innerHTML);
+  var result = node.tagName.toLowerCase() == 'munderover'&& 
+  node.firstChild.tagName.toLowerCase()=='mo' && (node.firstChild.innerHTML== '&sum'||
+                                                  node.firstChild.innerHTML== '&#x2211'||
+                                                  node.firstChild.innerHTML == '∑'                                             
+  )
+  ;
+  console.log("var result", result);
+  return result;
+};
 /**
  * Checks to see wether a node is a MathJax node.
  * @param {Node} node The node to be tested.
@@ -2460,7 +2493,22 @@ cvox.DomUtil.isFracMathJax = function(node) {
   }
   return false;
 };
+cvox.DomUtil.isLimitMathJax = function(node) {
+  if (!node || !node.tagName || !node.className) {
+    return false;
+  }
 
+  function isSpanWithClass(n, cl) {
+    return (n.tagName == 'SPAN' &&
+            n.className.split(' ').some(function(x) {
+                                          return x.toLowerCase() == cl;}));
+  };
+  if (isSpanWithClass(node, 'munderover')) {
+    var ancestors = cvox.DomUtil.getAncestors(node);
+    return ancestors.some(function(x) {return isSpanWithClass(x, 'mathjax');});
+  }
+  return false;
+};
 
 
 

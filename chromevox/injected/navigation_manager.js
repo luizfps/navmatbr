@@ -54,6 +54,8 @@ cvox.NavigationManager = function() {
   this.addInterframeListener_();
   //armazenará os nós que contém frações;
   this.nodestack = [];
+  this.nodestacklimit = [];
+  this.positionlimit = 0;
   this.position = 0;
   this.reset();
 };
@@ -355,16 +357,13 @@ cvox.NavigationManager.prototype.hasNext_ = function() {
 cvox.NavigationManager.prototype.findNext = function(
     predicate, opt_predicateName, opt_initialNode) {
 
-      //console.log("predicate:",predicate);
-      console.log("opt_predicateName:",opt_predicateName);
-      //console.log("opt_initialNode:",opt_initialNode);
+     
   this.position = 0;
   this.nodestack = [];
+  this.nodestacklimit = [];
+  this.positionlimit = 0;
   this.predicate_ = opt_predicateName || '';
-  console.log("resolve:",this.resolve());
-  
-  
-  console.log();
+
   this.resolve();
   this.shifter_ = this.shifterStack_[0] || this.shifter_;
   console.log("thisshifter",this.shifter_);
@@ -1327,3 +1326,40 @@ cvox.NavigationManager.prototype.updatecursel_ = function (cursor){
   this.updateSelToArbitraryNode(cursor.start.node,true);
 }
 
+cvox.NavigationManager.prototype.walktreelimit = function(node){
+  
+    var walker=document.createTreeWalker(node, NodeFilter.SHOW_ELEMENT, null, false);
+    var cursor = null;
+    var nodefound=null;
+  console.log("entrou no walktreelimit");
+    //se a pilha estiver com elementos inseridos.
+    if(this.nodestacklimit.length >0){
+      console.log("pilha dos limites vazia");
+      nodefound = this.nodestacklimit[this.positionlimit];
+      cursor = cvox.CursorSelection.fromNode(nodefound);
+      this.positionlimit+=1;
+      }
+    else{
+      while(walker.nextNode()){
+      
+        if (cvox.DomUtil.isLimit(walker.currentNode)) {
+          console.log("encontrou o limite");
+          this.nodestacklimit.push(walker.currentNode);
+       }  
+      }
+      if(this.nodestacklimit.length >0){
+        nodefound = this.nodestacklimit[this.positionlimit];
+        cursor = cvox.CursorSelection.fromNode(nodefound);
+        this.positionlimit+=1;    }
+    }
+  //parte necessária já disponivel pelos desenvolvedores da google
+    if (!this.ignoreIframesNoMatterWhat_) {
+  
+      this.tryIframe_(cursor&& cursor.start.node);
+    }
+    if(cursor){
+      this.curSel_ = cursor;
+      this.updateSelToArbitraryNode(cursor.start.node,true);
+    }
+    return cursor;
+  }

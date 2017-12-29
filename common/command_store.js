@@ -517,8 +517,8 @@ cvox.CommandStore.CMD_WHITELIST = {
                findNext: 'frac',
                msgId: 'next_fraction',
                category: 'jump_commands'},
-  'nextlLimit': {forward: true,
-               findNext: 'Limit',
+  'nextLimit': {forward: true,
+               findNext: 'limit',
                msgId: 'next_limit',
                category: 'jump_commands'},
 
@@ -850,6 +850,6 @@ cvox.CommandStore.NODE_INFO_MAP = {
   'limit':{
     predicate:'limitPredicate',
     forwardError:'no_next_limit',
-    backwardError: 'no_previou_limit'
+    backwardError: 'no_previous_limit'
     }
 };

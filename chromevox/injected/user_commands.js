@@ -491,6 +491,7 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
                 prefixMsg = error;
                 break;
               default: 
+              console.log(cmdStruct.findNext);
                if(cmdStruct.findNext=='frac'){
                
                 var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
@@ -505,7 +506,20 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
                   console.log("encontrado cursor:",found); 
                   }
               }
-              
+              if(cmdStruct.findNext=='limit'){
+                var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
+                var ancestors =  cvox.DomUtil.getAncestors(currentNode);
+               
+                console.log("entrou no limit");
+                 // verifica se o nó atual está dentro de um math 
+                 if (cvox.DomUtil.findMathNodeInList(ancestors)) {
+                    //verificamos o limit mais perto do nó atual
+                    console.log("entrou no limit2");
+                   found = cvox.ChromeVox.navigationManager.walktreelimit(currentNode);
+                  
+                  }
+                
+               }
               else{
                   found = cvox.ChromeVox.navigationManager.findNext(
                                 predicate, predicateName);

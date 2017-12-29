@@ -1838,6 +1838,9 @@ msgs.MSG_CHROMEVOX_NO_NEXT_MATH =
 msgs.MSG_CHROMEVOX_NO_NEXT_FRACTION =
     goog.getMsg('No next fraction');
 
+msgs.MSG_CHROMEVOX_NO_NEXT_LIMIT =
+    goog.getMsg('No next limit');
+
 
 /**
  * @desc Spoken if the user attempts to jump to the previous math expression
@@ -1846,6 +1849,8 @@ msgs.MSG_CHROMEVOX_NO_NEXT_FRACTION =
 msgs.MSG_CHROMEVOX_NO_PREVIOUS_MATH =
     goog.getMsg('No previous math expression.');
 
+msgs.MSG_CHROMEVOX_NO_PREVIOUS_LIMIT =
+    goog.getMsg('No previous limits');
 
 /**
  * @desc Spoken if the user attempts to jump to the next media widget
@@ -5350,8 +5355,8 @@ msgs.MSG_CHROMEVOX_NUMERATOR_KEY =
 msgs.MSG_CHROMEVOX_DENOMINATOR_KEY =
     goog.getMsg('key to go  formula denominator');
 
-msgs.MSG_CHROMEVOX_NEXT_FRACTION =
-    goog.getMsg('Next fraction ');
+msgs.MSG_CHROMEVOX_NO_NEXT_FRACTION =
+    goog.getMsg('No next fraction');
 
 msgs.MSG_CHROMEVOX_INTERNALNAVIGATION = goog.getMsg('internal navigation');
 
@@ -5368,5 +5373,7 @@ msgs.MSG_CHROMEVOX_BOTTOMNODE = goog.getMsg('bottomnode');
 msgs.MSG_CHROMEVOX_NUMERATOR = goog.getMsg('numerator');
 
 msgs.MSG_CHROMEVOX_DENOMINATOR = goog.getMsg('denominator');
+
+msgs.MSG_CHROMEVOX_NEXT_LIMIT =goog.getMsg('next limit');
 
 

@@ -318,6 +318,10 @@
     "sequence": {"cvoxModifier": true,
                "keys": {"keyCode": [78, 68]}
               }},
+  {"command": "nextLimit",
+                "sequence": {"cvoxModifier":true,
+                           "keys": {"keyCode": [78, 83]}
+                          }},
 
  {"command": "nextMedia",
   "sequence": {"cvoxModifier": true,
