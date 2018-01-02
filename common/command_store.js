@@ -619,6 +619,14 @@ cvox.CommandStore.CMD_WHITELIST = {
                    findNext: 'math',
                    msgId: 'previous_math',
                    category: 'jump_commands'},
+  'previousFraction': {backward: true,
+                    findNext: 'pfrac',
+                    msgId: 'previous_fraction',
+                    category: 'jump_commands'},
+  'previousLimit': {backward: true,
+                      findNext: 'plimit',
+                      msgId: 'previous_limit',
+                      category: 'jump_commands'},
   'previousMedia': {backward: true,
                     findNext: 'media',
                     msgId: 'previous_media',
@@ -846,10 +854,18 @@ cvox.CommandStore.NODE_INFO_MAP = {
            backwardError: 'no_previous_control'},
   'frac': {predicate: 'fracPredicate',
            forwardError: 'no_next_fraction',
-           backwardError: 'no_previous_fraction'},
+          },
   'limit':{
     predicate:'limitPredicate',
     forwardError:'no_next_limit',
     backwardError: 'no_previous_limit'
-    }
+    },
+    'plimit':{
+      predicate:'limitPredicate',
+      backwardError: 'no_previous_limit'
+      },
+      'pfrac':{
+        predicate:'fracPredicate',
+        backwardError: 'no_previous_fraction'
+        }
 };

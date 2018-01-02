@@ -2297,6 +2297,19 @@ cvox.DomUtil.findFracNodeInList = function(nodes) {
   }
   return null;
 };
+cvox.DomUtil.findlimitNodeInList = function(nodes) {
+  //console.log('nodes from findfracnodeinlist:',nodes)
+  for (var i = 0, node; node = nodes[i]; i++) {
+     //console.log('node found3:',node[i],i)
+    if (cvox.DomUtil.isLimit(node)) {
+      
+      console.log("nó encontrado:",node)
+      //alert("encontrou frac!")
+      return node;
+    }
+  }
+  return null;
+};
 
 /**
  * Checks to see wether a node is a math node.
@@ -2436,19 +2449,16 @@ cvox.DomUtil.isLimitMathml = function(node) {
   if (!node || !node.tagName) {
     return false;
   }
-  console.log("node limite:",node);
+ 
   //acrescentar o outro tipo de representação do somatorio
 
-  
-  console.log("operator",node.firstChild.tagName);
-  console.log("child",node.firstChild.innerHTML);
   var result = node.tagName.toLowerCase() == 'munderover'&& 
   node.firstChild.tagName.toLowerCase()=='mo' && (node.firstChild.innerHTML== '&sum'||
                                                   node.firstChild.innerHTML== '&#x2211'||
                                                   node.firstChild.innerHTML == '∑'                                             
   )
   ;
-  console.log("var result", result);
+  //console.log("var result", result);
   return result;
 };
 /**

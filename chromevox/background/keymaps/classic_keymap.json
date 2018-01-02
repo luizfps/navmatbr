@@ -119,6 +119,28 @@
   "sequence": {"cvoxModifier": true,
                "keys": {"keyCode": [189]}
               }},
+  {
+    "command":"previousFraction",
+    "sequence":{
+      "cvoxModifier":true,
+      "keys":{
+        "keyCode":[
+          80,68
+        ]
+      }
+    }
+  },
+  {
+    "command":"previousLimit",
+    "sequence":{
+      "cvoxModifier":true,
+      "keys":{
+        "keyCode":[
+          80,83
+        ]
+      }
+    }
+  },
 
  {"command": "toggleKeyboardHelp",
   "sequence": {"cvoxModifier": true,

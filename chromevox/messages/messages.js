@@ -1852,6 +1852,10 @@ msgs.MSG_CHROMEVOX_NO_PREVIOUS_MATH =
 msgs.MSG_CHROMEVOX_NO_PREVIOUS_LIMIT =
     goog.getMsg('No previous limits');
 
+msgs.MSG_CHROMEVOX_NO_PREVIOUS_FRACTION =
+    goog.getMsg('No previous fraction');
+
+
 /**
  * @desc Spoken if the user attempts to jump to the next media widget
  * (audio/video) when none exists.
@@ -5376,4 +5380,9 @@ msgs.MSG_CHROMEVOX_DENOMINATOR = goog.getMsg('denominator');
 
 msgs.MSG_CHROMEVOX_NEXT_LIMIT =goog.getMsg('next limit');
 
+msgs.MSG_CHROMEVOX_PREVIOUS_FRACTION =
+goog.getMsg(' previous fraction');
+
+msgs.MSG_CHROMEVOX_PREVIOUS_LIMIT =
+goog.getMsg(' previous limit');
 

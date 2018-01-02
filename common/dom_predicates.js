@@ -401,7 +401,10 @@ cvox.DomPredicates.fracPredicate = function(nodes) {
   //console.log("nodes:",nodes)
   return cvox.DomUtil.findFracNodeInList(nodes);
 };
-
+cvox.DomPredicates.limitPredicate = function(nodes) {
+  //console.log("nodes:",nodes)
+  return cvox.DomUtil.findlimitNodeInList(nodes);
+};
 
 /**
  * SECTION: A section is anything that indicates a new section. This includes

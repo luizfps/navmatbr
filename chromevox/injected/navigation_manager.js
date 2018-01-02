@@ -55,7 +55,7 @@ cvox.NavigationManager = function() {
   //armazenará os nós que contém frações;
   this.nodestack = [];
   this.nodestacklimit = [];
-  this.positionlimit = 0;
+  this.positionlimit = -1;
   this.position = 0;
   this.reset();
 };
@@ -358,23 +358,28 @@ cvox.NavigationManager.prototype.findNext = function(
     predicate, opt_predicateName, opt_initialNode) {
 
      
-  this.position = 0;
+  
   this.nodestack = [];
   this.nodestacklimit = [];
-  this.positionlimit = 0;
+ 
   this.predicate_ = opt_predicateName || '';
 
   this.resolve();
   this.shifter_ = this.shifterStack_[0] || this.shifter_;
-  console.log("thisshifter",this.shifter_);
+  console.log("opt_predicateName",opt_predicateName);
   this.shifterStack_ = [];
   
   //console.log(this.curSel_);
   //console.log(predicate);
+
+  if( opt_predicateName =='mathPredicate'){
+    this.position = 0;
+    this.positionlimit = -1;
+  }
   var ret = cvox.FindUtil.findNext(this.curSel_, predicate, opt_initialNode);
 
   if (!this.ignoreIframesNoMatterWhat_) {
-    console.log("iframe");
+   // console.log("iframe");
     this.tryIframe_(ret && ret.start.node);
   }
   if (ret) {
@@ -383,7 +388,7 @@ cvox.NavigationManager.prototype.findNext = function(
   this.predicate_ = '';
 
  
-  console.log("shifterstack",this.shifterStack_);
+  //console.log("shifterstack",this.shifterStack_);
   //console.log("ret:",ret)
   return ret;
 };
@@ -453,12 +458,12 @@ cvox.NavigationManager.prototype.togglePageSel = function() {
 cvox.NavigationManager.prototype.getDescription = function() {
   // Handle description of special content. Consider moving to DescriptionUtil.
   // Specially annotated nodes.
-  console.log("gerando descrição");
+  //console.log("gerando descrição");
   if (this.getCurrentNode().hasAttribute &&
       this.getCurrentNode().hasAttribute('cvoxnodedesc')) {
     var preDesc = cvox.ChromeVoxJSON.parse(
         this.getCurrentNode().getAttribute('cvoxnodedesc'));
-    console.log("predesc:",preDesc);
+    //console.log("predesc:",preDesc);
     var currentDesc = new Array();
     for (var i = 0; i < preDesc.length; ++i) {
       var inDesc = preDesc[i];
@@ -480,12 +485,12 @@ cvox.NavigationManager.prototype.getDescription = function() {
           this.shifter_, this.prevSel_, this.curSel_) :
       this.shifter_.getDescription(this.prevSel_, this.curSel_);
 
-  console.log("pagesel",this.pageSel_);
-  console.log("shifter:",this.shifter_);
-  console.log("this.prevsel:",this.prevSel_);
-  console.log("cursel:",this.curSel_);
+  //console.log("pagesel",this.pageSel_);
+  //console.log("shifter:",this.shifter_);
+  //console.log("this.prevsel:",this.prevSel_);
+  //console.log("cursel:",this.curSel_);
 
- console.log("desc:",desc);
+ //console.log("desc:",desc);
   var earcons = [];
 
   // Earcons.
@@ -1288,28 +1293,34 @@ cvox.NavigationManager.prototype.persistGranularity_ = function(opt_persist) {
  */
 cvox.NavigationManager.prototype.walktreefrac = function(node){
 
+  console.log("node1=========>\n",node.parentElement);
+  node = this.findrootnode(node);
+  
   var walker=document.createTreeWalker(node, NodeFilter.SHOW_ELEMENT, null, false);
   var cursor = null;
   var nodefound=null;
+  
 
-  //se a pilha estiver com elementos inseridos.
-  if(this.nodestack.length >0){
-    nodefound = this.nodestack[this.position];
-    cursor = cvox.CursorSelection.fromNode(nodefound);
-    this.position+=1;
-    }
-  else{
+  
+  if(this.nodestack.length == 0){
     while(walker.nextNode()){
-    
-      if (cvox.DomUtil.isFrac(walker.currentNode)) {
-        this.nodestack.push(walker.currentNode);
-     }  
-    }
+      
+        if (cvox.DomUtil.isFrac(walker.currentNode)) {
+          this.nodestack.push(walker.currentNode);
+       }  
+      }
+  }
     if(this.nodestack.length >0){
       nodefound = this.nodestack[this.position];
       cursor = cvox.CursorSelection.fromNode(nodefound);
       this.position+=1;    }
-  }
+    else{
+      nodefound = null;
+    }
+    console.log("node=========>\n",node);
+    console.log("position",this.position);
+    console.log("pilha ->>:", this.nodestack);
+    
 
   if (!this.ignoreIframesNoMatterWhat_) {
 
@@ -1328,31 +1339,110 @@ cvox.NavigationManager.prototype.updatecursel_ = function (cursor){
 
 cvox.NavigationManager.prototype.walktreelimit = function(node){
   
-    var walker=document.createTreeWalker(node, NodeFilter.SHOW_ELEMENT, null, false);
-    var cursor = null;
-    var nodefound=null;
-  console.log("entrou no walktreelimit");
-    //se a pilha estiver com elementos inseridos.
-    if(this.nodestacklimit.length >0){
-      console.log("pilha dos limites vazia");
-      nodefound = this.nodestacklimit[this.positionlimit];
-      cursor = cvox.CursorSelection.fromNode(nodefound);
-      this.positionlimit+=1;
-      }
-    else{
-      while(walker.nextNode()){
+  console.log("node1=========>\n",node.parentElement);
+  node = this.findrootnode(node);
+  
+  var walker=document.createTreeWalker(node, NodeFilter.SHOW_ELEMENT, null, false);
+  var cursor = null;
+  var nodefound=null;
+  
+
+  
+  if(this.nodestacklimit.length ==0){
+    while(walker.nextNode()){
       
         if (cvox.DomUtil.isLimit(walker.currentNode)) {
-          console.log("encontrou o limite");
           this.nodestacklimit.push(walker.currentNode);
        }  
       }
-      if(this.nodestacklimit.length >0){
+  }
+    
+    if(this.nodestacklimit.length >0){
+
+      if(this.nodestacklimit[this.positionlimit+1]){
+        this.positionlimit+=1;
         nodefound = this.nodestacklimit[this.positionlimit];
         cursor = cvox.CursorSelection.fromNode(nodefound);
-        this.positionlimit+=1;    }
+       
+      }
+      }
+    else{
+      nodefound = null;
     }
-  //parte necessária já disponivel pelos desenvolvedores da google
+    console.log("node=========>\n",node);
+    console.log("position",this.positionlimit);
+    console.log("pilha ->>:", this.nodestacklimit);
+    
+
+  if (!this.ignoreIframesNoMatterWhat_) {
+
+    this.tryIframe_(cursor&& cursor.start.node);
+  }
+  if(cursor){
+    this.curSel_ = cursor;
+    this.updateSelToArbitraryNode(cursor.start.node,true);
+  }
+  return cursor;
+  }
+
+
+  cvox.NavigationManager.prototype.findrootnode = function(node){
+  
+  var result = null;
+
+  console.log('currentnode',node);
+  if(!cvox.DomUtil.isMathml(node)){
+    while(!cvox.DomUtil.isMathml(node)){
+      console.log(node.parentNode);
+     node = node.parentNode;
+      if(cvox.DomUtil.isMathml(node)){
+        
+        return result = node;
+      }
+  }
+  }else{
+    return result =node;
+  }
+  
+  return result;
+  }
+
+  cvox.NavigationManager.prototype.previouslimitfindnode = function(node){
+    
+    console.log('currentnode',node);
+    console.log("positon ------->:",this.positionlimit);
+    console.log("nodestack ------->:",this.nodestacklimit);
+    node = this.findrootnode(node);
+    
+    var walker=document.createTreeWalker(node, NodeFilter.SHOW_ELEMENT, null, false);
+    var cursor = null;
+    var nodefound=null;
+    
+  
+    
+    if(this.nodestacklimit.length ==0){
+      while(walker.nextNode()){
+        
+          if (cvox.DomUtil.isLimit(walker.currentNode)) {
+            this.nodestacklimit.push(walker.currentNode);
+         }  
+        }
+    }
+    console.log("nodestack.lenght ------->:",this.nodestacklimit.length); 
+      if(this.nodestacklimit.length >0){
+        
+        if(this.positionlimit>0){
+          this.positionlimit = this.positionlimit - 1;
+          nodefound = this.nodestacklimit[this.positionlimit];
+          cursor = cvox.CursorSelection.fromNode(nodefound);
+        }
+        
+        
+          }
+      else{
+        nodefound = null;
+      }
+     
     if (!this.ignoreIframesNoMatterWhat_) {
   
       this.tryIframe_(cursor&& cursor.start.node);

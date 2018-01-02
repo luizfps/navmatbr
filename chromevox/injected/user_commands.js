@@ -491,31 +491,36 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
                 prefixMsg = error;
                 break;
               default: 
-              console.log(cmdStruct.findNext);
+              //console.log(cmdStruct.findNext);
+              
                if(cmdStruct.findNext=='frac'){
                
                 var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
                 var ancestors =  cvox.DomUtil.getAncestors(currentNode);
                
-                console.log("currentnode",currentNode);
+               // console.log("currentnode",currentNode);
                 
                  // verifica se o nó atual está dentro de um math 
                  if (cvox.DomUtil.findMathNodeInList(ancestors)) {
                     //verificamos a fração mais perto do nó atual
                    found = cvox.ChromeVox.navigationManager.walktreefrac(currentNode);
-                  console.log("encontrado cursor:",found); 
+                  //console.log("encontrado cursor:",found); 
                   }
               }
-              if(cmdStruct.findNext=='limit'){
+              else if (cmdStruct.findNext=='plimit'){
+                var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
+                found = cvox.ChromeVox.navigationManager.previouslimitfindnode(currentNode);
+              }
+             else if(cmdStruct.findNext=='limit'){
                 var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
                 var ancestors =  cvox.DomUtil.getAncestors(currentNode);
                
-                console.log("entrou no limit");
+                
                  // verifica se o nó atual está dentro de um math 
                  if (cvox.DomUtil.findMathNodeInList(ancestors)) {
                     //verificamos o limit mais perto do nó atual
-                    console.log("entrou no limit2");
-                   found = cvox.ChromeVox.navigationManager.walktreelimit(currentNode);
+                    
+                    found = cvox.ChromeVox.navigationManager.walktreelimit(currentNode);
                   
                   }
                 
@@ -527,7 +532,7 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
              }
                            
                             if (!found) {
-                              console.log("entrou found");
+                             // console.log("entrou found");
                               cvox.ChromeVox.navigationManager.saveSel();
                               prefixMsg = wrap;
                               cvox.ChromeVox.navigationManager.syncToBeginning();
@@ -952,7 +957,7 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
     }
   } else {
     if (cmdStruct.announce) {
-      console.log("finishnavcommand");
+     // console.log("finishnavcommand");
       console.log("prefixmsg",prefixMsg);
       cvox.ChromeVox.navigationManager.finishNavCommand(prefixMsg);
       
