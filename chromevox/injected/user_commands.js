@@ -511,6 +511,10 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
                 var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
                 found = cvox.ChromeVox.navigationManager.previouslimitfindnode(currentNode);
               }
+              else if (cmdStruct.findNext=='pfrac'){
+                var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
+                found = cvox.ChromeVox.navigationManager.previousfracfindnode(currentNode);
+              }
              else if(cmdStruct.findNext=='limit'){
                 var currentNode = cvox.ChromeVox.navigationManager.getCurrentNode();
                 var ancestors =  cvox.DomUtil.getAncestors(currentNode);
@@ -543,6 +547,7 @@ cvox.ChromeVoxUserCommands.doCommand_ = function(cmdStruct) {
                               if (!found) {
                                 prefixMsg = error;
                                 cvox.ChromeVox.navigationManager.restoreSel();
+                                
                               }
                             }
                           }

@@ -56,7 +56,7 @@ cvox.NavigationManager = function() {
   this.nodestack = [];
   this.nodestacklimit = [];
   this.positionlimit = -1;
-  this.position = 0;
+  this.position = -1;
   this.reset();
 };
 
@@ -373,7 +373,7 @@ cvox.NavigationManager.prototype.findNext = function(
   //console.log(predicate);
 
   if( opt_predicateName =='mathPredicate'){
-    this.position = 0;
+    this.position = -1;
     this.positionlimit = -1;
   }
   var ret = cvox.FindUtil.findNext(this.curSel_, predicate, opt_initialNode);
@@ -1310,10 +1310,16 @@ cvox.NavigationManager.prototype.walktreefrac = function(node){
        }  
       }
   }
+  
     if(this.nodestack.length >0){
-      nodefound = this.nodestack[this.position];
-      cursor = cvox.CursorSelection.fromNode(nodefound);
-      this.position+=1;    }
+
+      if(this.nodestack[this.position+1]){
+        this.position+=1;
+        nodefound = this.nodestack[this.position];
+        cursor = cvox.CursorSelection.fromNode(nodefound);
+       
+      }
+        }
     else{
       nodefound = null;
     }
@@ -1442,6 +1448,52 @@ cvox.NavigationManager.prototype.walktreelimit = function(node){
       else{
         nodefound = null;
       }
+     
+    if (!this.ignoreIframesNoMatterWhat_) {
+  
+      this.tryIframe_(cursor&& cursor.start.node);
+    }
+    if(cursor){
+      this.curSel_ = cursor;
+      this.updateSelToArbitraryNode(cursor.start.node,true);
+    }
+    return cursor;
+  }
+  cvox.NavigationManager.prototype.previousfracfindnode = function(node){
+    
+    
+    node = this.findrootnode(node);
+    
+    var walker=document.createTreeWalker(node, NodeFilter.SHOW_ELEMENT, null, false);
+    var cursor = null;
+    var nodefound=null;
+    
+  
+    
+    if(this.nodestack.length ==0){
+      while(walker.nextNode()){
+        
+          if (cvox.DomUtil.isFrac(walker.currentNode)) {
+            this.nodestack.push(walker.currentNode);
+         }  
+        }
+    }
+    console.log("nodestack.lenght ------->:",this.nodestack.length); 
+    if(this.nodestack.length >0){
+      
+      if(this.position>0){
+        this.position = this.position - 1;
+        nodefound = this.nodestack[this.position];
+        cursor = cvox.CursorSelection.fromNode(nodefound);
+      }
+      
+      
+        }
+    else{
+      nodefound = null;
+    }
+   
+     
      
     if (!this.ignoreIframesNoMatterWhat_) {
   
